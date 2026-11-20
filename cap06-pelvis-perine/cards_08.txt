@@ -1,0 +1,26 @@
+# 08 Triángulo urogenital masculino
+um01|C|08|La uretra esponjosa se ensancha en el bulbo ({{c1::fosa intrabulbar}}) y en el glande ({{c2::fosa navicular}}); en ella desembocan las glándulas uretrales ({{c3::de Littré}}).||uretra
+um02|C|08|La parte más estrecha y menos distensible de la uretra es el {{c1::orificio uretral externo}}: si una sonda pasa por él, normalmente pasa por el resto.|La uretra esponjosa admite instrumentos de ~8 mm.|uretra clinica
+um03|C|08|En el sondaje, el segmento más vulnerable a la rotura es el corto tramo {{c1::sin protección justo distal a la membrana perineal}}, por el ángulo de entrada a la uretra intermedia.||uretra clinica
+um04|C|08|Linfa uretral: porción intermedia → ilíacos {{c1::internos}}; porción esponjosa → inguinales {{c2::profundos}}.||uretra linfa
+um05|C|08|Escroto anterior: arterias escrotales anteriores (de la {{c1::pudenda externa}}); nervios {{c2::escrotales anteriores (ilioinguinal) y ramo genital del genitofemoral}} → plexo {{c3::lumbar}}.||escroto
+um06|C|08|Escroto posterior: arterias escrotales posteriores (de la {{c1::pudenda interna}}); nervios {{c2::escrotales posteriores (pudendo) y ramo perineal del cutáneo femoral posterior}} → plexo {{c3::sacro}}.||escroto
+um07|C|08|Termorregulación testicular: con frío el simpático {{c1::contrae el dartos}}; con calor estimula las {{c2::glándulas sudoríparas}} e inhibe el dartos.||escroto autonomo
+um08|C|08|Linfa del escroto → inguinales {{c1::superficiales}}. Linfa del testículo → nódulos {{c2::lumbares (cava/aórticos)}}.||escroto linfa
+um09|C|08|El pene tiene dos cuerpos {{c1::cavernosos}} dorsales y un cuerpo {{c2::esponjoso}} ventral, que contiene la uretra y se expande en el {{c3::glande}}.||pene
+um10|C|08|Cada cuerpo cavernoso está envuelto por la {{c1::túnica albugínea}}; los tres cuerpos los une la fascia profunda del pene ({{c2::de Buck}}).||pene
+um11|C|08|La raíz del pene la forman los {{c1::pilares}}, el {{c2::bulbo}} y los músculos isquiocavernoso y bulboesponjoso; está en el espacio perineal {{c3::superficial}}.||pene
+um12|C|08|Ligamento {{c1::suspensorio}} del pene: fascia profunda desde la sínfisis, fibras cortas y tensas. Ligamento {{c2::fundiforme}}: subcutáneo desde la línea alba, más superficial y laxo.||pene
+um13|C|08|Ramas de la pudenda interna para el pene: arterias {{c1::dorsales}} (tejido fibroso, piel, glande), {{c2::profundas}} (tejido eréctil cavernoso) y del {{c3::bulbo}} (cuerpo esponjoso posterior y glándula bulbouretral).||pene arterias
+um14|C|08|Las arterias profundas del pene dan las arterias {{c1::helicinas}}, que están {{c2::enrolladas}} en flaccidez y se enderezan en la erección.||pene arterias
+um15|C|08|Vena dorsal {{c1::profunda}} del pene: drena los cuerpos eréctiles al plexo venoso {{c2::prostático}}. Vena dorsal {{c3::superficial}}: drena la piel a la {{c4::pudenda externa superficial}}.||pene venas
+um16|C|08|Sensibilidad del pene: nervio {{c1::dorsal del pene}} (pudendo). Arterias helicinas: nervios {{c2::cavernosos}} (parasimpáticos del plexo prostático).||pene nervios
+um17|C|08|Linfa del glande → inguinales {{c1::profundos}}; piel del pene → inguinales {{c2::superficiales}}; cuerpos cavernosos → ilíacos {{c3::internos}}.||pene linfa
+um18|C|08|El {{c1::bulboesponjoso}} vacía la uretra esponjosa de las últimas gotas de orina/semen; el {{c2::isquiocavernoso}} abraza los pilares y mantiene la erección.|Ambos: ramo muscular (profundo) del nervio perineal, del pudendo (S2-S4).|musculos
+um19|C|08|Los músculos perineales están más desarrollados en el {{c1::hombre}} por su papel en la {{c2::erección y la expulsión de orina/semen}}.||musculos
+um20|C|08|El esfínter externo de la uretra masculino tiene forma de {{c1::canal vertical}} que asciende por la cara anterior de la próstata; lo inerva el nervio {{c2::dorsal del pene}}.||musculos
+um21|C|08|Erección: {{c1::parasimpático (S2-S4, nervios cavernosos)}}. Polución: {{c2::simpático (L1-L2)}}. Remisión: {{c3::simpático}} (constriñe las arterias helicinas).|Mnemotecnia: «Point and Shoot» (Parasimpático erección, Simpático emisión).|autonomo pene
+um22|C|08|Eyaculación: cierre del esfínter interno ({{c1::simpático}}), contracción del músculo uretral ({{c2::parasimpático}}) y del bulboesponjoso ({{c3::nervio pudendo}}).||autonomo pene
+um23|C|08|El {{c1::hipospadias}} (~1/300 recién nacidos) se debe a la falta de fusión de los {{c2::pliegues urogenitales}}; la forma más frecuente es la del {{c3::glande}}.||pene clinica
+um24|C|08|{{c1::Fimosis}}: el prepucio no se puede retraer. {{c2::Parafimosis}}: el prepucio retraído comprime el cuello del glande y no puede volver.||pene clinica
+um25|C|08|Aproximadamente la mitad de los cánceres testiculares aparecen entre los {{c1::20 y 34}} años; el testículo {{c2::izquierdo}} suele estar más bajo.||escroto clinica

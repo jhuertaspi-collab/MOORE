@@ -1,0 +1,19 @@
+# 06 Vagina, anestesia obstétrica, clínica y linfa
+gf30|C|06|La vagina mide {{c1::7-9 cm}}; la porción {{c2::posterior}} del fórnix es la más profunda y se relaciona con el fondo de saco rectouterino.||vagina
+gf31|C|06|Músculos que comprimen la vagina: {{c1::pubovaginal}}, {{c2::esfínter externo de la uretra}}, {{c3::esfínter uretrovaginal}} y {{c4::bulboesponjoso}}.||vagina musculos
+gf32|C|06|Irrigación vaginal: porción superior por las arterias {{c1::uterinas}}; media e inferior por las {{c2::vaginales y la pudenda interna}}.||vagina
+gf33|C|06|Solo el {{c1::1/5-1/4 inferior}} de la vagina tiene inervación somática (nervio {{c2::perineal profundo}}, del pudendo) y es sensible al tacto y la temperatura; el resto es visceral (plexo {{c3::uterovaginal}}).||vagina inervacion
+gf34|C|06|En el parto, la distensión lateral de la vagina la limitan las {{c1::espinas isquiáticas y los ligamentos sacroespinosos}}; por eso los hombros fetales giran al plano {{c2::anteroposterior}}.||vagina obstetricia
+gf35|C|06|En la exploración vaginal pueden palparse las pulsaciones de las arterias {{c1::uterinas}} a través del fórnix {{c2::lateral}}.||vagina clinica
+gf36|C|06|La {{c1::culdocentesis}} drena o aspira el fondo de saco rectouterino a través del fórnix vaginal {{c2::posterior}}.||vagina clinica
+gf37|C|06|Fístula {{c1::vesicovaginal o ureterovaginal}}: salida continua de orina por la vagina. Fístula {{c2::uretrovaginal}}: solo durante la micción.||vagina clinica
+gf38|C|06|Anestesia epidural en el parto: catéter a nivel {{c1::L3-L4}}; anestesia el {{c2::canal del parto, piso pélvico y periné}}, pero la madre sigue percibiendo las {{c3::contracciones uterinas}}.|Las aferencias del cuerpo uterino entran a niveles T-L superiores, no bloqueados.|clinica anestesia
+gf39|C|06|Anestesia espinal: anestésico en el espacio {{c1::subaracnoideo}}; anestesia completa {{c2::por debajo de la cintura}} (incluye miembros inferiores y contracciones). Secuela típica: {{c3::cefalea por pérdida de LCE}} (parche hemático).||clinica anestesia
+gf40|C|06|El bloqueo del nervio pudendo anestesia los dermatomas {{c1::S2-S4}} y el {{c2::cuarto inferior de la vagina}}, pero {{c3::no el cuello ni la vagina superior}}.||clinica anestesia
+gf41|C|06|Cribado de cáncer cervical: 21-29 años, {{c1::citología cada 3 años}}; 30-65 años, {{c2::citología + VPH cada 5 años}}.||utero clinica
+gf42|C|06|El cáncer de cuello uterino invade por contigüidad la {{c1::vejiga}} porque no hay {{c2::peritoneo}} entre el cuello anterior y la base vesical.||utero clinica
+gf43|C|06|En la histerectomía, la arteria uterina se liga {{c1::distal a la arteria vaginal}} para conservar el riego de la cúpula vaginal.||utero clinica cirugia
+gf44|C|06|Linfa uterina: fondo y cuerpo superior → {{c1::lumbares (cava/aórticos)}}; zona del ligamento redondo → {{c2::inguinales superficiales}}; mayor parte del cuerpo → {{c3::ilíacos externos}}.||linfa utero
+gf45|C|06|Linfa del cuello uterino: → ilíacos {{c1::internos}} (ligamentos cardinales), {{c2::sacros}} (ligamentos uterosacros) y algunos a ilíacos externos.||linfa utero
+gf46|C|06|Linfa vaginal: superior → {{c1::ilíacos internos y externos}}; media → {{c2::ilíacos internos}}; inferior → {{c3::sacros e ilíacos comunes}}; orificio → {{c4::inguinales superficiales}}.||linfa vagina
+gf47|C|06|La linfa de ovarios, tubas y fondo uterino sigue a las venas ováricas hasta los nódulos {{c1::lumbares (cava/aórticos)}}.||linfa ovario

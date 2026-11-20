@@ -1,0 +1,22 @@
+# 07 Periné: límites, fascias, espacios, fosa isquioanal
+pa01|C|07|Límites del periné: anterior {{c1::sínfisis del pubis}}; anterolateral {{c2::ramas isquiopubianas}}; lateral {{c3::tuberosidades isquiáticas}}; posterolateral {{c4::ligamentos sacrotuberosos}}; posterior sacro inferior y cóccix.||perine
+pa02|C|07|Una línea entre las {{c1::tuberosidades isquiáticas}} divide el periné en triángulo {{c2::urogenital}} (anterior) y triángulo {{c2::anal}} (posterior).||perine
+pa03|C|07|El triángulo urogenital lo cierra la {{c1::membrana perineal}}, tensa entre ambas ramas del arco del pubis y atravesada por la uretra (y la vagina).||perine
+pa04|C|07|En el {{c1::cuerpo perineal}} convergen el bulboesponjoso, el {{c2::esfínter externo del ano}}, los {{c3::transversos superficial y profundo del periné}} y fibras del esfínter externo de la uretra, elevador del ano y musculatura del recto.||perine
+pa05|C|07|El cuerpo perineal y la membrana perineal son el {{c1::soporte pasivo final}} de las vísceras pélvicas; el cuerpo perineal es lo que se secciona en la episiotomía {{c2::media}}.||perine clinica
+pa06|C|07|La fascia perineal superficial ({{c1::de Colles}}) es la capa membranosa del subcutáneo; se continúa con la fascia de {{c2::Scarpa}} y, en el hombre, con la túnica {{c3::dartos}}.||perine fascia
+pa07|C|07|La capa adiposa subcutánea del periné forma en la mujer el {{c1::monte del pubis y los labios mayores}}; en el hombre se sustituye por {{c2::músculo liso dartos}} en pene y escroto.||perine fascia
+pa08|C|07|La fascia de Colles {{c1::no se extiende}} al triángulo anal: se fija al {{c2::borde posterior de la membrana perineal}} y lateralmente a la {{c3::fascia lata}}.||perine fascia
+pa09|C|07|La fascia perineal profunda ({{c1::de Gallaudet}}) recubre los músculos {{c2::isquiocavernoso, bulboesponjoso y transverso superficial}}.||perine fascia
+pa10|C|07|Espacio perineal superficial: entre la {{c1::fascia de Colles}} y la {{c2::membrana perineal}}. Espacio profundo: entre la membrana perineal y la {{c3::fascia inferior del diafragma pélvico}}.||perine espacios
+pa11|C|07|Espacio perineal superficial ♂: {{c1::raíz del pene}} con isquiocavernosos y bulboesponjoso, {{c2::uretra esponjosa proximal}}, {{c3::transversos superficiales}} y ramos perineales profundos de vasos y nervios pudendos.||perine espacios
+pa12|C|07|Espacio perineal superficial ♀: {{c1::clítoris}} con isquiocavernosos, {{c2::bulbos del vestíbulo}} con bulboesponjoso, {{c3::glándulas vestibulares mayores}} y transversos superficiales.||perine espacios
+pa13|C|07|Espacio perineal profundo ♂: {{c1::uretra intermedia}}, porción inferior del {{c2::esfínter externo de la uretra}}, {{c3::transversos profundos}}, {{c4::glándulas bulbouretrales}}, paquete dorsal del pene y recesos anteriores de las fosas isquioanales.||perine espacios
+pa14|C|07|El «{{c1::diafragma urogenital}}» plano y trilaminar es un concepto {{c2::erróneo}}: el esfínter externo de la uretra es tubular y no existe una fascia superior propia.||perine
+pa15|C|07|En la mujer, el lugar del transverso profundo del periné suele ocuparlo {{c1::músculo liso}}.||perine
+pa16|C|07|Fosa isquioanal: lateral {{c1::isquion y obturador interno}}; medial {{c2::esfínter externo del ano}} con techo del {{c3::elevador del ano}}; posterior {{c4::ligamento sacrotuberoso y glúteo mayor}}.|Anteriormente se prolonga sobre la membrana perineal (recesos anteriores).|isquioanal
+pa17|C|07|Las fosas isquioanales se comunican por el espacio {{c1::postanal profundo}}, por eso un absceso puede hacerse {{c2::en herradura}}.||isquioanal clinica
+pa18|C|07|Los cuerpos adiposos isquioanales los atraviesan los {{c1::vasos y nervios rectales inferiores}}, el ramo {{c2::perforante de S2-S3}} y el ramo {{c3::perineal de S4}}.||isquioanal
+pa19|C|07|El conducto pudendo ({{c1::de Alcock}}) es un desdoblamiento de la fascia {{c2::obturatriz}} en la pared lateral de la fosa isquioanal; lleva vasos pudendos internos, nervio pudendo y nervio del {{c3::obturador interno}}.||isquioanal pudendo
+pa20|C|07|Ramas del nervio pudendo: {{c1::rectal (anal) inferior}}, {{c2::perineal}} (superficial y profundo) y {{c3::dorsal del pene/clítoris}}.||pudendo nervios
+pa21|C|07|El nervio perineal {{c1::superficial}} da los nervios escrotales/labiales posteriores; el {{c2::profundo}} inerva los músculos perineales, la piel del vestíbulo y la mucosa de la vagina inferior.||pudendo nervios

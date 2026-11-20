@@ -1,0 +1,27 @@
+# 02 Paredes, piso, peritoneo y fascia
+pp01|C|02|El {{c1::obturador interno}} tapiza la pared lateral de la pelvis y sale por el foramen isquiático {{c2::menor}} hasta el trocánter mayor.||musculos
+pp02|C|02|La inserción del diafragma pélvico en la fascia obturatriz divide el obturador interno en una porción {{c1::pélvica}} superior y una porción {{c2::perineal}} inferior.||musculos
+pp03|C|02|El {{c1::piriforme}} sale por el foramen isquiático {{c2::mayor}} y forma la pared posterolateral; el {{c3::plexo sacro}} está inmediatamente anteromedial a él.||musculos
+pp04|C|02|Diafragma pélvico = músculos {{c1::elevador del ano}} + {{c2::coccígeo}} + sus fascias.||musculos
+pp05|C|02|Porciones del elevador del ano de medial a lateral: {{c1::puborrectal}}, {{c2::pubococcígeo}}, {{c3::iliococcígeo}}.||musculos
+pp06|C|02|El {{c1::puborrectal}} forma un asa en U {{c2::posterior a la unión anorrectal}}, mantiene el ángulo anorrectal (~80°) y es clave en la {{c3::continencia fecal}}.||musculos
+pp07|C|02|El elevador del ano se inserta en el pubis, la espina isquiática y el {{c1::arco tendinoso del músculo elevador del ano}} (engrosamiento de la fascia {{c2::obturatriz}}).||musculos
+pp08|C|02|El {{c1::hiato urogenital}} es la hendidura anterior entre ambos elevadores del ano; deja pasar la {{c2::uretra}} y, en la mujer, la {{c2::vagina}}.||musculos
+pp09|C|02|Las fibras mediales de los pubococcígeos forman entre ano y cóccix el {{c1::ligamento anococcígeo}}, llamado en clínica «{{c2::placa del elevador}}».||musculos
+pp10|C|02|Inervación del elevador del ano: nervio para el elevador del ano ({{c1::S4}}), nervio {{c2::anal (rectal) inferior}} y plexo {{c3::coccígeo}}.||musculos inervacion
+pp11|C|02|Inervación: piriforme {{c1::S1-S2}}; coccígeo {{c2::S4-S5}}.||musculos inervacion
+pp12|C|02|El elevador del ano se {{c1::contrae}} al toser, estornudar o levantar peso (sostiene vísceras con ↑ presión intraabdominal) y debe {{c2::relajarse}} para la micción y la defecación.||musculos
+pp13|C|02|Las porciones del elevador del ano que más se desgarran en el parto son {{c1::pubococcígeo y puborrectal}}.|Consecuencias: incontinencia urinaria de esfuerzo, prolapso, incontinencia fecal.|musculos clinica
+pp14|C|02|El único órgano pélvico intraperitoneal con mesenterio es la {{c1::tuba uterina}}. El ovario cuelga del mesoovario pero {{c2::no está cubierto por peritoneo}} (epitelio germinal cúbico).||peritoneo
+pp15|C|02|Prolongación más inferior de la cavidad peritoneal: ♀ fondo de saco {{c1::rectouterino (de Douglas)}}; ♂ fondo de saco {{c2::rectovesical}}.|Sus extensiones laterales, las fosas pararrectales, suelen ser aún más profundas.|peritoneo
+pp16|C|02|En el hombre el {{c1::pliegue ureteral}} (sobre uréter y conducto deferente) separa las fosas paravesicales y pararrectales; es el equivalente masculino del {{c2::ligamento ancho}}.||peritoneo
+pp17|C|02|Peritoneo del recto: tercio superior en caras {{c1::anterior y laterales}}; tercio medio solo {{c2::anterior}}; tercio inferior {{c3::subperitoneal}}.||peritoneo recto
+pp18|C|02|El nivel de la fosa {{c1::supravesical}} es variable porque el peritoneo sobre la vejiga está unido laxamente y depende de la {{c2::repleción vesical}}.||peritoneo
+pp19|C|02|El {{c1::arco tendinoso de la fascia pélvica}} va del pubis al sacro; su parte anterior es el ligamento {{c2::puboprostático (♂) / pubovesical (♀)}} y la posterior los ligamentos {{c3::sacrogenitales}}.||fascia
+pp20|C|02|El {{c1::paracolpio}} une la fascia vaginal al arco tendinoso de la fascia pélvica; suspende la vagina y sostiene indirectamente la {{c2::vejiga}}.||fascia
+pp21|C|02|Espacios de fascia endopelviana laxa: {{c1::retropúbico (prevesical, de Retzius)}} entre pubis y vejiga, y {{c2::retrorrectal (presacro)}} entre sacro y recto.||fascia
+pp22|C|02|Vaina hipogástrica, lámina anterior: {{c1::ligamento lateral de la vejiga}}, con los vasos {{c2::vesicales superiores}}.||fascia
+pp23|C|02|Vaina hipogástrica, lámina media: en el hombre {{c1::septo rectovesical}}; en la mujer {{c2::ligamento cardinal (cervical transverso)}}, la más fuerte.||fascia
+pp24|C|02|Vaina hipogástrica, lámina posterior: {{c1::ligamento lateral del recto}}, con los vasos {{c2::rectales medios}}; une el recto a la pared en {{c3::S2-S4}}.||fascia
+pp25|C|02|Soporte pasivo del útero: {{c1::ligamentos cardinales}} y su apoyo en {{c2::anteversión-anteflexión sobre la vejiga}}. Soporte dinámico: {{c3::diafragma pélvico}}.||fascia utero
+pp26|C|02|«El agua pasa bajo el puente»: el {{c1::uréter}} pasa inferior a la {{c2::arteria uterina}} en la base del ligamento ancho, ~{{c3::2 cm}} por encima de la espina isquiática.|En realidad la arteria rodea al uréter por encima y por delante. Riesgo de ligarlo en la histerectomía.|fascia clinica cirugia

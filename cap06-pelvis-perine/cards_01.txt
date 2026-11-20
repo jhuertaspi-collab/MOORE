@@ -1,0 +1,33 @@
+# 01 Pelvis ósea y articulaciones   (id|tipo|sección|campo1|campo2|etiquetas)
+os01|C|01|El hueso coxal se forma por la fusión de {{c1::ilion, isquion y pubis}}, unidos antes de la pubertad por el {{c2::cartílago trirradiado}} (en forma de Y) en el {{c3::acetábulo}}.||osea
+os02|C|01|Línea terminal: {{c1::promontorio y ala del sacro}} + {{c2::línea arqueada del ilion}} + {{c3::pecten del pubis}} + {{c4::cresta del pubis}}.|Borde de la apertura superior de la pelvis.|osea
+os03|C|01|El plano de la {{c1::apertura superior}} de la pelvis la divide en pelvis {{c2::mayor (falsa)}}, de contenido abdominal, y pelvis {{c3::menor (verdadera)}}, de relevancia obstétrica.||osea
+os04|C|01|Apertura inferior de la pelvis: anterior {{c1::arco del pubis}}; lateral {{c2::tuberosidades isquiáticas}}; posterolateral {{c3::borde inferior del ligamento sacrotuberoso}}; posterior {{c4::extremo del cóccix}}.||osea
+os05|C|01|La pelvis menor contiene la cavidad pélvica verdadera y las porciones profundas del periné, concretamente las {{c1::fosas isquioanales}}.||osea
+os06|C|01|Posición anatómica de la pelvis: las {{c1::EIAS}} y la {{c2::cara anterior de la sínfisis del pubis}} en el mismo plano {{c3::vertical}}.||osea
+os07|C|01|El arco del pubis lo forman las {{c1::ramas isquiopubianas}}; su anchura (ángulo subpubiano) depende de la distancia entre las {{c2::tuberosidades isquiáticas}}.||osea
+os08|C|01|El eje de la pelvis es {{c1::curvo}}, girando alrededor de la {{c2::sínfisis del pubis}}, porque la pared anterior es mucho más corta que la posterior (sacro y cóccix).|Clave en la mecánica del parto.|osea obstetricia
+os09|C|01|Ángulo subpubiano: ♂ {{c1::estrecho (&lt; 70°)}}; ♀ {{c2::ancho (&gt; 80°)}}.|Truco: dedos índice-medio (♂) vs pulgar-índice (♀).|osea sexo
+os10|C|01|Foramen obturado: ♂ {{c1::redondo}}; ♀ {{c2::oval}}.||osea sexo
+os11|C|01|Apertura superior: ♂ {{c1::en forma de corazón, estrecha}}; ♀ {{c2::oval o redondeada, ancha}}.||osea sexo
+os12|C|01|Pelvis menor: ♂ {{c1::estrecha, profunda y cónica}}; ♀ {{c2::ancha, poco profunda y cilíndrica}}.||osea sexo
+os13|C|01|Incisura isquiática mayor: ♂ {{c1::~70°, V invertida}}; ♀ {{c2::casi 90°}}.||osea sexo
+os14|C|01|Acetábulo: ♂ {{c1::grande}}; ♀ {{c1::pequeño}}. Pelvis mayor: ♂ {{c2::profunda}}; ♀ {{c2::poco profunda}}.||osea sexo
+os15|C|01|La articulación sacroilíaca combina una articulación {{c1::sinovial}} anterior (entre las {{c2::caras auriculares}}) y una {{c3::sindesmosis}} posterior (entre las {{c4::tuberosidades}}).||articulaciones
+os16|C|01|Los principales ligamentos que transfieren el peso del esqueleto axial a los iliones son los {{c1::sacroilíacos interóseos}}.|Ocupan ~10 cm² entre las tuberosidades del sacro y el ilion.|articulaciones
+os17|C|01|El peso pasa del sacro a los iliones y de ahí a los {{c1::fémures}} en bipedestación y a las {{c2::tuberosidades isquiáticas}} en sedestación.||articulaciones
+os18|B|01|¿Por qué el peso axial <b>estabiliza</b> la articulación sacroilíaca en lugar de separarla?|Las fibras interóseas y sacroilíacas posteriores van oblicuas hacia arriba y afuera: al empujar el sacro hacia abajo, tiran de los iliones hacia medial y lo comprimen entre ellos (sacro «suspendido» como un puente colgante, no como piedra angular).|articulaciones mecanismo
+os19|C|01|Los ligamentos {{c1::sacrotuberoso y sacroespinoso}} anclan el sacro inferior al isquion y resisten la rotación {{c2::anteroinferior}} del sacro superior al saltar o levantar peso.||articulaciones mecanismo
+os20|C|01|El ligamento {{c1::sacrotuberoso}} convierte la incisura isquiática en foramen; el {{c2::sacroespinoso}} lo divide en forámenes isquiáticos mayor y menor.||articulaciones
+os21|C|01|La sínfisis del pubis es una articulación {{c1::cartilaginosa secundaria}} con disco {{c2::interpúbico}} (más ancho en la mujer), reforzada por los ligamentos superior e {{c3::inferior (arqueado)}} del pubis.||articulaciones
+os22|C|01|L5 no se desliza hacia delante sobre el sacro porque las caras articulares de {{c1::S1}} (orientadas posteromedialmente) encajan con las de L5; refuerzan los ligamentos {{c2::iliolumbares}}.||articulaciones mecanismo
+os23|C|01|La articulación sacrococcígea es {{c1::cartilaginosa secundaria}}, con disco intervertebral.||articulaciones
+os24|C|01|Tipo de pelvis femenina normal: {{c1::ginecoide}}. En la mujer, una pelvis {{c2::androide o platipeloide}} supone riesgo en el parto vaginal.||osea clinica
+os25|C|01|Conjugado verdadero (obstétrico): del {{c1::promontorio del sacro}} al {{c2::borde posterosuperior de la sínfisis}}; es la distancia {{c3::fija}} más estrecha del canal del parto y debe medir ≥ {{c4::11 cm}}.||osea clinica obstetricia
+os26|C|01|El conjugado verdadero se estima midiendo el conjugado {{c1::diagonal}} (promontorio → borde {{c2::inferior}} de la sínfisis) y restando ~{{c3::1,5 cm}}.|No se mide directamente porque la vejiga lo impide.|osea clinica obstetricia
+os27|C|01|La parte más estrecha del conducto pélvico suele ser la distancia {{c1::interespinosa}}, que {{c2::no es fija}}. Si caben {{c3::tres dedos}} entre las espinas isquiáticas, el ángulo subpubiano permite pasar una cabeza fetal media.||osea clinica obstetricia
+os28|C|01|En el embarazo la {{c1::relaxina}} aumenta los diámetros pélvicos un {{c2::10-15 %}} (sobre todo el transverso); el único que no cambia es el {{c3::conjugado verdadero}}.||osea clinica obstetricia
+os29|C|01|Zonas débiles de la pelvis donde ocurren fracturas: {{c1::ramas del pubis}}, {{c2::acetábulos}}, {{c3::región sacroilíaca}} y {{c4::alas del ilion}}.||osea clinica trauma
+os30|C|01|Las fracturas del anillo pélvico casi siempre son {{c1::múltiples o fractura + luxación}} (como romper una rosquilla); las puboobturatrices pueden lesionar {{c2::vejiga y uretra}}.||osea clinica trauma
+os31|C|01|En menores de {{c1::17}} años el acetábulo puede fracturarse a lo largo del {{c2::cartílago trirradiado}}.||osea clinica trauma
+os32|C|01|La {{c1::espondilólisis}} bilateral de L5 permite la {{c2::espondilolistesis}} (L5 se desliza anterior sobre el sacro), que reduce el diámetro {{c3::anteroposterior}} de la apertura superior.|Se sospecha por un proceso espinoso de L5 prominente; se confirma con RM sagital.|osea clinica

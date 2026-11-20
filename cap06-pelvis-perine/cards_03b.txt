@@ -1,0 +1,20 @@
+# 03 Neurovascular: nervios y autónomo
+nv30|C|03|El nervio obturador ({{c1::L2-L4}}) {{c2::no inerva}} estructuras pélvicas; sale por el conducto obturador hacia los aductores del muslo.||nervios
+nv31|C|03|Tronco lumbosacro = ramos anteriores de {{c1::L4 + L5}}; desciende sobre el ala del sacro para unirse al {{c2::plexo sacro}}.||nervios
+nv32|C|03|Raíces: nervio isquiático {{c1::L4-S3}}; nervio pudendo {{c2::S2-S4}}; nervios esplácnicos pélvicos {{c3::S2-S4}}.||nervios
+nv33|C|03|Nervio glúteo superior ({{c1::L4-S1}}, sale por encima del piriforme): glúteo medio, menor y {{c2::tensor de la fascia lata}}. Glúteo inferior ({{c3::L5-S2}}, por debajo): {{c4::glúteo mayor}}.||nervios
+nv34|C|03|La mayoría de los ramos del plexo sacro salen de la pelvis por el foramen isquiático {{c1::mayor}}; el isquiático y el pudendo están {{c2::externos}} a la fascia pélvica parietal.||nervios
+nv35|C|03|El nervio {{c1::pudendo}} es el principal nervio del periné y el principal nervio {{c2::sensitivo}} de los genitales externos.||nervios perine
+nv36|C|03|Plexo coccígeo: ramos anteriores de {{c1::S4-S5}} + nervios coccígeos; sus nervios {{c2::anococcígeos}} inervan la piel entre cóccix y ano.||nervios
+nv37|C|03|Vías autónomas pélvicas: troncos simpáticos sacros (sobre todo {{c1::miembro inferior}}), plexos periarteriales ({{c2::vasomotores}}), plexos {{c3::hipogástricos}} (vía simpática principal a vísceras) y nervios {{c4::esplácnicos pélvicos}} (parasimpáticos).||autonomo
+nv38|C|03|Los troncos simpáticos sacros convergen anteriores al cóccix en el {{c1::ganglio impar}}.||autonomo
+nv39|C|03|El plexo hipogástrico superior continúa al plexo {{c1::intermesentérico}}, está inferior a la {{c2::bifurcación aórtica}} y se divide en los {{c3::nervios hipogástricos}}.||autonomo
+nv40|C|03|Plexo hipogástrico inferior = nervios {{c1::hipogástricos}} (simpáticos) + nervios {{c2::esplácnicos pélvicos}} (parasimpáticos) + aferentes viscerales; sus extensiones a cada órgano son los plexos {{c3::pélvicos}}.||autonomo
+nv41|C|03|Los nervios esplácnicos {{c1::pélvicos}} son los únicos nervios esplácnicos {{c2::parasimpáticos}}; los esplácnicos lumbares/torácicos son simpáticos.|Mayor contribución: S3. También inervan colon descendente y sigmoideo.|autonomo
+nv42|C|03|Simpático en la pelvis: {{c1::vasomotor}}, {{c2::inhibe el peristaltismo rectal}} y contrae los genitales internos en el orgasmo ({{c3::eyaculación}}). No es pilomotor ni sudomotor porque la pelvis {{c4::no tiene piel}}.||autonomo
+nv43|C|03|Parasimpático en la pelvis: contrae {{c1::recto y vejiga}} (defecación, micción) y produce la {{c2::erección}}.||autonomo
+nv44|C|03|La línea de dolor de la pelvis coincide con el {{c1::límite inferior del peritoneo}}, salvo en el intestino grueso, donde está en la {{c2::mitad del colon sigmoideo}}.||autonomo dolor
+nv45|C|03|Dolor visceral por <b>encima</b> de la línea de dolor pélvico: viaja con fibras {{c1::simpáticas}} a ganglios {{c2::torácicos inferiores y lumbares superiores}}.||autonomo dolor
+nv46|C|03|Dolor visceral por <b>debajo</b> de la línea de dolor pélvico: viaja con fibras {{c1::parasimpáticas}} a ganglios {{c2::S2-S4}}.||autonomo dolor
+nv47|C|03|Todas las aferencias viscerales <b>reflejas</b> (inconscientes) de la pelvis viajan con fibras {{c1::parasimpáticas}} a {{c2::S2-S4}}, estén por encima o por debajo de la línea de dolor.||autonomo dolor
+nv48|C|03|Disecando desde la cavidad hacia la pared: plexos autónomos → {{c1::arterias}} → {{c2::venas}} → {{c3::nervios somáticos}}.||neurovascular
