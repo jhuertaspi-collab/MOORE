@@ -1,0 +1,21 @@
+# 05 Genitales internos masculinos
+gm01|C|05|El conducto deferente empieza en la {{c1::cola del epidídimo}}, cruza {{c2::por encima}} del uréter, se dilata en la {{c3::ampolla}} y se une al conducto de la vesícula seminal para formar el {{c4::conducto eyaculador}}.||deferente
+gm02|C|05|En la pelvis, el conducto deferente está en contacto directo con el {{c1::peritoneo}}, sin estructuras interpuestas.||deferente
+gm03|C|05|La arteria del conducto deferente suele nacer de una {{c1::vesical superior}} (a veces inferior) y se anastomosa con la arteria {{c2::testicular}}.||deferente
+gm04|C|05|Las vesículas seminales {{c1::no almacenan espermatozoides}}; secretan líquido alcalino con {{c2::fructosa}} y un agente {{c3::coagulante}}.||vesiculas
+gm05|C|05|Arterias de las vesículas seminales: {{c1::vesical inferior}} y {{c2::rectal media}}.||vesiculas
+gm06|C|05|Los conductos eyaculadores (~2,5 cm) atraviesan la próstata y desembocan en el {{c1::colículo seminal}}; las secreciones prostáticas se añaden {{c2::después}}, en la uretra prostática.||prostata
+gm07|C|05|La próstata es ~{{c1::2/3 glandular y 1/3 fibromuscular}}; su cápsula fibrosa incorpora los plexos {{c2::nervioso y venoso prostáticos}}.||prostata
+gm08|C|05|El {{c1::istmo}} prostático (antiguo lóbulo anterior), anterior a la uretra, es {{c2::fibromuscular}} y continúa el esfínter externo de la uretra hacia el cuello vesical.||prostata
+gm09|C|05|El lobulillo prostático {{c1::inferoposterior}} (posterior a la uretra, inferior a los conductos eyaculadores) es el que se palpa en el {{c2::tacto rectal}}.||prostata clinica
+gm10|C|05|El lóbulo {{c1::medio}} embrionario (entre uretra y conductos eyaculadores; ≈ zona {{c2::central}} ecográfica) es el que más crece en la HPB y obstruye el {{c3::orificio uretral interno}}.||prostata clinica
+gm11|C|05|El líquido prostático aporta ~{{c1::20 %}} del semen y participa en la {{c2::activación}} de los espermatozoides.||prostata
+gm12|C|05|La próstata se irriga sobre todo por las arterias {{c1::vesicales inferiores}}; su plexo venoso drena en las {{c2::ilíacas internas}} y comunica con el plexo {{c3::vertebral interno}}.||prostata
+gm13|C|05|HPB: {{c1::nicturia}}, {{c2::disuria}} y {{c3::urgencia}}; aumenta el riesgo de cistitis y daño renal.||prostata clinica
+gm14|C|05|Cáncer de próstata al tacto rectal: {{c1::duro e irregular}}. Metástasis linfáticas a nódulos {{c2::ilíacos y sacros}}; venosas por el plexo {{c3::vertebral interno}} (vértebras, cerebro).||prostata clinica
+gm15|C|05|La prostatectomía radical extirpa {{c1::próstata, vesículas seminales, conductos eyaculadores y porción terminal de los deferentes}}; las técnicas modernas intentan preservar los {{c2::nervios cavernosos}} para mantener la erección.||prostata clinica cirugia
+gm16|C|05|Las glándulas {{c1::bulbouretrales (de Cowper)}} están embebidas en el {{c2::esfínter externo de la uretra}} y desembocan en la uretra {{c3::esponjosa proximal (bulbo)}}.|Secretan moco durante la excitación sexual.|bulbouretrales
+gm17|C|05|Simpático de los genitales internos masculinos: {{c1::T12-L2 (L3)}} → eyaculación (contracción del esfínter interno, peristalsis del deferente, secreción de vesículas y próstata).||autonomo
+gm18|C|05|Las fibras parasimpáticas del plexo {{c1::prostático}} forman los nervios {{c2::cavernosos}}, que producen la {{c3::erección}}.||autonomo
+gm19|C|05|Linfa masculina: conducto deferente, eyaculadores y vesículas inferiores → ilíacos {{c1::externos}}; vesículas superiores y próstata → ilíacos {{c2::internos}} (y sacros).||linfa
+gm20|C|05|En la vasectomía se liga/extirpa parte del conducto deferente por una incisión en la {{c1::parte superior del escroto}}; el eyaculado sigue teniendo secreciones pero {{c2::no espermatozoides}}.||deferente clinica

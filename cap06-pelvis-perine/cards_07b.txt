@@ -1,0 +1,18 @@
+# 07 Conducto anal, línea pectínea y clínica perineal
+pa30|C|07|El conducto anal mide {{c1::2,5-3,5 cm}} y empieza donde la ampolla rectal se estrecha a la altura del asa del {{c2::puborrectal}}.||anal
+pa31|C|07|Esfínter {{c1::interno}} del ano: involuntario, {{c2::2/3 superiores}} del conducto; su tono lo mantiene el {{c3::simpático}} y lo inhibe el {{c4::parasimpático}}.||anal
+pa32|C|07|Esfínter {{c1::externo}} del ano: voluntario, {{c2::2/3 inferiores}}; porciones subcutánea, superficial y profunda; inervado sobre todo por {{c3::S4 vía nervio rectal inferior}}.|Su porción profunda también recibe el nervio del elevador y se contrae junto al puborrectal.|anal
+pa33|C|07|Las {{c1::columnas anales}} (con ramas terminales de los vasos rectales superiores) se unen abajo por las {{c2::válvulas anales}}; sobre ellas están los {{c3::senos anales}}, que secretan moco. El borde de las válvulas es la {{c4::línea pectínea}}.||anal
+pa34|C|07|Origen embrionario: conducto anal sobre la línea pectínea → {{c1::intestino posterior (visceral)}}; bajo la línea → {{c2::proctodeo (somático)}}.||anal pectinea
+pa35|C|07|Arteria del conducto anal: sobre la línea pectínea, {{c1::rectal superior}}; bajo la línea, {{c2::rectales inferiores}}.||anal pectinea
+pa36|C|07|Drenaje venoso del conducto anal: sobre la línea pectínea, vena {{c1::rectal superior → porta}}; bajo la línea, venas {{c2::rectales inferiores → cava}}.||anal pectinea
+pa37|C|07|Linfa del conducto anal: sobre la línea pectínea → ilíacos {{c1::internos}}; bajo la línea → inguinales {{c2::superficiales}}.||anal pectinea linfa
+pa38|C|07|Inervación del conducto anal: sobre la línea pectínea, {{c1::visceral}} (solo sensible al estiramiento, {{c2::indolora}}); bajo la línea, {{c3::somática}} (nervio rectal inferior, {{c4::sensible al dolor}}).||anal pectinea dolor
+pa39|C|07|Las almohadillas anales están en posición {{c1::lateral izquierda, anterolateral derecha y posterolateral derecha}}.||anal
+pa40|C|07|Hemorroides {{c1::internas}}: prolapso de almohadillas anales (plexo rectal interno), {{c2::indoloras}}, sangre roja brillante. Hemorroides {{c3::externas}}: trombosis del plexo rectal externo, {{c4::dolorosas}}.||anal clinica
+pa41|C|07|Las venas de los plexos rectales son {{c1::normalmente varicosas}}, incluso en recién nacidos, y la mayoría de las hemorroides internas aparecen {{c2::sin hipertensión portal}}.||anal clinica
+pa42|C|07|La fisura anal suele estar en la {{c1::línea media posterior}}, bajo las válvulas anales, y duele porque la inervan los nervios {{c2::rectales inferiores}}.||anal clinica
+pa43|C|07|Una {{c1::fístula anal}} conecta el conducto anal con un absceso isquioanal o la piel perianal; suele seguir a una {{c2::criptitis}} (inflamación de un seno anal).||anal clinica
+pa44|C|07|Prolapsos: {{c1::uretrocele}} (vaginal anterior inferior); {{c2::cistocele}} (vaginal anterior, vejiga); {{c3::rectocele}} (vaginal posterior inferior); {{c4::enterocele}} (vaginal posterior superior).||perine clinica prolapso
+pa45|C|07|La episiotomía {{c1::mediolateral}} produce menos laceraciones graves y lesiones del esfínter anal que la {{c2::media}}.||perine clinica
+pa46|C|07|Los cuerpos adiposos isquioanales son de las últimas reservas grasas en perderse; en la {{c1::emaciación}} su falta favorece el {{c2::prolapso rectal}}.||isquioanal clinica

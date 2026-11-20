@@ -1,0 +1,26 @@
+# 06 Ovario, tuba y útero
+gf01|C|06|El ovario cuelga del {{c1::mesoovario}} (parte del ligamento ancho), recibe sus vasos por el ligamento {{c2::suspensorio del ovario}} y se une al útero por el ligamento {{c3::propio del ovario}}.||ovario
+gf02|C|06|El ligamento propio del ovario y el ligamento redondo del útero son restos del {{c1::gubernáculo ovárico}}.||ovario ligamentos
+gf03|C|06|Porciones de la tuba uterina (lateral → medial): {{c1::infundíbulo}} (con franjas) → {{c2::ampolla}} (fecundación) → {{c3::istmo}} → {{c4::porción uterina}}.||tuba
+gf04|C|06|La tuba uterina mide ~{{c1::10 cm}} y está en el {{c2::mesosálpinx}}, borde libre del ligamento ancho.||tuba
+gf05|C|06|Ovarios y tubas tienen irrigación doble: arterias {{c1::ováricas}} (aorta) y ramas ascendentes de las {{c2::uterinas}} (ilíaca interna).|Permite conservar los ovarios aunque se liguen las uterinas en una histerectomía.|ovario
+gf06|C|06|Vena ovárica derecha → {{c1::vena cava inferior}}; vena ovárica izquierda → {{c2::vena renal izquierda}}.||ovario venas
+gf07|C|06|El dolor de ovarios y tubas (intraperitoneales) viaja con fibras simpáticas a {{c1::T11-L1}}.||ovario dolor
+gf08|C|06|El útero no grávido mide ~{{c1::7,5 × 5 × 2 cm}} y pesa ~{{c2::90 g}}.||utero
+gf09|C|06|{{c1::Anteversión}}: el útero apunta anterosuperiormente respecto al eje de la {{c2::vagina}}. {{c3::Anteflexión}}: el cuerpo se inclina anteriormente respecto al {{c4::cuello}}.||utero
+gf10|C|06|El útero se divide en {{c1::cuerpo}} (2/3 superiores, incluye el fondo) y {{c2::cuello}} (1/3 inferior), separados por el {{c3::istmo}} (~1 cm).||utero
+gf11|C|06|Capas del cuerpo uterino: {{c1::perimetrio}} (serosa), {{c2::miometrio}} (lleva los vasos y nervios principales) y {{c3::endometrio}} (mucosa).||utero
+gf12|C|06|El cuello uterino es sobre todo {{c1::fibroso (colágeno)}}, con poco músculo liso.||utero
+gf13|C|06|Subdivisiones del ligamento ancho: {{c1::mesosálpinx}} (tuba), {{c2::mesoovario}} (ovario) y {{c3::mesometrio}} (porción principal, del útero).||utero ligamentos
+gf14|C|06|Los ligamentos {{c1::uterosacros}} van del cuello uterino al sacro y se palpan en el {{c2::tacto rectal}}.||utero ligamentos
+gf15|C|06|Anteriormente el útero se separa de la vejiga por el fondo de saco {{c1::vesicouterino}}; posteriormente, del recto por el fondo de saco {{c2::rectouterino}}.||utero peritoneo
+gf16|C|06|La retroversión o retroflexión del útero {{c1::no predispone}} al prolapso ni a complicaciones del embarazo.|Era una creencia antigua que se demostró injustificada.|utero clinica
+gf17|C|06|Relación cuerpo:cuello uterino: neonato y adulta {{c1::2:1}}; infancia y posmenopausia {{c2::1:1}}.||utero ciclovital
+gf18|C|06|El reblandecimiento del istmo uterino ({{c1::signo de Hegar}}) es un signo precoz de {{c2::embarazo}}.||utero clinica
+gf19|C|06|Dolor del fondo y cuerpo uterinos (sobre la línea de dolor): fibras {{c1::simpáticas}} a {{c2::T12-L2}}. Dolor del cuello y la vagina (debajo): fibras {{c3::parasimpáticas}} a {{c4::S2-S4}}.||utero dolor
+gf20|C|06|El útero bicorne se debe a la fusión incompleta de los conductos {{c1::paramesonéfricos (de Müller)}}; la duplicación completa es el útero {{c2::didelfo}}.|Ojo: la traducción del Moore dice «mesonéfricos», pero el útero procede de los paramesonéfricos.|utero embriologia
+gf21|C|06|El conducto de {{c1::Gartner}} es un resto del conducto {{c2::mesonéfrico}} junto al útero/vagina; el {{c3::epoóforo}} es un resto de túbulos mesonéfricos en el mesosálpinx.||embriologia
+gf22|C|06|El embarazo ectópico más frecuente es el {{c1::tubárico}}, sobre todo en la {{c2::ampolla}}; en el lado derecho puede confundirse con una {{c3::apendicitis aguda}}.||tuba clinica
+gf23|C|06|En la histerosalpingografía, el contraste acumulado en las fosas {{c1::pararrectales}} indica tubas {{c2::permeables}}.||tuba clinica
+gf24|C|06|Como el tracto genital femenino comunica con la cavidad peritoneal, las infecciones genitales pueden causar {{c1::peritonitis}}; la {{c2::salpingitis}} es una causa importante de esterilidad.||tuba clinica
+gf25|C|06|Esterilización histeroscópica: inserto de {{c1::níquel-titanio}} en cada tuba; la oclusión tarda ~{{c2::3 meses}} y se confirma con {{c3::histerosalpingografía}}.||tuba clinica

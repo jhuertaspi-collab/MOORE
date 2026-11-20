@@ -1,0 +1,27 @@
+# 09 Triángulo urogenital femenino + homologías
+uf01|C|09|El pudendo (vulva) incluye: {{c1::monte del pubis}}, {{c2::labios mayores y menores}}, {{c3::clítoris}}, {{c4::bulbos del vestíbulo y glándulas vestibulares}}.||vulva
+uf02|C|09|Los labios {{c1::mayores}} contienen la terminación del {{c2::ligamento redondo del útero}}; se unen en las comisuras anterior y posterior.||vulva
+uf03|C|09|Por delante, las láminas mediales de los labios menores forman el {{c1::frenillo del clítoris}} y las laterales el {{c2::prepucio del clítoris}}.||vulva
+uf04|C|09|El clítoris tiene raíz ({{c1::pilares}}), cuerpo y glande; a diferencia del pene, {{c2::no se relaciona con la uretra}}. La parte más inervada es el {{c3::glande}}.||clitoris
+uf05|C|09|El orificio uretral externo está {{c1::2-3 cm}} posteroinferior al glande del clítoris; a sus lados se abren las glándulas {{c2::parauretrales}}.||vulva
+uf06|C|09|Las glándulas vestibulares {{c1::menores}} desembocan entre los orificios uretral y vaginal y humedecen labios y vestíbulo.||vulva
+uf07|C|09|Los conductos de las glándulas vestibulares mayores ({{c1::Bartolino}}) se abren a las {{c2::5 y 7}} en punto del orificio vaginal (posición de litotomía).||vulva bartolino
+uf08|C|09|Las glándulas de Bartolino están en el espacio perineal {{c1::superficial}}, cubiertas en parte por los {{c2::bulbos del vestíbulo}} y el bulboesponjoso.||vulva bartolino
+uf09|C|09|Conducto de Bartolino ocluido con infección: {{c1::bartolinitis}}; sin infección: {{c2::quiste de Bartolino}} (mucina).||vulva clinica
+uf10|C|09|Tras la rotura del himen quedan las {{c1::carúnculas himeneales}}.||vulva
+uf11|C|09|La estimulación {{c1::parasimpática}} (nervios cavernosos del plexo uterovaginal) produce secreción vaginal, erección del clítoris e ingurgitación de los {{c2::bulbos del vestíbulo}}.||vulva autonomo
+uf12|C|09|Vulva anterior (monte, labios anteriores): nervios {{c1::labiales anteriores (ilioinguinal)}} y ramo genital del genitofemoral → plexo {{c2::lumbar}}.||vulva nervios
+uf13|C|09|Vulva posterior: nervio {{c1::pudendo}} (labiales posteriores, perineal profundo, dorsal del clítoris) y ramo perineal del {{c2::cutáneo femoral posterior}} → plexo sacro.||vulva nervios
+uf14|C|09|Bloqueo pudendo: se inyecta donde el nervio cruza la cara lateral del ligamento {{c1::sacroespinoso}}, junto a la {{c2::espina isquiática}}, habitualmente por vía {{c3::transvaginal}}.|Dedo siempre entre la aguja y la cabeza fetal.|clinica anestesia pudendo
+uf15|C|09|Si duele el periné anterior tras un bloqueo pudendo correcto, falta bloquear el nervio {{c1::ilioinguinal}}; si duele el lateral, el ramo perineal del {{c2::cutáneo femoral posterior}}.||clinica anestesia pudendo
+uf16|C|09|Linfa del periné femenino: piel, vestíbulo, orificio vaginal y vagina más inferior → inguinales {{c1::superficiales}}; clítoris, bulbo y labios menores anteriores → inguinales {{c2::profundos}} o ilíacos internos.||vulva linfa
+uf17|C|09|Los traumatismos vulvares pueden romper los {{c1::bulbos del vestíbulo}} (muy vascularizados) y producir {{c2::hematomas}} en los labios mayores.||vulva clinica trauma
+uf18|C|09|Los ejercicios de {{c1::Kegel}} fortalecen los músculos perineales para prevenir la incontinencia de esfuerzo y el prolapso.||perine clinica
+uf19|C|09|El {{c1::vaginismo}} son espasmos involuntarios de los músculos perineales al intentar la penetración; puede causar {{c2::dispareunia}}.||perine clinica
+uf20|C|09|Homología ♂ ↔ ♀: próstata ↔ {{c1::glándulas parauretrales}}.||homologias
+uf21|C|09|Homología ♂ ↔ ♀: bulbo del pene ↔ {{c1::bulbos del vestíbulo}}.||homologias
+uf22|C|09|Homología ♂ ↔ ♀: glándulas bulbouretrales (Cowper) ↔ {{c1::glándulas vestibulares mayores (Bartolino)}}.||homologias
+uf23|C|09|Homología ♂ ↔ ♀: arteria vesical inferior ↔ {{c1::arteria vaginal}}.||homologias arterias
+uf24|C|09|Homología ♂ ↔ ♀: arteria del conducto deferente ↔ {{c1::arteria uterina}}.||homologias arterias
+uf25|C|09|Equivalente ♂ ↔ ♀: pliegue ureteral ↔ {{c1::ligamento ancho}}. El ligamento redondo del útero sigue el mismo trayecto subperitoneal que el {{c2::conducto deferente}}.|Es un paralelismo de trayecto, no una homología embriológica.|homologias
+uf26|C|09|Homología ♂ ↔ ♀: cuerpos cavernosos y glande del pene ↔ {{c1::cuerpos cavernosos y glande del clítoris}}; escroto ↔ {{c2::labios mayores}}.||homologias

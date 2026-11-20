@@ -1,0 +1,17 @@
+# 04 Uretra y recto
+ur30|C|04|Porciones de la uretra masculina (proximal → distal): {{c1::intramural (preprostática)}} → {{c2::prostática}} → {{c3::intermedia (membranosa)}} → {{c4::esponjosa}}.||uretra
+ur31|C|04|Uretra masculina: la porción más ancha y dilatable es la {{c1::prostática}}; la más estrecha y menos distensible, la {{c2::intermedia}}; la más larga y móvil (~15 cm), la {{c3::esponjosa}}.||uretra
+ur32|C|04|En la uretra prostática, el {{c1::colículo seminal}} tiene el orificio del {{c2::utrículo prostático}}; a sus lados desembocan los {{c3::conductos eyaculadores}}. Los conductillos prostáticos se abren en los {{c4::senos prostáticos}}.||uretra prostata
+ur33|C|04|El utrículo prostático es el vestigio del conducto {{c1::uterovaginal}} embrionario. En la uretra {{c2::prostática}} se unen las vías urinaria y reproductora.||uretra embriologia
+ur34|C|04|La uretra femenina mide ~{{c1::4 cm}}, no tiene {{c2::esfínter interno}} y su orificio externo está en el {{c3::vestíbulo}}, anterior al orificio vaginal.||uretra
+ur35|C|04|Las infecciones urinarias son más frecuentes en la mujer porque su uretra es {{c1::corta, distensible y se abre al vestíbulo}}.|Por la misma distensibilidad, el sondaje y la cistoscopia son más fáciles.|uretra clinica
+ur36|C|04|La unión rectosigmoidea está anterior a {{c1::S3}}; allí las {{c2::tenias}} se dispersan y desaparecen los {{c3::apéndices omentales}}.||recto
+ur37|C|04|Flexuras laterales del recto: superior e inferior a la {{c1::derecha}}, intermedia a la {{c2::izquierda}}. Pliegues transversos internos: {{c3::dos}} a la izquierda y {{c4::uno}} a la derecha.|Los pliegues son referencias en la sigmoidoscopia y pueden dificultar el paso del instrumento.|recto
+ur38|C|04|La flexura {{c1::anorrectal}} (~80°), mantenida por el tono del {{c2::puborrectal}}, y la capacidad de la {{c3::ampolla rectal}} para relajarse son mecanismos de continencia fecal.||recto
+ur39|C|04|Irrigación del recto: proximal → rectal {{c1::superior}}; media e inferior → rectales {{c2::medias}}; unión anorrectal y conducto anal → rectales {{c3::inferiores}} (ramas de la {{c4::pudenda interna}}).||recto
+ur40|C|04|La vena rectal superior drena al sistema {{c1::porta}}; las rectales medias e inferiores, al sistema {{c2::cava}}: anastomosis {{c3::portocava}}.||recto venas
+ur41|C|04|El recto está por debajo de la línea de dolor pélvico: todas sus aferencias viscerales viajan con fibras {{c1::parasimpáticas}} a {{c2::S2-S4}}.||recto dolor
+ur42|C|04|Linfa del recto: mitad superior → nódulos {{c1::pararrectales → mesentéricos inferiores}}; mitad inferior → {{c2::sacros o ilíacos internos}}.||recto linfa
+ur43|C|04|Relaciones anteriores del recto: ♂ {{c1::fondo vesical, uréteres terminales, conductos deferentes, vesículas seminales y próstata}}; ♀ {{c2::vagina, y cuello uterino a través del fondo de saco rectouterino}}.||recto
+ur44|C|04|Por tacto rectal se palpan: ♂ {{c1::próstata y vesículas seminales}}; ♀ {{c2::cuello uterino}}; en ambos {{c3::sacro, cóccix, espinas y tuberosidades isquiáticas}}, nódulos ilíacos internos aumentados y un apéndice inflamado en la pelvis.||recto clinica
+ur45|C|04|En la rectectomía masculina se busca el plano del {{c1::septo rectovesical}} para separar próstata y uretra del recto.||recto clinica cirugia

@@ -1,0 +1,27 @@
+# 03 Neurovascular: arterias y venas
+nv01|C|03|Arterias que entran en la pelvis menor: ♀ {{c1::6}} (ilíacas internas y ováricas pares; sacra media y rectal superior impares); ♂ {{c2::4}}, porque las {{c3::testiculares}} no entran.||arterias
+nv02|C|03|La ilíaca común se bifurca a nivel del disco {{c1::L5-S1}}; el {{c2::uréter}} cruza esa bifurcación al entrar en la pelvis.||arterias
+nv03|C|03|División posterior de la ilíaca interna (ramas parietales): {{c1::iliolumbar}}, {{c2::sacras laterales}} y {{c3::glútea superior}}.||arterias
+nv04|C|03|Ramas parietales de la división anterior de la ilíaca interna: {{c1::obturatriz}}, {{c2::pudenda interna}} y {{c3::glútea inferior}}.||arterias
+nv05|C|03|Ramas viscerales de la división anterior: {{c1::umbilical (→ vesicales superiores)}}, {{c2::vesical inferior (♂) / uterina y vaginal (♀)}} y {{c3::rectal media}}.||arterias
+nv06|C|03|La porción permeable de la arteria umbilical da las {{c1::vesicales superiores}}; la porción obliterada forma el {{c2::ligamento umbilical medial}}.||arterias
+nv07|C|03|En >20 % existe una arteria obturatriz {{c1::aberrante}} que nace de la {{c2::epigástrica inferior}}; hay que tenerla presente al reparar {{c3::hernias}}.||arterias clinica
+nv08|C|03|La rama {{c1::púbica}} de la arteria obturatriz se anastomosa con la rama púbica de la arteria {{c2::epigástrica inferior}}.||arterias
+nv09|C|03|La arteria vesical inferior es rama directa de la división anterior siempre en el {{c1::hombre}}; en la mujer la sustituye funcionalmente la arteria {{c2::vaginal}}.||arterias
+nv10|C|03|La arteria uterina suele nacer {{c1::directamente de la ilíaca interna}}, se agranda en el embarazo y es la fuente de sangre materna para la {{c2::placenta}}.||arterias utero
+nv11|C|03|En el cuello uterino la arteria uterina da una rama {{c1::vaginal}} descendente y una rama {{c2::ascendente}} que termina en ramas {{c3::ovárica y tubárica}} (anastomosis con la arteria ovárica).||arterias utero
+nv12|C|03|Trayecto de la pudenda interna: sale por el foramen isquiático {{c1::mayor (infrapiriforme)}} → rodea la {{c2::espina isquiática / ligamento sacroespinoso}} → entra al periné por el foramen isquiático {{c3::menor}} → conducto {{c4::pudendo}}.|El nervio pudendo sigue el mismo trayecto.|arterias perine
+nv13|C|03|La pudenda interna termina en la arteria {{c1::perineal}} y la arteria {{c2::dorsal del pene o del clítoris}}; es más grande en el {{c3::hombre}}.||arterias perine
+nv14|C|03|Glútea {{c1::superior}}: pasa entre el tronco lumbosacro y S1 y sale {{c2::por encima}} del piriforme. Glútea {{c3::inferior}}: pasa entre S2 y S3 y sale {{c4::por debajo}} del piriforme.||arterias
+nv15|C|03|La arteria glútea superior es la rama más grande de la división {{c1::posterior}}; la glútea inferior, la rama terminal más grande de la división {{c2::anterior}} (en ~50 % sale de la posterior).||arterias
+nv16|C|03|La arteria {{c1::iliolumbar}} es recurrente hacia la fosa ilíaca y da una rama {{c2::ilíaca}} (ilíaco, ilion) y una rama {{c3::lumbar}} (psoas mayor, cuadrado lumbar).||arterias
+nv17|C|03|La arteria ovárica nace de la aorta {{c1::inferior a la arteria renal}}, cruza los vasos {{c2::ilíacos externos}} y llega al ovario por el ligamento {{c3::suspensorio del ovario}}.||arterias ovario
+nv18|C|03|La {{c1::sacra media}} es impar, nace justo por encima de la bifurcación aórtica, sirve de referencia de la línea media en laparoscopia y es el extremo caudal de la {{c2::aorta dorsal embrionaria}}.||arterias
+nv19|C|03|La arteria rectal superior continúa a la {{c1::mesentérica inferior}} y se divide en dos ramas a nivel de {{c2::S3}}.||arterias recto
+nv20|C|03|Colaterales tras ligar la ilíaca interna: lumbar ↔ {{c1::iliolumbar}}; sacra media ↔ {{c2::sacra lateral}}; rectal superior ↔ {{c3::rectal media}}; glútea inferior ↔ {{c4::femoral profunda}}.|La ligadura no corta el flujo: baja la presión y logra hemostasia.|arterias clinica cirugia
+nv21|C|03|Las venas {{c1::sacras laterales}} se anastomosan con el plexo venoso {{c2::vertebral interno}}: vía de metástasis de cáncer de {{c3::próstata o útero}} a vértebras y cráneo.||venas clinica
+nv22|C|03|Mayores tributarias de la vena ilíaca interna: venas {{c1::glúteas superiores}}; en el embarazo, las venas {{c2::uterinas}}.||venas
+nv23|C|03|Las venas ilíacas comunes se unen a nivel de {{c1::L4-L5}} para formar la {{c2::vena cava inferior}}. Las arterias umbilicales {{c3::no tienen}} venas acompañantes.||venas
+nv24|C|03|Grupos principales de nódulos pélvicos: ilíacos {{c1::externos}}, ilíacos {{c1::internos}}, {{c1::sacros}} e ilíacos {{c2::comunes}} (reciben de los otros tres).||linfa
+nv25|C|03|Los nódulos ilíacos {{c1::externos}} son la excepción: su drenaje {{c2::no sigue}} al venoso. Reciben de los {{c3::inguinales}} y de las porciones superiores de los órganos pélvicos anteriores.||linfa
+nv26|C|03|El drenaje linfático pélvico está tan interconectado que {{c1::no permite predecir}} el estadio de las metástasis como en la axila con el cáncer de mama.||linfa clinica

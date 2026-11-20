@@ -1,0 +1,23 @@
+# 04 Uréter y vejiga
+ur01|C|04|Los uréteres miden {{c1::25-30 cm}} y entran en la pelvis menor cruzando la {{c2::bifurcación de la ilíaca común o el inicio de la ilíaca externa}}.||ureter
+ur02|C|04|Estrechamientos del uréter donde se impactan cálculos: {{c1::unión ureteropélvica}}, {{c2::cruce de la ilíaca externa / línea terminal}} y {{c3::trayecto intramural vesical}}.||ureter clinica
+ur03|C|04|El trayecto {{c1::oblicuo intramural}} del uréter actúa como válvula unidireccional: la vejiga llena lo colapsa e impide el {{c2::reflujo}}.||ureter
+ur04|C|04|En el hombre, la única estructura entre uréter y peritoneo es el {{c1::conducto deferente}}, que cruza {{c2::por encima}} del uréter.||ureter
+ur05|C|04|En la mujer el uréter pasa {{c1::medial}} al origen de la arteria uterina, es cruzado por ella a nivel de la {{c2::espina isquiática}} y pasa junto a la porción {{c3::lateral del fórnix}} vaginal.||ureter
+ur06|C|04|Al ligar los vasos ováricos en una ovariectomía puede lesionarse el uréter, porque ambos están juntos al cruzar la {{c1::línea terminal}}.||ureter clinica cirugia
+ur07|C|04|Irrigación del uréter: el segmento abdominal la recibe desde {{c1::medial}}; el pélvico desde {{c2::lateral}}. Ramas más constantes del uréter pélvico: {{c3::uterinas (♀) / vesicales inferiores (♂)}}.|Retraer el uréter hacia el lado de donde le llegan los vasos.|ureter clinica cirugia
+ur08|C|04|Dolor ureteral: fibras simpáticas a {{c1::T10-L2 (L3)}}; se refiere «{{c2::del lomo a la ingle}}». Método de elección para cálculos: {{c3::TC}}.||ureter clinica
+ur09|C|04|Partes de la vejiga vacía: {{c1::ápice}} (hacia el borde superior de la sínfisis), {{c2::cuerpo}}, {{c3::fondo}} (pared posterior) y {{c4::cuello}}.||vejiga
+ur10|C|04|La vejiga entra en la pelvis hacia los {{c1::6 años}} y queda por completo en la pelvis menor tras la {{c2::pubertad}}. Llena, puede llegar al {{c3::ombligo}}.||vejiga
+ur11|C|04|El cuello vesical (poco distensible) está fijado por los ligamentos {{c1::laterales de la vejiga}} y el ligamento {{c2::puboprostático (♂) / pubovesical (♀)}}.||vejiga
+ur12|C|04|El {{c1::trígono vesical}} lo delimitan los dos orificios {{c2::ureterales}} y el orificio {{c3::uretral interno}}.||vejiga
+ur13|C|04|La {{c1::úvula vesical}} es una elevación del trígono que crece en ancianos por el agrandamiento del lóbulo {{c2::medio}} de la próstata.||vejiga prostata
+ur14|C|04|El esfínter interno de la uretra existe solo en el {{c1::hombre}}; se contrae en la eyaculación para evitar la {{c2::eyaculación retrógrada}}.||vejiga
+ur15|C|04|Irrigación vesical: anterosuperior por las {{c1::vesicales superiores}}; fondo y cuello por las {{c2::vesicales inferiores}} (♂) o las {{c3::vaginales}} (♀).||vejiga
+ur16|C|04|Parasimpático en la vejiga: {{c1::motor}} para el detrusor e {{c2::inhibidor}} del esfínter interno.||vejiga autonomo
+ur17|C|04|Una descarga simpática (p. ej., pudor ante el urinario) contrae el esfínter {{c1::interno}} de la uretra e {{c2::impide orinar}} hasta que actúa el parasimpático.||vejiga autonomo
+ur18|C|04|Dolor del techo vesical (cubierto de peritoneo): fibras {{c1::simpáticas}} a {{c2::T11-L2 (L3)}}. Dolor y reflejos del resto de la vejiga: fibras {{c3::parasimpáticas}} a S2-S4.||vejiga dolor
+ur19|C|04|Linfa vesical: caras superolaterales → ilíacos {{c1::externos}}; fondo y cuello → ilíacos {{c2::internos}}.||vejiga linfa
+ur20|C|04|La vejiga llena se puede puncionar por encima de la sínfisis ({{c1::cistotomía suprapúbica}}) sin atravesar el {{c2::peritoneo}}.||vejiga clinica
+ur21|C|04|Rotura de la porción {{c1::superior}} de la vejiga → orina en la cavidad peritoneal. Rotura {{c2::posterior}} → orina extraperitoneal hacia el periné.||vejiga clinica trauma
+ur22|C|04|Herniación de la vejiga en la pared vaginal anterior: {{c1::cistocele}}. Pérdida de soporte y ángulo de la uretra: {{c2::uretrocele}}. Ambos causan incontinencia {{c3::de esfuerzo}}.||vejiga clinica
