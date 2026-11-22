@@ -25,8 +25,11 @@ SECTIONS = {
     "02": "02 Genética del desarrollo",
     "03": "03 Ciclo celular",
     "04": "04 Errores innatos del metabolismo",
+    "06": "06 Genética del cáncer",
+    "07": "07 Técnicas de biología molecular",
 }
-TOPIC_TAG = {"01": "bioinformatica", "02": "desarrollo", "03": "ciclo_celular", "04": "eim"}
+TOPIC_TAG = {"01": "bioinformatica", "02": "desarrollo", "03": "ciclo_celular", "04": "eim",
+             "06": "cancer", "07": "tecnicas"}
 CSS = open(os.path.join(HERE, "style.css"), encoding="utf-8").read()
 CHECKED_TAGS = {"b", "i", "div", "sup", "sub", "code", "ul", "ol", "li"}
 
