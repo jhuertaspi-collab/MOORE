@@ -30,9 +30,9 @@ Cada capítulo tiene la misma estructura: **lo esencial en un minuto** → desar
 | 2 | Genética del desarrollo | O. Ortega-Recalde | [02_Genetica_del_desarrollo.md](guia/02_Genetica_del_desarrollo.md) | 84 tarjetas |
 | 3 | Ciclo celular: fases, motor molecular y puntos de control | S. Y. Ospina Lagos | [03_Ciclo_celular.md](guia/03_Ciclo_celular.md) | 125 tarjetas |
 | 4 | Errores innatos del metabolismo | S. Y. Ospina Lagos | [04_Errores_innatos_del_metabolismo.md](guia/04_Errores_innatos_del_metabolismo.md) | 108 tarjetas |
-| — | Mecanismos de reparación del ADN | S. Ospina Lagos | [Guía en `reparacion-adn/`](../reparacion-adn/Guia_Reparacion_ADN.md) | Mazo propio: `reparacion-adn/Reparacion_ADN.apkg` |
+| 5 | Mecanismos de reparación del ADN | S. Ospina Lagos | [05_Reparacion_del_ADN.md](guia/05_Reparacion_del_ADN.md) | Mazo aparte: [`Reparacion_ADN.apkg`](Reparacion_ADN.apkg) (366 tarjetas) |
 
-La clase de **reparación del ADN** venía en el mismo paquete de diapositivas, pero ya tenía guía y mazo completos en el repositorio, así que no se duplicó. Ese mazo usa tarjetas cloze y de pregunta-respuesta, no Basic.
+El capítulo 5 y su mazo se hicieron antes que el resto, por eso el mazo de reparación del ADN va en un archivo aparte y usa tarjetas cloze y de pregunta-respuesta en lugar de Basic.
 
 **Ruta sugerida**: ciclo celular → reparación del ADN (continúa directamente desde los puntos de control) → genética del desarrollo → errores innatos del metabolismo. La bioinformática es transversal: úsala para buscar en OMIM, dbSNP o Ensembl cada enfermedad de las otras clases.
 
@@ -42,9 +42,9 @@ La clase de **reparación del ADN** venía en el mismo paquete de diapositivas, 
 
 | Concepto | Dónde aparece | La conexión |
 |---|---|---|
-| **ATM, ATR, CHK1/2, p53, p21** | Ciclo celular (3.13); reparación del ADN (sección 2.5) | Son el mismo sistema: los sensores del daño del ADN son los que frenan el ciclo |
-| **BRCA1/2, RAD51 y recombinación homóloga** | Ciclo celular (3.13); reparación del ADN (sección 7) | La recombinación homóloga solo ocurre en S y G2 porque necesita la cromátida hermana |
-| **CDK7–ciclina H (CAK)** | Ciclo celular (3.8); reparación del ADN (NER) | La cinasa que activa a las CDK es parte de TFIIH, el complejo que abre el ADN en la reparación por escisión de nucleótidos |
+| **ATM, ATR, CHK1/2, p53, p21** | Ciclo celular (3.13); [reparación del ADN (sección 2.5)](guia/05_Reparacion_del_ADN.md#25-la-respuesta-al-daño-del-adn-ddr-diap-7) | Son el mismo sistema: los sensores del daño del ADN son los que frenan el ciclo |
+| **BRCA1/2, RAD51 y recombinación homóloga** | Ciclo celular (3.13); [reparación del ADN (sección 7)](guia/05_Reparacion_del_ADN.md#7-roturas-de-doble-cadena-nhej-y-hr) | La recombinación homóloga solo ocurre en S y G2 porque necesita la cromátida hermana |
+| **CDK7–ciclina H (CAK)** | Ciclo celular (3.8); [reparación del ADN (NER)](guia/05_Reparacion_del_ADN.md#5-reparación-por-escisión-de-nucleótidos-ner) | La cinasa que activa a las CDK es parte de TFIIH, el complejo que abre el ADN en la reparación por escisión de nucleótidos |
 | **c-MYC** | Ciclo celular (3.11); desarrollo (2.3) | Es un mitógeno interno que acelera el ciclo y uno de los cuatro factores de Yamanaka |
 | **Ciclos sin G1 ni G2** | Ciclo celular (3.2); desarrollo (2.1) | Los embriones tempranos solo replican y dividen; el control de G1 aparece después |
 | **miR-302 y células madre** | Ciclo celular (3.16); desarrollo (2.3) | Silencian p21: por eso las células pluripotentes ciclan rápido |
@@ -78,8 +78,8 @@ La clase de **reparación del ADN** venía en el mismo paquete de diapositivas, 
 | Síndrome de Marfan | *FBN1* | AD | Fibrilina | 2 |
 | Retinoblastoma | *RB1* | AD (predisposición; dos golpes) | Freno del punto R | 3 |
 | Li-Fraumeni | *TP53* | AD (predisposición) | Guardián del genoma | 3 |
-| Ataxia-telangiectasia | *ATM* | AR | Señal de daño del ADN | 3 (y reparación) |
-| Cáncer de mama y ovario hereditario | *BRCA1*, *BRCA2* | AD (predisposición) | Recombinación homóloga | 3 (y reparación) |
+| Ataxia-telangiectasia | *ATM* | AR | Señal de daño del ADN | 3, 5 |
+| Cáncer de mama y ovario hereditario | *BRCA1*, *BRCA2* | AD (predisposición) | Recombinación homóloga | 3, 5 |
 | Aneuploidía en mosaico variegado | *BUB1B* | AR | Punto de control del huso | 3 |
 | Alcaptonuria | *HGD* | AR | Degradación de tirosina | 4 |
 | Fenilcetonuria | *PAH* | AR | Fenilalanina hidroxilasa | 4 |
@@ -138,6 +138,7 @@ Errores o datos desactualizados de las diapositivas. El detalle y las fuentes es
   - Por tema: `bioinformatica`, `desarrollo`, `ciclo_celular`, `eim`, y subtemas como `pku`, `mps`, `p53`, `sac`.
 - Ritmo sugerido: 20–30 tarjetas nuevas al día; con 383 tarjetas, el mazo completo entra en 2–3 semanas.
 - Lee primero el capítulo de la guía y después haz sus tarjetas: el orden de las tarjetas sigue el de la guía.
+- **Reparación del ADN** tiene su propio archivo, [`Reparacion_ADN.apkg`](Reparacion_ADN.apkg), que crea el mazo *Reparación del ADN (Medicina)*. Sus etiquetas y ajustes recomendados están en la [sección 16 del capítulo 5](guia/05_Reparacion_del_ADN.md#16-plan-de-estudio-y-cómo-usar-el-mazo-de-anki).
 
 ---
 

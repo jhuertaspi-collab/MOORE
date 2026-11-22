@@ -2,7 +2,7 @@
 
 > Clase de la Prof. **Sandra Yaneth Ospina Lagos** (MD, MSc), Facultad de Medicina, Universidad Nacional de Colombia, tercer semestre, 2026.
 > Las citas *(Diap. N)* siguen la numeración de las diapositivas. Los símbolos 📌 ➕ ⚠️ ✅ 🩺 💊 🧠 se explican en la [guía principal](../Guia_de_estudio.md#cómo-usar-esta-guía).
-> Conecta directamente con la guía de [reparación del ADN](../../reparacion-adn/Guia_Reparacion_ADN.md) (puntos de control, ATM/ATR, p53, BRCA).
+> Conecta directamente con el capítulo 5, [reparación del ADN](05_Reparacion_del_ADN.md) (puntos de control, ATM/ATR, p53, BRCA).
 
 ---
 
@@ -538,7 +538,7 @@ Factores de crecimiento (EGF · PDGF · FGF · IGF)
 - ***ATM***: su mutación causa **ataxia-telangiectasia** (neurodegeneración, inmunodeficiencia, radiosensibilidad).
 - ***BRCA1/2***: su pérdida impide la reparación por recombinación homóloga (cáncer de mama y ovario hereditario).
 
-Detalle completo en la [guía de reparación del ADN](../../reparacion-adn/Guia_Reparacion_ADN.md#7-roturas-de-doble-cadena-nhej-y-hr).
+Detalle completo en el [capítulo 5, reparación del ADN](05_Reparacion_del_ADN.md#7-roturas-de-doble-cadena-nhej-y-hr).
 
 ---
 

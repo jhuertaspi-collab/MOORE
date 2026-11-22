@@ -2,6 +2,8 @@
 ## Guía de estudio completa: de la lesión molecular a la clínica
 
 > Basada en la clase *"Mecanismos de reparación del ADN. De la lesión molecular a la clínica"* (Prof. Sandra Ospina Lagos, Genética y Ciencias Biomédicas) y ampliada con lo que necesitas para entenderla a fondo y para el examen.
+>
+> Capítulo 5 de la [guía de Genética y Biología Molecular](../Guia_de_estudio.md). Su mazo es [`Reparacion_ADN.apkg`](../Reparacion_ADN.apkg).
 
 ---
 
@@ -1413,6 +1415,8 @@ Porque predice **beneficio de la temozolomida**. Sin MGMT, el tumor no puede ret
 Lee la sección **antes** de estudiar sus tarjetas nuevas: Anki sirve para **retener**, no para aprender por primera vez.
 
 ### 16.2 El mazo `Reparacion_ADN.apkg`
+
+**Dónde está**: en la carpeta principal, [`genetica-biologia-molecular/Reparacion_ADN.apkg`](../Reparacion_ADN.apkg).
 
 **Importar**: en Anki de escritorio, *Archivo → Importar* y elige el `.apkg` (o ábrelo con doble clic). En AnkiDroid y AnkiMobile, abre el archivo desde la app.
 
