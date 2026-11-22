@@ -1,49 +1,57 @@
 # Genética y Biología Molecular (Medicina UNAL, 2026)
 
-Guía de estudio y mazos de Anki construidos a partir de las diapositivas de clase, con los datos verificados contra fuentes primarias.
+Una guía de estudio y un mazo de Anki, construidos a partir de las diapositivas de clase, con los datos verificados contra fuentes primarias.
 
-**Empieza aquí: [Guía de estudio](Guia_de_estudio.md)** (índice, conexiones entre clases, tabla de enfermedades y fe de erratas).
+| Archivo | Qué es |
+|---|---|
+| [`Guia_de_estudio.md`](Guia_de_estudio.md) | **La guía completa**: los 7 capítulos en un solo archivo, con índice general, conexiones entre clases, tabla de enfermedades y fe de erratas |
+| [`Genetica_Biologia_Molecular.apkg`](Genetica_Biologia_Molecular.apkg) | **El mazo completo**: 1.047 tarjetas, un submazo por capítulo |
 
-| # | Clase | Guía | Mazo | Tarjetas |
-|---|---|---|---|---|
-| 1 | Introducción a la bioinformática y medicina genómica | [guía](guia/01_Bioinformatica_y_medicina_genomica.md) | `Genetica_Biologia_Molecular.apkg` | 66 |
-| 2 | Genética del desarrollo | [guía](guia/02_Genetica_del_desarrollo.md) | `Genetica_Biologia_Molecular.apkg` | 84 |
-| 3 | Ciclo celular | [guía](guia/03_Ciclo_celular.md) | `Genetica_Biologia_Molecular.apkg` | 125 |
-| 4 | Errores innatos del metabolismo | [guía](guia/04_Errores_innatos_del_metabolismo.md) | `Genetica_Biologia_Molecular.apkg` | 108 |
-| 5 | Mecanismos de reparación del ADN | [guía](guia/05_Reparacion_del_ADN.md) | `Reparacion_ADN.apkg` | 366 |
-| 6 | Genética del cáncer: hallmarks y perspectivas terapéuticas | [guía](guia/06_Genetica_del_cancer.md) | `Genetica_Biologia_Molecular.apkg` | 156 |
-| 7 | Técnicas de biología molecular | [guía](guia/07_Tecnicas_de_biologia_molecular.md) | `Genetica_Biologia_Molecular.apkg` | 142 |
+| # | Clase | Capítulo en la guía | Tarjetas |
+|---|---|---|---|
+| 1 | Introducción a la bioinformática y medicina genómica | [capítulo 1](Guia_de_estudio.md#1-introducción-a-la-bioinformática-y-medicina-genómica) | 66 |
+| 2 | Genética del desarrollo | [capítulo 2](Guia_de_estudio.md#2-genética-del-desarrollo) | 84 |
+| 3 | Ciclo celular | [capítulo 3](Guia_de_estudio.md#3-ciclo-celular-fases-motor-molecular-y-puntos-de-control) | 125 |
+| 4 | Errores innatos del metabolismo | [capítulo 4](Guia_de_estudio.md#4-errores-innatos-del-metabolismo-eim) | 108 |
+| 5 | Mecanismos de reparación del ADN | [capítulo 5](Guia_de_estudio.md#5-mecanismos-de-reparación-del-adn-de-la-lesión-molecular-a-la-clínica) | 366 |
+| 6 | Genética del cáncer: hallmarks y perspectivas terapéuticas | [capítulo 6](Guia_de_estudio.md#6-genética-del-cáncer-biología-molecular-hallmarks-y-perspectivas-terapéuticas) | 156 |
+| 7 | Técnicas de biología molecular | [capítulo 7](Guia_de_estudio.md#7-técnicas-de-biología-molecular) | 142 |
+| | **Total** | | **1.047** |
 
-El mazo Basic suma **681 tarjetas** (clases 1–4, 6 y 7).
+## Importar el mazo
 
-## Importar el mazo de reparación del ADN
+Descarga [`Genetica_Biologia_Molecular.apkg`](Genetica_Biologia_Molecular.apkg) y ábrelo con Anki (escritorio, AnkiDroid o AnkiMobile). Crea el mazo *Genética y Biología Molecular (UNAL 2026)* con los submazos 01 a 07.
 
-Descarga [`Reparacion_ADN.apkg`](Reparacion_ADN.apkg) y ábrelo con Anki. Crea el mazo *Reparación del ADN (Medicina)* con tarjetas de pregunta-respuesta, cloze y casos clínicos. Si ya lo habías importado desde la carpeta anterior (`reparacion-adn/`), es el mismo archivo: no hace falta volver a importarlo.
+- Capítulos 1–4, 6 y 7: tipo de nota *Genética Básico* (dos campos, una tarjeta por nota, igual que Basic), con modo nocturno.
+- Capítulo 5: conserva sus tres tipos de nota (*RepADN · Cloze*, *RepADN · Pregunta-Respuesta* y *RepADN · Caso clínico*) y sus 11 subdecks.
 
-## Importar el mazo Basic (clases 1–4, 6 y 7)
+Cada nota tiene un id fijo: al reimportar una versión nueva, Anki actualiza las notas existentes y agrega las nuevas **sin duplicar ni borrar tu progreso**.
 
-- **Recomendado:** descarga [`Genetica_Biologia_Molecular.apkg`](Genetica_Biologia_Molecular.apkg) y ábrelo con Anki (escritorio, AnkiDroid o AnkiMobile). Crea el mazo *Genética y Biología Molecular (UNAL 2026)* con un submazo por clase, el tipo de nota *Genética Básico* (dos campos, una tarjeta por nota, igual que Basic) y diseño con modo nocturno.
-- **Alternativa:** [`genetica_biologia_molecular.txt`](genetica_biologia_molecular.txt) con *Archivo → Importar* (Anki 2.1.55 o posterior). Usa el tipo de nota estándar **Basic**.
+**Si ya habías importado alguna versión anterior:**
 
-Usa solo uno de los dos archivos. Cada nota tiene un id fijo: al reimportar una versión nueva, Anki actualiza las notas existentes y agrega las nuevas sin duplicar ni borrar tu progreso. Si ya habías importado la versión anterior (383 tarjetas), importa el `.apkg` nuevo encima: se agregan los submazos 06 y 07.
+- `Genetica_Biologia_Molecular.apkg` (383 o 681 tarjetas): importa el nuevo encima. Se agregan los submazos que faltan.
+- `Reparacion_ADN.apkg`: sus notas ya están en tu colección y Anki no las duplica, pero sus tarjetas se quedan en el mazo viejo *Reparación del ADN (Medicina)*. Para tener todo junto, en *Explorar* selecciona ese mazo y usa *Tarjetas → Cambiar mazo* para moverlas a *05 Reparación del ADN*, o simplemente sigue estudiándolas donde están. El progreso se conserva en ambos casos.
 
 ## Editar o añadir tarjetas
 
-Las tarjetas están en `anki/cards_*.txt`, una nota por línea:
+Fuentes en la carpeta `anki/`:
 
-```
-id|sección|anverso|reverso|etiquetas
-```
+- `cards_NN_tema.txt` (capítulos 1–4, 6 y 7): una nota Basic por línea.
 
-- `sección`: `01`–`04`, `06` o `07` (para una clase nueva, agrega la sección en `SECTIONS` dentro de `anki/build_deck.py`).
-- No cambies el `id` de una nota existente; para notas nuevas usa un id nuevo.
-- No uses `|` dentro del texto. Se admite HTML (`<b>`, `<i>`, `<div class=extra>`).
+  ```
+  id|sección|anverso|reverso|etiquetas
+  ```
 
-Regenerar el `.apkg` y el `.txt`:
+  - `sección`: `01`–`04`, `06` o `07` (para una clase nueva, agrega la sección en `SECTIONS` y `TOPIC_TAG` dentro de `anki/build_deck.py`).
+  - No cambies el `id` de una nota existente; para notas nuevas usa un id nuevo.
+  - No uses `|` dentro del texto. Se admite HTML (`<b>`, `<i>`, `<div class=extra>`).
+- `cards_05_reparacion.json` (capítulo 5): los tres tipos de nota y sus 234 notas, con su `guid`, sus campos, etiquetas y subdeck. No cambies los `guid`.
+
+Regenerar el `.apkg`:
 
 ```bash
 pip install --target ../.pylib -r anki/requirements.txt   # una sola vez, desde esta carpeta
 python3 anki/build_deck.py
 ```
 
-El script valida cada línea (número de campos, ids duplicados, secciones, etiquetas HTML sin cerrar) antes de generar los archivos.
+El script valida las fuentes (número de campos, ids duplicados, secciones, etiquetas HTML sin cerrar) antes de generar el archivo.

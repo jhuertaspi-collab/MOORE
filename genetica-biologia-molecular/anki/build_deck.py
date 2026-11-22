@@ -1,15 +1,18 @@
-"""Genera el mazo Anki (tipo Basic) de Genética y Biología Molecular desde cards_*.txt.
+"""Genera el mazo único de Genética y Biología Molecular: Genetica_Biologia_Molecular.apkg.
 
-Salida (en la carpeta superior):
-  Genetica_Biologia_Molecular.apkg   -> abrir con Anki
-  genetica_biologia_molecular.txt    -> alternativa: Archivo > Importar (tipo de nota Basic)
+Fuentes (en esta carpeta):
+  cards_NN_tema.txt         -> notas Basic de las clases 01-04, 06 y 07
+                               formato de cada línea:  id|sección|anverso|reverso|etiquetas
+  cards_05_reparacion.json  -> notas de la clase 05 (reparación del ADN), con sus tres tipos de
+                               nota propios (cloze, pregunta-respuesta y caso clínico)
 
-Formato de cada línea de datos:  id|sección|anverso|reverso|etiquetas
-El id es estable: si editas una tarjeta conserva su id y Anki la actualizará al reimportar.
-Para añadir una clase nueva: agrega su sección en SECTIONS y crea cards_NN_tema.txt.
+Los ids (y los guid de la clase 05) son estables: si editas una nota conserva su id y Anki la
+actualizará al reimportar sin perder el progreso.
+Para añadir una clase nueva: agrega su sección en SECTIONS y TOPIC_TAG y crea cards_NN_tema.txt.
 """
 import glob
 import hashlib
+import json
 import os
 import sys
 from html.parser import HTMLParser
@@ -25,11 +28,13 @@ SECTIONS = {
     "02": "02 Genética del desarrollo",
     "03": "03 Ciclo celular",
     "04": "04 Errores innatos del metabolismo",
+    "05": "05 Reparación del ADN",
     "06": "06 Genética del cáncer",
     "07": "07 Técnicas de biología molecular",
 }
 TOPIC_TAG = {"01": "bioinformatica", "02": "desarrollo", "03": "ciclo_celular", "04": "eim",
-             "06": "cancer", "07": "tecnicas"}
+             "05": "reparacion", "06": "cancer", "07": "tecnicas"}
+REPAIR_JSON = os.path.join(HERE, "cards_05_reparacion.json")
 CSS = open(os.path.join(HERE, "style.css"), encoding="utf-8").read()
 CHECKED_TAGS = {"b", "i", "div", "sup", "sub", "code", "ul", "ol", "li"}
 
@@ -69,6 +74,18 @@ basic = genanki.Model(
                 "qfmt": "<div class=q>{{Anverso}}</div>",
                 "afmt": "<div class=q>{{Anverso}}</div><hr id=answer><div class=a>{{Reverso}}</div>"}])
 
+decks = {}
+
+
+def section_deck(sec):
+    name = f"{ROOT}::{SECTIONS[sec]}"
+    if name not in decks:
+        # Mismo id que en las versiones anteriores del mazo (ROOT + número de sección).
+        decks[name] = genanki.Deck(stable_id(ROOT + sec), name)
+    return decks[name]
+
+
+# --- Notas Basic (cards_*.txt) ---------------------------------------------------------------
 rows, seen, problems = [], set(), []
 for path in sorted(glob.glob(os.path.join(HERE, "cards_*.txt"))):
     name = os.path.basename(path)
@@ -84,29 +101,56 @@ for path in sorted(glob.glob(os.path.join(HERE, "cards_*.txt"))):
         if cid in seen:
             problems.append(f"{name}:{n} id duplicado {cid}")
         seen.add(cid)
-        if sec not in SECTIONS:
-            problems.append(f"{name}:{n} sección desconocida {sec}")
+        if sec not in SECTIONS or sec == "05":
+            problems.append(f"{name}:{n} sección no válida {sec}")
             continue
         if not front.strip() or not back.strip():
             problems.append(f"{name}:{n} campo vacío")
-        if front.lstrip().startswith('"') or back.lstrip().startswith('"'):
-            problems.append(f"{name}:{n} un campo empieza con comillas dobles (rompe la importación .txt)")
         for label, text in (("anverso", front), ("reverso", back)):
             problems += [f"{name}:{n} {label}: {e}" for e in check_html(text)]
         rows.append((sec, cid, front, back, ["genetica", TOPIC_TAG[sec]] + tags.split()))
+
+# --- Notas de reparación del ADN (cards_05_reparacion.json) -----------------------------------
+repair = json.load(open(REPAIR_JSON, encoding="utf-8"))
+models = {}
+for m in repair["models"]:
+    models[m["name"]] = genanki.Model(
+        m["id"], m["name"], fields=[{"name": f} for f in m["fields"]],
+        templates=m["templates"], css=m["css"], sort_field_index=m.get("sortf", 0),
+        model_type=genanki.Model.CLOZE if m["type"] == 1 else genanki.Model.FRONT_BACK)
+repair_notes = []
+for i, note in enumerate(repair["notes"], 1):
+    model = models.get(note["model"])
+    if model is None:
+        problems.append(f"cards_05_reparacion.json nota {i}: tipo de nota desconocido {note['model']}")
+        continue
+    if len(note["fields"]) != len(model.fields):
+        problems.append(f"cards_05_reparacion.json nota {i}: {len(note['fields'])} campos (deben ser {len(model.fields)})")
+        continue
+    if note["guid"] in seen:
+        problems.append(f"cards_05_reparacion.json nota {i}: guid duplicado {note['guid']}")
+    seen.add(note["guid"])
+    repair_notes.append(note)
 
 if problems:
     sys.exit("Errores de formato:\n  " + "\n  ".join(problems))
 
 rows.sort(key=lambda r: (r[0], r[1]))
-decks = {s: genanki.Deck(stable_id(ROOT + s), f"{ROOT}::{label}") for s, label in SECTIONS.items()}
-with open(os.path.join(OUT, "genetica_biologia_molecular.txt"), "w", encoding="utf-8") as out:
-    out.write("#separator:Pipe\n#html:true\n#guid column:1\n#notetype column:2\n#deck column:3\n#tags column:6\n")
-    for sec, cid, front, back, tags in rows:
-        guid = "gb" + hashlib.sha1(cid.encode()).hexdigest()[:14]
-        decks[sec].add_note(genanki.Note(model=basic, fields=[front, back], tags=tags, guid=guid))
-        out.write("|".join([guid, "Basic", decks[sec].name, front, back, " ".join(tags)]) + "\n")
+for sec in SECTIONS:
+    section_deck(sec)
+
+for sec, cid, front, back, tags in rows:
+    guid = "gb" + hashlib.sha1(cid.encode()).hexdigest()[:14]
+    section_deck(sec).add_note(genanki.Note(model=basic, fields=[front, back], tags=tags, guid=guid))
+
+for note in repair_notes:
+    name = f"{ROOT}::{SECTIONS['05']}::{note['deck']}"
+    if name not in decks:
+        decks[name] = genanki.Deck(stable_id(name), name)
+    tags = note["tags"] + [t for t in ("genetica", "reparacion") if t not in note["tags"]]
+    decks[name].add_note(genanki.Note(model=models[note["model"]], fields=note["fields"], tags=tags, guid=note["guid"]))
 
 genanki.Package(list(decks.values())).write_to_file(os.path.join(OUT, "Genetica_Biologia_Molecular.apkg"))
-count = {SECTIONS[s]: sum(r[0] == s for r in rows) for s in SECTIONS}
-print(f"{len(rows)} notas Basic ->", count)
+count = {SECTIONS[s]: len(repair_notes) if s == "05" else sum(r[0] == s for r in rows) for s in SECTIONS}
+total_cards = len(rows) + sum(len(n.cards) for d in decks.values() for n in d.notes if n.model is not basic)
+print(f"{len(rows) + len(repair_notes)} notas, {total_cards} tarjetas ->", count)

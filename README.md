@@ -10,4 +10,4 @@ Mazos de Anki de *Moore. Anatomía con orientación clínica, 9.ª ed.*, por cap
 
 | Tema | Carpeta | Contenido |
 |---|---|---|
-| Genética y Biología Molecular (Medicina UNAL 2026): bioinformática, genética del desarrollo, ciclo celular, errores innatos del metabolismo, reparación del ADN, genética del cáncer y técnicas de biología molecular | [`genetica-biologia-molecular`](genetica-biologia-molecular/) | [Guía de estudio](genetica-biologia-molecular/Guia_de_estudio.md); mazo Basic de 681 tarjetas y mazo de reparación del ADN de 366 tarjetas |
+| Genética y Biología Molecular (Medicina UNAL 2026): bioinformática, genética del desarrollo, ciclo celular, errores innatos del metabolismo, reparación del ADN, genética del cáncer y técnicas de biología molecular | [`genetica-biologia-molecular`](genetica-biologia-molecular/) | Una [guía de estudio](genetica-biologia-molecular/Guia_de_estudio.md) con los 7 capítulos y un mazo único, `Genetica_Biologia_Molecular.apkg`, de 1.047 tarjetas |
