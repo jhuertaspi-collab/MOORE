@@ -1,0 +1,18 @@
+.card {
+  font-family: -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-size: 21px; line-height: 1.5; text-align: left;
+  max-width: 700px; margin: 0 auto; padding: 16px;
+  color: #1f2328; background: #ffffff;
+}
+.q { font-weight: 500; }
+.a { margin-top: 6px; }
+hr#answer { border: none; border-top: 2px solid #d0d7de; margin: 14px 0; }
+b { color: #8250df; }
+.cloze { font-weight: 700; color: #0969da; }
+.extra { margin-top: 14px; padding-top: 8px; border-top: 1px dashed #d0d7de;
+         font-size: 17px; color: #57606a; }
+.nightMode.card, .night_mode .card { color: #e6edf3; background: #1e1e1e; }
+.nightMode b, .night_mode b { color: #d2a8ff; }
+.nightMode .cloze, .night_mode .cloze { color: #58a6ff; }
+.nightMode .extra, .night_mode .extra { color: #9ba7b4; border-top-color: #444c56; }
+@media (max-width: 500px) { .card { font-size: 19px; padding: 10px; } }
