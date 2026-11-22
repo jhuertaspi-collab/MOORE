@@ -1,7 +1,7 @@
 # Guía de estudio: Genética y Biología Molecular
 
 > Medicina, Universidad Nacional de Colombia, 2026. Basada en las diapositivas de clase de los profesores **Oscar Ortega-Recalde**, **Sandra Yaneth Ospina Lagos** y **Mauricio Rey Buitrago**, verificada contra fuentes primarias y ampliada con lo necesario para entender cada tema.
-> Última actualización: 22 de noviembre de 2026. Todas las clases están en este archivo; sus tarjetas están en un solo mazo de Anki, [`Genetica_Biologia_Molecular.apkg`](Genetica_Biologia_Molecular.apkg).
+> Última actualización: 22 de noviembre de 2026, con lo que evaluó el [parcial final I-2026](#anexo-f-parcial-final-i-2026-resuelto) (resuelto en el Anexo F; sus temas sin clase están en el [capítulo 8](#8-bases-moleculares-y-variación-genética)). Todas las clases están en este archivo; sus tarjetas están en un solo mazo de Anki, [`Genetica_Biologia_Molecular.apkg`](Genetica_Biologia_Molecular.apkg).
 
 ---
 
@@ -16,6 +16,7 @@
 | 🩺 | Correlación clínica. |
 | 💊 | Terapia o farmacología. |
 | 🧠 | Mnemotecnia. |
+| 🎯 | **Parcial**: tema que evaluó el parcial final I-2026 (P*N* = pregunta *N*). Las respuestas están en el [Anexo F](#anexo-f-parcial-final-i-2026-resuelto). |
 | *(Diap. N)* | Diapositiva de la clase donde está el contenido. |
 
 Cada capítulo tiene la misma estructura: **lo esencial en un minuto** → desarrollo por diapositivas → **verificación de datos** → **autoevaluación** con respuestas desplegables → glosario → referencias. Cada capítulo empieza con su propio índice y termina con un enlace para volver aquí.
@@ -28,18 +29,19 @@ Es un archivo largo: para moverte, usa el índice general de abajo o el índice 
 
 | # | Capítulo | Docente | Tarjetas en el mazo |
 |---|---|---|---|
-| 1 | [Introducción a la bioinformática y medicina genómica](#1-introducción-a-la-bioinformática-y-medicina-genómica) | O. Ortega-Recalde | 66 |
-| 2 | [Genética del desarrollo](#2-genética-del-desarrollo) | O. Ortega-Recalde | 84 |
-| 3 | [Ciclo celular: fases, motor molecular y puntos de control](#3-ciclo-celular-fases-motor-molecular-y-puntos-de-control) | S. Y. Ospina Lagos | 125 |
-| 4 | [Errores innatos del metabolismo](#4-errores-innatos-del-metabolismo-eim) | S. Y. Ospina Lagos | 108 |
-| 5 | [Mecanismos de reparación del ADN](#5-mecanismos-de-reparación-del-adn-de-la-lesión-molecular-a-la-clínica) | S. Y. Ospina Lagos | 366 (cloze, pregunta-respuesta y casos clínicos) |
-| 6 | [Genética del cáncer: biología molecular, hallmarks y perspectivas terapéuticas](#6-genética-del-cáncer-biología-molecular-hallmarks-y-perspectivas-terapéuticas) | S. Y. Ospina Lagos | 156 |
-| 7 | [Técnicas de biología molecular](#7-técnicas-de-biología-molecular) | M. Rey Buitrago | 142 |
-| | **Total** | | **1.047** |
+| 1 | [Introducción a la bioinformática y medicina genómica](#1-introducción-a-la-bioinformática-y-medicina-genómica) | O. Ortega-Recalde | 68 |
+| 2 | [Genética del desarrollo](#2-genética-del-desarrollo) | O. Ortega-Recalde | 93 |
+| 3 | [Ciclo celular: fases, motor molecular y puntos de control](#3-ciclo-celular-fases-motor-molecular-y-puntos-de-control) | S. Y. Ospina Lagos | 131 |
+| 4 | [Errores innatos del metabolismo](#4-errores-innatos-del-metabolismo-eim) | S. Y. Ospina Lagos | 115 |
+| 5 | [Mecanismos de reparación del ADN](#5-mecanismos-de-reparación-del-adn-de-la-lesión-molecular-a-la-clínica) | S. Y. Ospina Lagos | 367 |
+| 6 | [Genética del cáncer: biología molecular, hallmarks y perspectivas terapéuticas](#6-genética-del-cáncer-biología-molecular-hallmarks-y-perspectivas-terapéuticas) | S. Y. Ospina Lagos | 158 |
+| 7 | [Técnicas de biología molecular](#7-técnicas-de-biología-molecular) | M. Rey Buitrago | 150 |
+| 8 | [Bases moleculares y variación genética](#8-bases-moleculares-y-variación-genética) ➕ | Sin diapositivas: temas del parcial final I-2026 | 74 |
+| | **Total** | | **1.156** |
 
-**Anexos**: [A. Conexiones entre clases](#anexo-a-conexiones-entre-clases) · [B. Tabla transversal de enfermedades](#anexo-b-tabla-transversal-de-enfermedades) · [C. Fe de erratas consolidada](#anexo-c-fe-de-erratas-consolidada) · [D. Cómo estudiar con el mazo de Anki](#anexo-d-cómo-estudiar-con-el-mazo-de-anki) · [E. Cómo crecerá esta guía](#anexo-e-cómo-crecerá-esta-guía)
+**Anexos**: [A. Conexiones entre clases](#anexo-a-conexiones-entre-clases) · [B. Tabla transversal de enfermedades](#anexo-b-tabla-transversal-de-enfermedades) · [C. Fe de erratas consolidada](#anexo-c-fe-de-erratas-consolidada) · [D. Cómo estudiar con el mazo de Anki](#anexo-d-cómo-estudiar-con-el-mazo-de-anki) · [E. Cómo crecerá esta guía](#anexo-e-cómo-crecerá-esta-guía) · [**F. Parcial final I-2026 resuelto**](#anexo-f-parcial-final-i-2026-resuelto)
 
-**Ruta sugerida**: ciclo celular → reparación del ADN (continúa directamente desde los puntos de control) → genética del cáncer (integra las dos anteriores) → genética del desarrollo → errores innatos del metabolismo. La bioinformática y las técnicas de biología molecular son transversales: estudia las técnicas temprano, porque las demás clases las usan (FISH, PCR, NGS), y usa la bioinformática para buscar en OMIM, dbSNP o Ensembl cada enfermedad.
+**Ruta sugerida**: ciclo celular → reparación del ADN (continúa directamente desde los puntos de control) → genética del cáncer (integra las dos anteriores) → genética del desarrollo → errores innatos del metabolismo. La bioinformática y las técnicas de biología molecular son transversales: estudia las técnicas temprano, porque las demás clases las usan (FISH, PCR, NGS), y usa la bioinformática para buscar en OMIM, dbSNP o Ensembl cada enfermedad. Si te cuesta la base (replicación, código genético, tipos de variantes), empieza por el capítulo 8. Antes del examen, resuelve el [parcial del Anexo F](#anexo-f-parcial-final-i-2026-resuelto) sin mirar las respuestas.
 
 ---
 
@@ -196,6 +198,8 @@ Ejemplo de la clase, "preparar huevos revueltos":
 
 El "algoritmo del éxito" de la diapositiva lo traduce a código: `while (noSuccess) { tryAgain(); if (Dead) break; }`. Muestra tres ideas básicas de programación: un **ciclo** (`while`), una **acción** que se repite y una **condición** (`if`) que detiene el ciclo.
 
+🎯 **Parcial (P6)**: piden la definición textual. Los distractores describen otras cosas: un **lenguaje de programación** (no es "exclusivo de la bioinformática"), la **sintaxis** (reglas gramaticales) y un **sistema operativo**.
+
 #### Lenguaje natural frente a lenguaje de programación *(Diap. 15)*
 
 | Elemento | Lenguaje natural (humano) | Lenguaje de programación |
@@ -343,6 +347,8 @@ Ejemplo de la clase: "La lámpara no funciona" → ¿está enchufada? (no → en
 | Acceso | — | Generalmente de dominio público |
 | Ejemplos | GenBank, ENA, DDBJ (secuencias de nucleótidos) | UniProtKB/Swiss-Prot, RefSeq, OMIM |
 
+🎯 **Parcial (P7)**: un caso de GenBank con las tres pistas de una base primaria: el autor tiene el control editorial, no hay vocabulario controlado y hay redundancia. Dos trampas: el **acceso público** no define si una base es primaria o secundaria, y GenBank **no** tiene un comité que cure cada secuencia (la colección curada del NCBI es **RefSeq**, que es secundaria).
+
 ⚠️✅ La diapositiva 35 muestra el **PDB** como ejemplo de base secundaria. Muchas fuentes lo clasifican como **primaria**, porque archiva las estructuras tal como las depositan los investigadores (aunque el wwPDB las valida). Para el examen usa la clasificación de la clase, pero conoce el matiz.
 
 #### Bases de datos de referencia *(Diap. 36)*
@@ -374,6 +380,7 @@ Ejemplo de la clase: "La lámpara no funciona" → ¿está enchufada? (no → en
 
 #### OMIM *(Diap. 46–48)*
 
+- 🎯 **Parcial (P8)**: OMIM es la base de referencia para **enfermedades de herencia mendeliana**. No la confundas con dbSNP (variantes cortas), Ensembl (navegador de genomas) ni MeSH (vocabulario de PubMed).
 - Creador: **Victor Almon McKusick (1921–2008)**, considerado padre de la genética médica.
 - ***Mendelian Inheritance in Man* (MIM)**: catálogo impreso desde **1966** (12 ediciones).
 - ***Online Mendelian Inheritance in Man* (OMIM)**: versión en línea desde **1987**.
@@ -408,6 +415,7 @@ Ejemplo de la clase: "La lámpara no funciona" → ¿está enchufada? (no → en
 - **Ortega-Recalde et al., 2015** (*Clinical Genetics*): **mutaciones bialélicas en *HERC1*** en una **forma sindrómica de sobrecrecimiento y discapacidad intelectual**.
 - Encontrar la variante causal es **buscar una aguja en un pajar** *(Diap. 53)*: el exoma de una persona tiene decenas de miles de variantes, y se filtran paso a paso hasta quedar unas pocas candidatas.
   - ➕ Filtros típicos: calidad de la lectura → frecuencia en población (descartar las comunes) → efecto en la proteína (cambio de aminoácido, codón de parada, empalme) → predicción de patogenicidad → modelo de herencia → segregación en la familia → plausibilidad del gen.
+  - 🎯 Tipos de variantes, frecuencia (polimorfismo ≥ 1 %) y variantes fuera de los exones, que el parcial preguntó: [capítulo 8](#85-variantes-según-su-efecto-en-la-proteína).
 - Árbol genealógico *(Diap. 54)*: los padres son portadores sanos, cada uno de una variante distinta; los **dos hijos afectados heredaron ambas** y el hermano sano solo una:
   - *HERC1* c.13559G>A (p.Gly4520Glu): cambio de aminoácido (*missense*).
   - *HERC1* c.2625G>A (p.Trp875Ter): codón de parada prematuro (*nonsense*).
@@ -627,6 +635,17 @@ La cita de apertura *(Diap. 2)* es el párrafo final de *El origen de las especi
 
 🩺 ➕ Errores en estas etapas explican trastornos de impronta como Beckwith-Wiedemann, Prader-Willi o Angelman, y el aumento leve de algunos de ellos con técnicas de reproducción asistida.
 
+🎯 **Parcial (P10): ¿qué le hace el borrado a la célula?** Las marcas epigenéticas son la "memoria" de lo que una célula ya es. Borrarlas devuelve a la célula a un estado más primitivo: **aumenta su potencialidad y reduce su diferenciación**. Después, el desarrollo **escribe** marcas nuevas que restringen el destino de cada linaje.
+
+| Momento | Marcas | Potencialidad | Diferenciación |
+|---|---|---|---|
+| Cigoto y blastómeros tempranos (tras el borrado) | Mínimas | **Totipotente** (embrión y anexos) | Ninguna |
+| Masa celular interna y epiblasto | Empiezan a escribirse | **Pluripotente** (las tres capas) | Baja |
+| Célula somática adulta (neurona, eritrocito) | Completas y estables | **Uni- o nulipotente** | Máxima |
+| iPSC (reprogramación de Yamanaka, sección 2.3) | Borradas de nuevo | Pluripotente | Se pierde |
+
+🧠 **Borrar = volver atrás**: más potencialidad, menos diferenciación. **Escribir = avanzar**: menos potencialidad, más diferenciación.
+
 #### Epigenética *(Diap. 9)*
 
 📌 Área encargada del estudio de los **cambios hereditarios en la expresión génica que no involucran cambios en la secuencia del ADN**. "Epi" = "por encima de".
@@ -668,6 +687,17 @@ Disco bilaminar                  Disco trilaminar
 1. Existe un **gran número de familias de genes** involucradas en el desarrollo embrionario normal.
 2. Se han estudiado en **especies modelo** (mosca, pez cebra, ratón), lo que permitió identificar **vías moleculares o cascadas conservadas** a través de la evolución.
 3. Mutaciones en estos genes pueden causar **malformaciones aisladas o formas sindromáticas**.
+
+🎯 **Parcial (P11)**: cada opción falsa contradice una idea de la clase, y la correcta repite otra.
+
+| Lo que dice la clase | Opción del parcial |
+|---|---|
+| El desarrollo es una serie **compleja y altamente coordinada** de pasos, controlada por redes regulatorias (Diap. 16) | ❌ "Procesos de regulación simples y a menudo no relacionados" |
+| Existe un **gran número** de familias de genes del desarrollo (Diap. 12) | ❌ "Un número reducido de miembros encargados de un gran número de procesos" |
+| Las vías y cascadas están **conservadas** en la evolución (Diap. 12, 30) | ❌ "Altamente variables entre especies" |
+| Las mutaciones en estos genes (por ejemplo, HOX) **conducen a menudo a letalidad fetal** (Diap. 30) | ✅ "Los organismos son poco resilientes a mutaciones en estos genes y pueden causar letalidad temprana" |
+
+⚠️ ➕ Matiz: también existe **redundancia** entre genes parálogos (por ejemplo, entre los 39 genes HOX), y por eso los síndromes HOX humanos conocidos son compatibles con la vida (sección 2.6). Para el examen, sigue la idea de la clase. Discusión en el [Anexo F](#anexo-f-parcial-final-i-2026-resuelto).
 
 #### Factores de transcripción *(Diap. 13)*
 
@@ -800,6 +830,7 @@ Ligando (dímero) → receptor tipo II (Ser/Thr cinasa) → fosforila receptor t
   - ***Antennapedia***: crecen **patas en lugar de antenas**.
   - ***Ultrabithorax***: el tercer segmento torácico se transforma en el segundo y la mosca tiene **cuatro alas** (dos pares) en lugar de dos alas y dos balancines.
 - Una **mutación homeótica** transforma una parte del cuerpo en otra: la estructura es normal, pero aparece en el sitio equivocado.
+- 🎯 **Parcial (P9)**: "alas en un segmento donde no deberían estar" = **pérdida de identidad del segmento** = gen **Hox**. Cómo descartar a los demás: un gen **materno** (*bicoid*) altera todo el eje anteroposterior; un ***gap*** (*hunchback*) hace que **falte** un bloque de segmentos contiguos; uno de **polaridad segmentaria** (*engrailed*) altera la parte anterior y posterior **dentro** de cada segmento.
 
 #### HOX en humanos *(Diap. 30)*
 
@@ -861,6 +892,23 @@ Ligando (dímero) → receptor tipo II (Ser/Thr cinasa) → fosforila receptor t
 | **Transducción de señales (vía RAS-MAPK)** | RASopatías: Noonan (*PTPN11*), neurofibromatosis tipo 1 (*NF1*), Costello (*HRAS*) |
 | **Receptores de FGF (FGFR)** | *FGFR3* (acondroplasia), *FGFR2* (Apert, Crouzon) |
 
+#### 🎯 ➕ *TBX1* y el síndrome de deleción 22q11.2 (DiGeorge)
+
+El parcial (P12) preguntó por qué *TBX1* explica el fenotipo de esta deleción.
+
+| | |
+|---|---|
+| Frecuencia | ~1 en 4.000 nacidos vivos: la **microdeleción más frecuente** en humanos |
+| Alteración | Deleción de ~3 Mb en **22q11.2**, con **30–40 genes**; ~90 % *de novo*; herencia autosómica dominante cuando se transmite |
+| Gen principal | ***TBX1***, un **factor de transcripción T-box**. Con una sola copia (**haploinsuficiencia**) no se activan bien sus genes diana en el aparato faríngeo. Personas con mutaciones puntuales de *TBX1* sin deleción reproducen gran parte del cuadro |
+| Por qué esos órganos | *TBX1* se expresa en los **arcos y bolsas faríngeas**, de donde salen el tracto de salida del corazón, el **timo** y las **paratiroides** (3.ª y 4.ª bolsas) y estructuras del paladar y la cara |
+| Clínica | **Cardiopatía conotruncal** (tetralogía de Fallot, interrupción del arco aórtico tipo B, tronco arterioso), **hipoplasia tímica** (déficit de linfocitos T, infecciones), **hipocalcemia** (hipoparatiroidismo), **paladar hendido** o insuficiencia velofaríngea, rasgos faciales, dificultades de aprendizaje y mayor riesgo psiquiátrico en la adultez |
+| Diagnóstico | **FISH** o **microarreglo cromosómico**: el cariotipo convencional no ve una deleción de 3 Mb ([capítulo 7](#713-fish-diap-38)) |
+
+🧠 **CATCH-22**: **C**ardiopatía, **A**nomalías faciales, **T**imo hipoplásico, ***C**left* (paladar hendido), **H**ipocalcemia, cromosoma **22**.
+
+⚠️ Por qué fallan los otros distractores del parcial: no es el único gen del desarrollo cardiaco (también *TBX5*, *NKX2-5*, *GATA4*), no codifica una proteína estructural y la deleción es **autosómica**, no ligada al X (afecta por igual a hombres y mujeres).
+
 #### Ejemplo: síndrome de Holt-Oram (HOS) *(Diap. 37)*
 
 | | |
@@ -905,6 +953,8 @@ Ligando (dímero) → receptor tipo II (Ser/Thr cinasa) → fosforila receptor t
 | **Asociación** | Grupo de malformaciones que ocurren juntas **más de lo esperado por azar**, **sin un patrón etiológico unificado o conocido** | **VACTERL** |
 | **Secuencia** | Patrón de múltiples anomalías que resultan de **una única anomalía primaria** (en cascada) | **Pierre Robin** |
 | **Síndrome** | **Patrón reconocible** de malformaciones o hallazgos, a menudo con una **causa molecular subyacente conocida** | Síndrome de Down, síndrome de Marfan |
+
+🎯 **Parcial (P36)**: la definición de **asociación** se preguntó casi textual, como pregunta de completar: "malformaciones que ocurren más frecuentemente de lo esperado, sin un patrón etiológico unificado o conocido".
 
 **VACTERL** *(Diap. 45)*: **V**ertebrales (defectos), **A**tresia anal, **C**ardiacos (defectos), **T**raqueo**E**sofágica (fístula), **R**enales (anomalías), **L**imb = extremidades (anomalías). ➕ Se sugiere con 3 o más.
 
@@ -1120,6 +1170,18 @@ La diapositiva 2 (una orquesta) resume la idea: muchos instrumentos (proteínas)
 9. **p53**, "guardián del genoma": sin daño, **MDM2** lo degrada; con daño, se fosforila, se estabiliza e induce **p21** (arresto), **reparación** o **PUMA/BAX/NOXA** (apoptosis). **p53 no es una CKI.**
 10. **SAC**: un solo cinetocoro sin unir activa MAD2/BUBR1/BUB3, que inhiben **APC/C–Cdc20**. Al unirse todos, el APC/C degrada **securina** y **ciclina B**, la **separasa** corta la cohesina y empieza la anafase.
 11. **G0 (quiescencia) es reversible; la senescencia no.**
+
+🎯 **Lo que preguntó el parcial final I-2026 (P23–P29)**, siempre como "¿qué pasa si...?" o "¿en qué fase está?":
+
+| Pregunta | Respuesta | Dónde |
+|---|---|---|
+| Sin p53 funcional | La célula **sigue el ciclo aunque tenga el ADN dañado** | [3.13](#313-respuesta-al-daño-del-adn-y-p53-diap-4345) |
+| ADN ya duplicado, la célula crece y sintetiza proteínas para la mitosis | **G2** | [3.5](#35-fase-g2-diap-17) |
+| Sin Rb funcional | **Entrada incontrolada en S** (E2F libre) | [3.11](#311-mitógenos-y-punto-de-restricción-diap-3839) |
+| Qué evalúa el punto de control M | La **correcta unión de los cromosomas al huso** | [3.14](#314-punto-de-control-del-huso-sac-diap-46) |
+| Por qué las neuronas quedan en G0 | Son **terminalmente diferenciadas** y salieron del ciclo (tienen ADN, CDK y síntesis de proteínas) | [3.3](#33-fase-g1-y-el-estado-g0-diap-1114) |
+| Cómo actúan las CDK | Se **activan al unirse a ciclinas específicas**; las CDK son las cinasas, las ciclinas las regulan | [3.8](#38-el-motor-cdk-y-ciclinas-diap-2226) |
+| Función de p53 ante el daño | **Detener el ciclo para reparar o inducir apoptosis** si el daño es irreparable | [3.13](#313-respuesta-al-daño-del-adn-y-p53-diap-4345) |
 
 ---
 
@@ -1888,6 +1950,8 @@ Usadas en las ampliaciones:
 10. En **Colombia** la **Ley 1980 de 2019** creó el programa de tamizaje neonatal; la **Resolución 117 de 2026** hizo obligatorias siete pruebas metabólicas (antes solo hipotiroidismo).
 11. **Si sospechas un EIM, toma y congela muestras durante la crisis**; el diagnóstico puede depender de ellas.
 
+🎯 **Lo que preguntó el parcial final I-2026**: la herencia de la mayoría de los EIM (**autosómica recesiva**, P30; por qué, en la [sección 8.8](#88-herencia-penetrancia-y-expresividad)), la consecuencia de un defecto enzimático (**acumulación del sustrato y/o deficiencia del producto**, P31), por qué importa el diagnóstico temprano (**algunas complicaciones se previenen con tratamiento oportuno**, P32) y una pregunta abierta: **cinco enfermedades del tamizaje neonatal colombiano y por qué detectar una a tiempo cambia el pronóstico** (P37–P40, respuesta modelo en la [sección 4.3](#43-epidemiología-y-tamizaje-neonatal-en-colombia-diap-89)).
+
 ---
 
 ### 4.1 Historia *(Diap. 4)*
@@ -1963,6 +2027,20 @@ Los EIM están presentes **en todos los grupos étnicos y en todas las edades**.
 - ✅ **Actualización 2026**: la **Resolución 117 de 2026** del Ministerio de Salud (30 de enero de 2026) hizo **obligatorias** las seis pruebas que se suman al hipotiroidismo congénito. El país pasa de **una a siete pruebas metabólicas**, con muestra del **talón entre las 48 y 72 horas** de vida y cuatro componentes de tamizaje (visual, auditivo, cardiopatías congénitas complejas y endocrino-metabólico). La implementación es progresiva: al terminar 2026, al menos el 79 % de los recién nacidos debe tener las seis nuevas pruebas ([MinSalud, 2026](https://www.minsalud.gov.co/Comunicaciones/noticias/2026/Paginas/minsalud-amplia-tamizaje-neonatal.aspx)). Antes, la Resolución 207 de 2024 había adoptado los lineamientos técnicos del programa.
 
 🧠 **Las 7 del talón**: **"Tiroides, Fenil, Galacto, Fibro, Supra, Bio, Hemo"**.
+
+#### 🎯 Pregunta abierta del parcial: ¿por qué detectarlas a tiempo cambia el pronóstico?
+
+El parcial final I-2026 pidió nombrar **cinco** de estas enfermedades y explicar, para **una**, por qué la detección temprana modifica el pronóstico (P37–P40). Para cualquiera de ellas, la respuesta tiene la misma estructura: (1) el recién nacido **parece sano** al principio; (2) existe un **tratamiento eficaz**; (3) aplicarlo **antes de los síntomas previene la secuela**.
+
+| Condición | ➕ Tratamiento temprano | Lo que se previene |
+|---|---|---|
+| **Hipotiroidismo congénito** | **Levotiroxina** oral desde las primeras **2 semanas** | **Discapacidad intelectual** y retraso del crecimiento. Es el ejemplo clásico: sin tamizaje, el diagnóstico clínico llega tarde porque los signos son sutiles |
+| **Fenilcetonuria** | **Dieta restringida en fenilalanina** con fórmula especial desde las primeras semanas ([sección 4.7](#47-fenilcetonuria-pku-diap-1926)) | Discapacidad intelectual grave, convulsiones, problemas de conducta |
+| **Galactosemia clásica** | **Retirar la lactosa** (fórmula sin lactosa ni galactosa) | Falla hepática, sepsis por *E. coli*, cataratas y muerte neonatal (pueden quedar secuelas a largo plazo, como insuficiencia ovárica) |
+| **Hiperplasia suprarrenal congénita** (déficit de 21-hidroxilasa) | **Hidrocortisona** (± fludrocortisona) | **Crisis suprarrenal perdedora de sal**, que puede matar en las primeras semanas; permite además asignar bien el sexo en niñas virilizadas |
+| **Déficit de biotinidasa** | **Biotina** oral, barata, de por vida | Convulsiones, hipotonía, sordera, atrofia óptica, alopecia y dermatitis |
+| **Fibrosis quística** | Nutrición, **enzimas pancreáticas**, fisioterapia respiratoria y moduladores de CFTR | Desnutrición y deterioro pulmonar precoz |
+| **Hemoglobinopatías** (anemia falciforme) | **Penicilina profiláctica**, vacunas y educación a la familia | Muerte por sepsis neumocócica en la infancia |
 
 ---
 
@@ -3411,9 +3489,10 @@ extienden colas 3′  y activa ATR        RPA por RAD51           en la cromáti
 🧠 El riesgo de mama es parecido (~70 %) con los dos genes; el de ovario es **mucho mayor con BRCA1** (44 % frente a 17 %).
 
 **Puntos clave:**
-- Herencia **autosómica dominante**; el tumor **pierde el segundo alelo**.
+- Herencia **autosómica dominante con penetrancia incompleta**; el tumor **pierde el segundo alelo**. 🎯 El parcial (P2) preguntó justo esto: no todas las portadoras desarrollan cáncer (la tabla de arriba muestra ~70 % de riesgo de mama, no 100 %), y el riesgo cambia con el gen, el sexo, la edad, los factores hormonales y reproductivos y las variantes de riesgo poligénico ([sección 8.8](#88-herencia-penetrancia-y-expresividad)).
 - También aumentan el riesgo de cáncer de **próstata, páncreas y mama masculino** (sobre todo **BRCA2**).
 - **Mutaciones fundadoras** en **judíos asquenazíes**: **185delAG** y **5382insC** (BRCA1) y **6174delT** (BRCA2).
+  - 🎯 ➕ En la nomenclatura HGVS actual, 6174delT se escribe ***BRCA2* c.5946delT** (p.Ser1982Argfs\*22), y así apareció en el parcial (P3): la deleción de una sola base **corre el marco de lectura** y genera un codón de parada prematuro ([sección 8.5](#85-variantes-según-su-efecto-en-la-proteína)). Las otras dos: 185delAG = c.68_69delAG y 5382insC = c.5266dupC (BRCA1).
 - **Opciones**: vigilancia con **resonancia magnética**, **cirugía reductora de riesgo** e **inhibidores de PARP**.
 
 ➕ **Más detalles útiles:**
@@ -3576,6 +3655,8 @@ Un **enlace cruzado intercatenario (ICL)** une covalentemente las dos hebras. Ni
 ```
 
 📌 **¿Por qué las células normales de una portadora de BRCA1 toleran el fármaco?** Porque son **heterocigotas**: conservan un alelo funcional y hacen HR. Solo las células tumorales perdieron el segundo alelo (sección 5.1.5).
+
+🎯 **Parcial (P4)**: la respuesta fue "letalidad sintética por bloqueo simultáneo de la reparación de roturas de cadena sencilla (SSB) y de doble cadena (DSB)". Entiende quién aporta cada bloqueo: el **fármaco** bloquea la reparación de las **SSB** (PARP); el **tumor**, por su BRCA mutado, no repara las **DSB** por recombinación homóloga. Los distractores: NHEJ no es exclusiva del tumor (está en todas las células), el fármaco no actúa sobre las ciclinas ni sobre el MMR.
 
 **Evidencia clínica:**
 - **OlympiAD** (Robson et al., NEJM 2017): olaparib en cáncer de mama metastásico HER2− con BRCA germinal; supervivencia libre de progresión de **7,0 frente a 4,2 meses** con la quimioterapia estándar.
@@ -3951,15 +4032,15 @@ Porque predice **beneficio de la temozolomida**. Sin MGMT, el tumor no puede ret
 
 #### 5.16.1 Plan sugerido (5 sesiones)
 
-| Sesión | Contenido | Tarjetas nuevas |
+| Sesión | Contenido | Tarjetas nuevas (etiquetas) |
 |---|---|---|
-| 1 | Secciones 5.1–5.2 (prerrequisitos, daño, DDR, mapa) | Subdecks 00–01 |
-| 2 | Secciones 5.3–5.4 (reversión directa y BER) | Subdecks 02–03 |
-| 3 | Sección 5.5 (NER, XP, Cockayne, TTD, cisplatino) | Subdeck 04 |
-| 4 | Secciones 5.6–5.7 (MMR, Lynch, inmunoterapia, DSB, BRCA, A-T) | Subdecks 05–06 |
-| 5 | Secciones 5.8–5.10 y casos (Fanconi, TLS, integración) | Subdecks 07–10 |
+| 1 | Secciones 5.1–5.2 (prerrequisitos, daño, DDR, mapa) | `fundamentos`, `dano` |
+| 2 | Secciones 5.3–5.4 (reversión directa y BER) | `reversion_directa`, `ber` |
+| 3 | Sección 5.5 (NER, XP, Cockayne, TTD, cisplatino) | `ner` |
+| 4 | Secciones 5.6–5.7 (MMR, Lynch, inmunoterapia, DSB, BRCA, A-T) | `mmr`, `dsb` |
+| 5 | Secciones 5.8–5.10 y casos (Fanconi, TLS, integración) | `fanconi`, `tls`, `integracion`, `casos` |
 
-Lee la sección **antes** de estudiar sus tarjetas nuevas: Anki sirve para **retener**, no para aprender por primera vez.
+Lee la sección **antes** de estudiar sus tarjetas nuevas: Anki sirve para **retener**, no para aprender por primera vez. Las tarjetas nuevas salen en este mismo orden si dejas el orden de nuevas por **mazo**.
 
 #### 5.16.2 El submazo *05 Reparación del ADN*
 
@@ -3967,45 +4048,32 @@ Lee la sección **antes** de estudiar sus tarjetas nuevas: Anki sirve para **ret
 
 **Importar**: en Anki de escritorio, *Archivo → Importar* y elige el `.apkg` (o ábrelo con doble clic). En AnkiDroid y AnkiMobile, abre el archivo desde la app.
 
-**Estructura**: el submazo **05 Reparación del ADN** del mazo *Genética y Biología Molecular (UNAL 2026)*, con subdecks numerados que siguen este capítulo:
+**Formato**: todas sus tarjetas son **Basic**, con el mismo tipo de nota que los demás capítulos (*Genética Básico*). Son **366 tarjetas** en un solo submazo, ordenadas como este capítulo: fundamentos → daño → vías → clínica → casos.
 
-```
-Genética y Biología Molecular (UNAL 2026)::05 Reparación del ADN
-├── 00 · Fundamentos
-├── 01 · Daño del ADN y DDR
-├── 02 · Reversión directa
-├── 03 · BER
-├── 04 · NER
-├── 05 · MMR
-├── 06 · Roturas de doble cadena (NHEJ · HR)
-├── 07 · Fanconi y enlaces cruzados
-├── 08 · Tolerancia al daño (TLS)
-├── 09 · Integración clínica y terapias
-└── 10 · Casos clínicos
-```
+- Arriba, en letra pequeña, el **tema** de la tarjeta (por ejemplo, "NER · Firma UV").
+- **Pregunta-respuesta**: la respuesta en negrita y, debajo, una línea gris con el "por qué", la mnemotecnia (🧠) y la fuente (número de diapositiva o "➕ Ampliación").
+- **Completar**: las que antes eran *cloze* muestran la frase con un hueco **[…]**; el reverso da lo que falta. Cada hueco es una tarjeta distinta, como antes.
+- **Casos clínicos**: viñeta y pregunta en el anverso; respuesta, razonamiento y perla clínica (💎) en el reverso.
 
-**Tipos de tarjeta**:
-- **Pregunta/Respuesta**: con un recuadro de *"Por qué"* para entender, no solo recordar, y mnemotecnias cuando existen.
-- **Cloze** (completar): para datos atómicos y secuencias de pasos; cada hueco es una tarjeta distinta.
-- **Caso clínico**: viñeta breve + pregunta + razonamiento + perla.
-- Cada tarjeta indica su **fuente** (número de diapositiva o referencia). El color del encabezado identifica la vía, y las tarjetas de "mapa" y de casos usan un encabezado neutro para no revelar la respuesta.
-
-**Etiquetas útiles** (filtra en el Explorador):
+**Etiquetas útiles** (filtra en el Explorador con `tag:nombre`):
 
 | Etiqueta | Para qué sirve |
 |---|---|
-| `ReparacionADN::fuente::clase` | Solo el contenido de las diapositivas |
-| `ReparacionADN::fuente::ampliacion` | Lo añadido en esta guía; suspéndelo si solo quieres lo de la clase |
-| `ReparacionADN::HY` | Alto rendimiento (lo más preguntado) |
-| `ReparacionADN::tipo::dato_numerico` | Cifras; suspéndelas si tu examen no pide números |
-| `ReparacionADN::tipo::clinica`, `::farmaco`, `::mecanismo`, `::caso` | Repaso por tipo de contenido |
+| `fundamentos`, `dano`, `ddr`, `reversion_directa`, `ber`, `ner`, `mmr`, `dsb`, `fanconi`, `tls`, `integracion`, `casos` | Una vía o un bloque del capítulo (equivalen a los antiguos subdecks 00–10) |
+| `alto_rendimiento` | Lo más preguntado |
+| `ampliacion` | Lo añadido en esta guía; suspéndelo si solo quieres lo de la clase |
+| `numeros` | Cifras; suspéndelas si tu examen no pide números |
+| `concepto`, `clinica`, `terapia`, `caso`, `historia` | Repaso por tipo de contenido |
+| `parcial` | Lo que evaluó el parcial final I-2026 (herencia de BRCA, letalidad sintética) |
 
 **Ajustes recomendados** (*Opciones del mazo*):
 - Activa **FSRS** con una retención deseada de **0,90**.
 - **Nuevas por día: 20–30.** Este submazo tiene 366 tarjetas: a 25 por día terminas las nuevas en unos 15 días. Si tienes examen pronto, sube a 40–50.
-- Activa **"Enterrar tarjetas hermanas"** (nuevas y de repaso), para no ver juntos los huecos de un mismo cloze.
 - Orden de nuevas: **"Mazo"**, para respetar el orden pedagógico (fundamentos → vías → clínica).
+- ⚠️ Los huecos de una misma frase son ahora notas distintas, así que Anki ya no los "entierra" como hermanos y pueden salir seguidos el primer día. Si te molesta, cambia el orden de las tarjetas nuevas a **aleatorio** en *Opciones del mazo → Orden de visualización*.
 - No borres tarjetas que te parezcan fáciles: déjalas, y Anki las espaciará solo.
+
+**Si ya habías importado una versión anterior** (con los tipos de nota *RepADN · Cloze*, *RepADN · Pregunta-Respuesta* y *RepADN · Caso clínico*): las instrucciones para pasar a la versión Basic están en el [README](README.md).
 
 ---
 
@@ -5011,6 +5079,8 @@ La **t(15;17)** crea la fusión **PML-RARα**, que reprime los genes de diferenc
 
 ⚠️ Casi todos los síndromes hereditarios se deben a **genes supresores**. La excepción clásica es ***RET*** en la **MEN2**: un **oncogén** con mutación germinal de ganancia de función (igual que *MET* en el carcinoma renal papilar hereditario). Por eso en la MEN2 se hace **tiroidectomía profiláctica** según la mutación.
 
+🎯 **AD casi siempre significa "AD con penetrancia incompleta"** en estos síndromes: se hereda la **predisposición** (un alelo mutado), pero el cáncer solo aparece si una célula pierde el segundo alelo. Por eso hay portadores que nunca enferman y "saltos" aparentes de generación. El parcial lo preguntó para *BRCA1/2* (P2; [sección 8.8](#88-herencia-penetrancia-y-expresividad)).
+
 🩺 **Señales de alarma de cáncer hereditario**: diagnóstico a edad temprana, tumores bilaterales o múltiples, varios familiares afectados en la misma rama, tumores raros (sarcoma infantil, cáncer de mama en hombres, carcinoma suprarrenal) y combinaciones típicas (colon + endometrio; mama + ovario).
 
 ---
@@ -5590,6 +5660,34 @@ La diapositiva da una secuencia de **350 pb** (molécula lineal) y tres enzimas:
 
 ➕ **Vector de clonación frente a vector de expresión**: el de expresión agrega un **promotor** adecuado al huésped, un sitio de unión al ribosoma (o secuencia de Kozak en eucariotas) y un terminador, para **producir la proteína**.
 
+#### 🎯 ➕ Vectores de expresión en células de mamífero
+
+El parcial (P18 y P19) mostró este plásmido y preguntó qué tipo de vector es:
+
+```
+   ┌──── Ori ────── Promotor CMV ────── SMC ────── Cola de poli(A) ────┐
+   │                                (BamHI, XbaI,                       │
+   │                                 SalI, HindIII)                     │
+   └──────────────────────── Amp^R ─────────────────────────────────────┘
+```
+
+| Elemento | Para qué sirve | ¿Dónde funciona? |
+|---|---|---|
+| **Origen de replicación bacteriano** (pUC/ColE1) | Producir muchas copias del plásmido | En *E. coli* |
+| **Amp<sup>R</sup>** (resistencia a ampicilina) | Seleccionar las **bacterias** que tienen el plásmido | En *E. coli*. **No** hace que el vector sea de expresión |
+| **Promotor CMV** (del citomegalovirus) | Promotor **fuerte y constitutivo** que dirige la transcripción del inserto | En **células de mamífero**. Es lo que lo hace **vector de expresión** |
+| **Sitio múltiple de clonación (SMC)** | Sitios de restricción únicos donde insertar el gen, justo después del promotor | — |
+| **Señal de poliadenilación** (bGH o SV40) | Termina la transcripción y añade la cola de poli(A), que estabiliza el ARNm | En células de mamífero |
+| ➕ Marcador de selección **en mamífero** (neomicina/G418, puromicina, higromicina) | Seleccionar las pocas células que **integraron** el plásmido, para hacer **líneas estables** | En células de mamífero |
+
+📌 Lo **mínimo** para expresar en mamífero es **un promotor fuerte (CMV) y una señal de poliadenilación**; para fabricar el plásmido se necesitan además el origen y la resistencia **bacterianos**.
+
+⚠️ Trampas del parcial:
+- No necesita un origen que funcione **en mamíferos**: en la mayoría de los usos el plásmido no se replica en la célula de mamífero (expresión transitoria). Un origen de mamífero, como el de SV40, solo funciona en células que producen el antígeno T grande (COS, HEK293T).
+- La **integración** en el genoma es rara y al azar; por eso se necesita un marcador de selección para obtener líneas estables.
+- Es un **plásmido**: acepta insertos de menos de ~15 kb. Los 500 kb son terreno de YAC y MAC; el **BAC** se basa en el plásmido F, lleva resistencia a cloranfenicol y acepta 150–300 kb.
+- ➕ Si lees la secuencia del SMC (CGGATCC TCTAGA GTCGAC CTGCAG AAGCTT), encuentras también un sitio de **PstI** (CTGCAG) entre SalI y HindIII.
+
 ---
 
 ### 7.9 El plásmido y el flujo de la clonación *(Diap. 27–29)*
@@ -5816,6 +5914,7 @@ ADN molde · **dos cebadores** (directo y reverso) · **dNTP** · **Mg²⁺** ·
 | **2. Alineamiento (*annealing*)** | **50–65 °C** | Los cebadores se unen a sus secuencias complementarias (➕ ~5 °C por debajo de su Tm) |
 | **3. Extensión** | **72 °C** | La **Taq polimerasa** sintetiza la cadena nueva desde el extremo 3' del cebador (➕ ~1 kb por minuto) |
 
+- 🎯 **Parcial (P13)**: el orden de temperaturas es siempre **desnaturalización > extensión > alineamiento** (por ejemplo, 94 °C → 62 °C → 74 °C). El alineamiento **nunca** va por encima de la extensión: la especificidad se logra poniendo el alineamiento cerca de la Tm de los cebadores (a mayor temperatura, menos uniones inespecíficas). La extensión dura más si el amplicón es más largo (~1 min por kb).
 - Se repite **20–40 veces** (~30 ciclos).
 - Crecimiento **exponencial: 2ⁿ**. Tras 30 ciclos, en teoría, **2³⁰ ≈ 10⁹ copias** por molécula molde. ➕ En la práctica la reacción llega a una **meseta** porque se agotan los reactivos.
 
@@ -5857,6 +5956,20 @@ ADN molde · **dos cebadores** (directo y reverso) · **dNTP** · **Mg²⁺** ·
 📌 En Sanger, la mezcla tiene **muchos dNTP y pocos ddNTP**. Cada molécula se detiene en una posición distinta; al ordenar los fragmentos por tamaño, el color del último nucleótido da la secuencia.
 
 ➕ Sanger recibió por este método su **segundo Nobel de Química (1980)**.
+
+#### 🎯 ➕ Cómo lee cada plataforma
+
+El parcial (P14) preguntó por el principio de **Illumina** y usó los de otras plataformas como distractores:
+
+| Plataforma | ¿Amplifica antes? | Qué detecta | Principio |
+|---|---|---|---|
+| **Illumina** (antes Solexa) | **Sí**: cada fragmento se copia en un *cluster* sobre la celda de flujo (**amplificación en puente**) | **Fluorescencia** | Secuenciación por síntesis con **terminadores reversibles**: los cuatro nucleótidos llevan un fluoróforo distinto y el 3′ bloqueado, así que entra **un solo nucleótido por ciclo**; se toma una imagen, se retiran el bloqueo y el fluoróforo, y se repite |
+| **Ion Torrent** | Sí (PCR en emulsión) | **Protones (H⁺)**: cambio de pH | Cada incorporación libera un H⁺, que detecta un chip semiconductor |
+| **Pirosecuenciación** (454, ya retirada) | Sí (PCR en emulsión) | **Luz** | El pirofosfato liberado se convierte en ATP y la luciferasa emite luz |
+| **PacBio** (SMRT) | **No**: una sola molécula | Fluorescencia en tiempo real | Una polimerasa fija en un pocillo diminuto incorpora nucleótidos marcados |
+| **Oxford Nanopore** | **No**: una sola molécula | **Corriente eléctrica** | La molécula pasa por un nanoporo y cada secuencia de bases altera la corriente de forma característica |
+
+🧠 **Illumina = "Ilumina una base por ciclo"**: fluorescencia + terminador reversible + un nucleótido cada vez.
 
 | | **Sanger** | **NGS (segunda generación, p. ej., Illumina)** | ➕ **Lecturas largas (PacBio, Oxford Nanopore)** |
 |---|---|---|---|
@@ -6153,6 +6266,555 @@ Usadas en la verificación y las ampliaciones:
 
 ---
 
+## 8. Bases moleculares y variación genética
+
+> ➕ **Capítulo sin diapositivas.** Cubre los temas que el [parcial final I-2026](#anexo-f-parcial-final-i-2026-resuelto) evaluó y que no estaban en las clases de los capítulos 1 a 7: replicación, transcripción, tipos de ARN, código genético, tipos de variantes, herencia y morfología de los cromosomas. Los datos están verificados contra textos de referencia (ver [verificación](#-verificación-de-datos-capítulo-8)). Si llegan las diapositivas de estas clases, se integran aquí.
+> 🎯 marca lo que preguntó el parcial; el número entre paréntesis es la pregunta (P16 = pregunta 16).
+
+---
+
+### Índice (capítulo 8)
+
+- [Lo esencial en un minuto](#lo-esencial-en-un-minuto-capítulo-8)
+- [8.1 Replicación del ADN](#81-replicación-del-adn)
+- [8.2 Transcripción y su regulación](#82-transcripción-y-su-regulación)
+- [8.3 Los ARN de la célula](#83-los-arn-de-la-célula)
+- [8.4 Código genético y traducción](#84-código-genético-y-traducción)
+- [8.5 Variantes según su efecto en la proteína](#85-variantes-según-su-efecto-en-la-proteína)
+- [8.6 Variantes fuera de los exones](#86-variantes-fuera-de-los-exones)
+- [8.7 Frecuencia, origen y efecto de las variantes](#87-frecuencia-origen-y-efecto-de-las-variantes)
+- [8.8 Herencia: penetrancia y expresividad](#88-herencia-penetrancia-y-expresividad)
+- [8.9 Cromosomas: morfología y cariotipo](#89-cromosomas-morfología-y-cariotipo)
+- [✅ Verificación de datos](#-verificación-de-datos-capítulo-8)
+- [Autoevaluación](#autoevaluación-capítulo-8)
+- [Glosario](#glosario-capítulo-8)
+- [Referencias](#referencias-capítulo-8)
+
+---
+
+### Lo esencial en un minuto (capítulo 8)
+
+📌 Si solo repasas algo de este capítulo, que sea esto:
+
+1. Las ADN polimerasas solo sintetizan **5′→3′** y necesitan un **cebador de ARN** (lo hace la primasa). Como las hebras son **antiparalelas**, la hebra **líder** se copia continua y la **retrasada** en **fragmentos de Okazaki**. La corrección 3′→5′ **no** explica los fragmentos.
+2. **Cis** = secuencia de ADN en la misma molécula (promotor, *enhancer*). **Trans** = molécula difusible (factor de transcripción, miARN). Un *enhancer* es cis aunque esté a 1 Mb del gen.
+3. La **metilación del ADN** y las **modificaciones de histonas** cambian la accesibilidad de la cromatina sin cambiar la secuencia. Los **miARN** actúan **después** de la transcripción, sobre el ARNm.
+4. ARN celular total: **ARNr ~80 %**, ARNt ~15 %, ARNm ~3–5 %.
+5. ARNm **procariota**: **policistrónico**, sin caperuza, sin cola de poli(A) estable, sin intrones. ARNm **eucariota**: monocistrónico, con caperuza 5′, cola de poli(A) y *splicing*. Los dos tienen UTR.
+6. Código genético: 64 codones, **61 con sentido y 3 de parada (UAA, UAG, UGA)**; AUG = Met = inicio. Es **degenerado** (redundante) pero **no ambiguo**.
+7. Por su efecto en la proteína, una variante puede ser **sinónima**, **de sentido erróneo** (*missense*), **sin sentido** (*nonsense*: crea un codón de parada), de **cambio del marco de lectura** (*frameshift*: indel no múltiplo de 3) o **de *splicing***.
+8. Fuera de los exones también hay variantes patogénicas: sitios canónicos de *splicing* (GT…AG), intrones profundos, promotores, UTR y *enhancers*. Pero **la gran mayoría de las variantes de un genoma son benignas**.
+9. **Polimorfismo** = variante con frecuencia alélica **≥ 1 %**. Las variantes *de novo* nacen sobre todo en la **línea germinal paterna**, antes de la fecundación.
+10. **Penetrancia** = proporción de portadores que expresa el fenotipo. *BRCA1/2*: **autosómico dominante con penetrancia incompleta**. Los EIM son en su mayoría **autosómicos recesivos**.
+11. Cromosomas **acrocéntricos** (13, 14, 15, 21 y 22): brazo corto **muy pequeño con satélites**, que llevan los genes del ARNr.
+
+---
+
+### 8.1 Replicación del ADN
+
+🎯 P16 y P21.
+
+📌 La replicación es **semiconservativa**: cada molécula hija tiene una hebra parental y una nueva. Empieza en muchos **orígenes** a la vez (en eucariotas, decenas de miles) y avanza en dos **horquillas** que se alejan del origen.
+
+#### Las enzimas de la horquilla
+
+| Proteína | Qué hace | ⚠️ Lo que preguntan |
+|---|---|---|
+| **Helicasa** (MCM en eucariotas, DnaB en *E. coli*) | Separa las hebras rompiendo los puentes de hidrógeno | **Consume ATP** |
+| **Topoisomerasa** | Alivia el superenrollamiento que se acumula delante de la horquilla | Diana de quimioterápicos (irinotecán, etopósido) y de quinolonas en bacterias |
+| **Proteínas de unión a cadena sencilla** (RPA en eucariotas, SSB en bacterias) | Impiden que las hebras separadas se vuelvan a aparear | RPA es también un sensor de daño (capítulo 5) |
+| **Primasa** | Sintetiza un **cebador de ARN** corto (~10 nt) | Hace **ARN**, no ADN |
+| **ADN polimerasa** | Añade nucleótidos al extremo **3′-OH** de un cebador, solo en dirección **5′→3′**. En eucariotas, Pol α (con la primasa) inicia, Pol ε copia la hebra líder y Pol δ la retrasada | No puede empezar de cero; necesita el cebador |
+| **Actividad exonucleasa 3′→5′** (corrección de pruebas) | Retira el nucleótido mal incorporado | Mejora la fidelidad, pero **no** explica los fragmentos de Okazaki |
+| **PCNA** (abrazadera deslizante) | Mantiene la polimerasa unida al ADN | También orienta al MMR (capítulo 5) |
+| **RNasa H y FEN1** | Retiran los cebadores de ARN | |
+| **ADN ligasa** | Sella las mellas entre fragmentos | Consume ATP (en bacterias, NAD⁺) |
+| **Telomerasa** | Alarga los telómeros con su propio molde de ARN | Resuelve el problema de la replicación de los extremos (capítulo 3) |
+
+#### Hebra líder y hebra retrasada
+
+```
+                                            avance de la horquilla ──►
+ molde      3' ───────────────────────────────────────┐
+ LÍDER      5' ══════════════════════════════════►     │   continua
+                                                       >  helicasa
+ RETRASADA  3' ◄═════[ARN]  ◄═════[ARN]  ◄═════[ARN]   │   discontinua: fragmentos de Okazaki
+ molde      5' ───────────────────────────────────────┘
+            (cada fragmento crece 5'→3', alejándose de la horquilla; [ARN] = cebador en su extremo 5')
+```
+
+- **Hebra líder (adelantada)**: se sintetiza **de forma continua**, en el mismo sentido en que avanza la horquilla. Necesita un solo cebador.
+- **Hebra retrasada (rezagada)**: también se sintetiza **5′→3′**, pero en sentido **opuesto** al avance de la horquilla, así que se hace **de forma discontinua** en **fragmentos de Okazaki**: ~100–200 nt en eucariotas y ~1.000–2.000 nt en bacterias. Cada fragmento empieza con su propio cebador de ARN.
+
+📌 **¿Por qué existen los fragmentos de Okazaki?** Tres razones juntas:
+1. La ADN polimerasa **solo** añade nucleótidos en dirección **5′→3′**.
+2. Las dos hebras son **antiparalelas**.
+3. La horquilla avanza en **una sola dirección**; una de las hebras nuevas tiene que crecer en sentido contrario.
+
+⚠️ **P21 pide la afirmación incorrecta**: "la ADN polimerasa posee actividad correctora 3′→5′" es **verdad**, pero **no** es la causa de los fragmentos de Okazaki.
+
+#### Trampas de la P16
+
+| Afirmación | ¿Correcta? | Por qué |
+|---|---|---|
+| La cadena líder se sintetiza de forma discontinua | ❌ | La líder es **continua**; la discontinua es la retrasada |
+| La cadena retardada se sintetiza 5′→3′ pero de forma discontinua mediante fragmentos de Okazaki | ✅ | Toda síntesis de ADN es 5′→3′ |
+| La helicasa desenrolla el ADN pero no consume ATP | ❌ | La helicasa es un motor que **hidroliza ATP** |
+| La primasa sintetiza cebadores de ADN | ❌ | Sintetiza cebadores de **ARN** |
+
+🔗 **Conexiones**: la fase S es cuando ocurre todo esto ([capítulo 3](#34-fase-s-el-genoma-se-copia-una-sola-vez-diap-1516-19)). El MMR reconoce la hebra nueva por las mellas de los fragmentos de Okazaki ([capítulo 5](#56-reparación-de-apareamientos-erróneos-mmr)). La PCR copia el ADN con los mismos principios: cebadores, polimerasa y extensión desde 3′ ([capítulo 7](#715-pcr-diap-4144)). Los ddNTP de Sanger detienen la cadena porque les falta el 3′-OH ([capítulo 7](#716-secuenciación-de-sanger-a-ngs-diap-45)).
+
+---
+
+### 8.2 Transcripción y su regulación
+
+🎯 P17.
+
+#### Las tres ARN polimerasas eucariotas
+
+| Polimerasa | Qué transcribe |
+|---|---|
+| **ARN Pol I** | ARNr 28S, 18S y 5,8S (a partir de un precursor 45S), en el nucléolo |
+| **ARN Pol II** | **ARNm**, la mayoría de los miARN y varios ARN pequeños nucleares |
+| **ARN Pol III** | ARNt, ARNr 5S y otros ARN pequeños |
+
+📌 La **ARN Pol II no puede iniciar sola**: necesita los **factores generales de transcripción** (TFIIA, B, D, E, F y H). **TFIID**, a través de la proteína **TBP**, reconoce la **caja TATA** del promotor; **TFIIH** abre el ADN con sus helicasas y fosforila la cola de la polimerasa con su cinasa **CDK7**. Es el mismo TFIIH que abre el ADN en la reparación por escisión de nucleótidos ([capítulo 5](#55-reparación-por-escisión-de-nucleótidos-ner)) y la misma CDK7 que activa las CDK del ciclo ([capítulo 3](#38-el-motor-cdk-y-ciclinas-diap-2226)).
+
+#### Elementos *cis* y factores *trans*
+
+| | **Elementos *cis*** | **Factores *trans*** |
+|---|---|---|
+| Qué son | **Secuencias de ADN** en la misma molécula que el gen que regulan | **Moléculas difusibles** (proteínas o ARN) que se unen a esas secuencias o actúan sobre el transcrito |
+| Ejemplos | Promotor (caja TATA), **potenciador (*enhancer*)**, silenciador, aislador | Factores de transcripción, coactivadores, correpresores, miARN |
+| Una mutación afecta... | Solo al alelo de esa misma molécula | A todas las copias del gen diana en la célula |
+
+📌 **El *enhancer* es un elemento *cis*** aunque esté lejos: puede estar a cientos de kilobases (hasta ~1 Mb) del gen, antes o después de él o dentro de un intrón, y funciona en cualquier orientación. Actúa porque el ADN forma un **bucle** que lo acerca al promotor (con el complejo Mediador y la cohesina).
+
+🩺 Ejemplo: la **ZRS**, un *enhancer* de *SHH* que está a ~1 Mb del gen (dentro de un intrón de *LMBR1*). Una sola sustitución en la ZRS causa **polidactilia preaxial**, sin tocar *SHH*. En el [capítulo 2](#23-principios-de-las-familias-de-genes-del-desarrollo-diap-1218) aparece la misma idea con los *enhancers* de *DLX5/DLX6* en la malformación mano-pie hendida.
+
+#### Regulación epigenética
+
+📌 La **epigenética** cambia la **accesibilidad de la cromatina** sin cambiar la secuencia ([capítulo 2](#22-fertilización-epigenética-y-gastrulación-diap-711)):
+
+| Marca | Efecto habitual |
+|---|---|
+| **Metilación de citosinas en islas CpG** del promotor | **Silencia** el gen (ejemplo: *MGMT* en glioblastoma, capítulo 5; *FMR1* en el X frágil, sección 8.6) |
+| **Acetilación de histonas** (HAT) | Abre la cromatina → **activa** |
+| **Desacetilación** (HDAC) | Compacta la cromatina → **reprime** |
+| **Metilación de histonas** | Depende del residuo: H3K4me3 marca promotores **activos**; H3K9me3 y H3K27me3, cromatina **reprimida** |
+
+#### miARN: regulación después de la transcripción
+
+- Los **miARN** (~22 nt) se cargan en el complejo **RISC** (proteínas Argonauta) y se aparean, a través de su región "semilla", con la **región 3′ no traducida (3′-UTR) del ARNm**. El resultado es la **degradación del ARNm** o el **bloqueo de su traducción**.
+- ⚠️ **No** son factores de transcripción y **no** se unen a promotores (trampa de la P17). Ejemplos en el ciclo celular y el cáncer: [capítulo 3](#316-microarn-diap-48-51).
+
+#### Trampas de la P17
+
+| Afirmación | ¿Correcta? | Por qué |
+|---|---|---|
+| Un *enhancer* es un elemento en *trans* que puede estar lejos del gen | ❌ | Es *cis*: es ADN de la misma molécula |
+| Los factores epigenéticos (histonas, metilación del ADN) alteran la accesibilidad de la cromatina | ✅ | |
+| Los miARN actúan como factores de transcripción en los promotores | ❌ | Actúan sobre el ARNm (3′-UTR), después de la transcripción |
+| La ARN Pol II inicia sin factores generales de transcripción | ❌ | Los necesita (TFIID–TBP reconoce el promotor) |
+
+---
+
+### 8.3 Los ARN de la célula
+
+🎯 P15 y P20.
+
+#### ¿Cuánto hay de cada uno?
+
+| ARN | % del ARN celular total (aprox.) | Función |
+|---|---|---|
+| **ARN ribosómico (ARNr)** | **~80 %** | Estructura y actividad catalítica del ribosoma (el ARNr 28S forma el enlace peptídico: es una ribozima) |
+| **ARN de transferencia (ARNt)** | ~15 % | Lleva cada aminoácido y lee el codón con su anticodón |
+| **ARN mensajero (ARNm)** | **~3–5 %** | Molde para la proteína |
+| Otros (ARNsn, ARNsno, miARN, ARNlnc) | Menos del 2 % | *Splicing*, modificación del ARNr, regulación |
+
+📌 **¿Por qué hay tanto ARNr?** Una célula tiene millones de ribosomas y cada uno lleva cuatro ARNr (28S, 18S, 5,8S y 5S). Los genes del ARNr están repetidos cientos de veces en los **brazos cortos de los cromosomas acrocéntricos** (sección 8.9) y la Pol I los transcribe sin parar. El ARNm, en cambio, es poco abundante y de vida corta.
+
+⚠️ Trampa: el ARNm es el más "famoso", pero es el **menos abundante** de los tres principales.
+
+#### ARNm procariota frente a eucariota
+
+| | **Procariota** | **Eucariota típico** |
+|---|---|---|
+| **Caperuza 5′** (7-metilguanosina) | No | **Sí** |
+| **Cola de poli(A) 3′** (~200 A) | No (➕ algunas bacterias poliadenilan ARN para degradarlo, no para estabilizarlo) | **Sí** |
+| **Intrones y *splicing*** | No | **Sí** |
+| **Genes por ARNm** | **Policistrónico**: un ARNm codifica varias proteínas (operón; por ejemplo, *lacZ*, *lacY* y *lacA* en el operón *lac*) | **Monocistrónico**: una proteína por ARNm |
+| **Inicio de la traducción** | Secuencia de **Shine-Dalgarno** en la 5′-UTR, frente a cada marco de lectura | El ribosoma se une a la caperuza y busca el primer AUG (contexto **Kozak**) |
+| **Transcripción y traducción** | **Acopladas** (no hay núcleo) | **Separadas** (núcleo → citoplasma) |
+| **Regiones no traducidas (UTR)** | **Sí** | **Sí** |
+
+📌 **P20**: lo propio del procariota es la **naturaleza policistrónica**. La caperuza y la cola de poli(A) son eucariotas, y las UTR existen en los dos.
+
+🔗 Como las bacterias no hacen *splicing*, para producir una proteína humana en *E. coli* (por ejemplo, la insulina) se clona el **ADNc**, que ya no tiene intrones ([capítulo 7](#711-bibliotecas-de-adn-e-hibridación-de-colonias-diap-3435)).
+
+---
+
+### 8.4 Código genético y traducción
+
+🎯 P33 y P34.
+
+#### Propiedades del código
+
+- **Triplete**: cada **codón** de 3 nucleótidos especifica un aminoácido. Hay **4³ = 64 codones**: **61 con sentido** y **3 de parada** (**UAA, UAG, UGA**).
+- **AUG** codifica **metionina** y es el **codón de inicio**: casi todas las proteínas empiezan con Met.
+- **Degenerado (redundante)**: varios codones codifican el mismo aminoácido (Leu, Ser y Arg tienen seis cada uno). Casi siempre cambia la **tercera base** (posición "tambaleante").
+- **No ambiguo**: cada codón significa un solo aminoácido.
+- Se lee **5′→3′**, sin solapamiento y sin "comas", desde un punto de inicio fijo (el **marco de lectura**).
+- **Casi universal**. ➕ Excepción clásica: en las **mitocondrias** humanas, UGA codifica triptófano, AUA codifica metionina y AGA/AGG son de parada.
+
+#### El código genético estándar (codones del ARNm)
+
+| 1.ª base ↓ · 2.ª base → | **U** | **C** | **A** | **G** |
+|---|---|---|---|---|
+| **U** | UUU, UUC: **Phe** (F) · UUA, UUG: **Leu** (L) | UCN: **Ser** (S) | UAU, UAC: **Tyr** (Y) · **UAA, UAG: parada** | UGU, UGC: **Cys** (C) · **UGA: parada** · UGG: **Trp** (W) |
+| **C** | CUN: **Leu** (L) | CCN: **Pro** (P) | CAU, CAC: **His** (H) · CAA, CAG: **Gln** (Q) | CGN: **Arg** (R) |
+| **A** | AUU, AUC, AUA: **Ile** (I) · **AUG: Met (M), inicio** | ACN: **Thr** (T) | AAU, AAC: **Asn** (N) · AAA, AAG: **Lys** (K) | AGU, AGC: **Ser** (S) · AGA, AGG: **Arg** (R) |
+| **G** | GUN: **Val** (V) | GCN: **Ala** (A) | GAU, GAC: **Asp** (D) · GAA, GAG: **Glu** (E) | GGN: **Gly** (G) |
+
+N = cualquiera de las cuatro bases. En la **hebra codificante** del ADN el codón es el mismo, con **T** en lugar de U.
+
+🧠 Los tres de parada: **UAA** "U Are Away", **UAG** "U Are Gone", **UGA** "U Go Away".
+
+#### Cómo traducir un ARNm, paso a paso (P34)
+
+```
+ARNm:      5'- AUG  GCA  UUC  GAC  UAA -3'
+            ▼    ▼    ▼    ▼    ▼
+Péptido:  Met  Ala  Phe  Asp  (parada)
+```
+
+1. Busca el **AUG** y lee de **tres en tres** hacia 3′.
+2. Traduce cada codón con la tabla.
+3. El **codón de parada no añade aminoácido**: termina la traducción (lo reconocen factores de liberación, no un ARNt).
+
+📌 **Respuesta P34: Met-Ala-Phe-Asp** (en código de una letra, **MAFD**), con la Met en el extremo amino.
+
+#### De la hebra de ADN al codón (P33)
+
+- La **hebra codificante** (no molde) tiene la misma secuencia que el ARNm, con T en lugar de U. Si un enunciado da un codón en ADN como **TAT**, léelo como el codón **UAU** del ARNm.
+- La **hebra molde** es complementaria y antiparalela: el ARNm se sintetiza leyéndola 3′→5′.
+- **TAT → TAG** equivale a **UAU (Tyr) → UAG (parada)**. 📌 **Respuesta P33: variante sin sentido (*nonsense*)**: un codón de aminoácido se convierte en codón de parada. En HGVS se escribe p.Tyr*N*Ter o p.Tyr*N*\*, donde *N* es la posición del aminoácido.
+
+---
+
+### 8.5 Variantes según su efecto en la proteína
+
+🎯 P3 y P33.
+
+| Tipo | Qué cambia en el ADN | Efecto en la proteína | Ejemplo |
+|---|---|---|---|
+| **Sinónima (silenciosa)** | Sustitución que da un codón del **mismo** aminoácido (por la degeneración, casi siempre en la 3.ª base) | Secuencia de aminoácidos **igual** (➕ a veces altera el *splicing* o la eficiencia de traducción) | CUU → CUC (Leu → Leu); en HGVS, p.(Leu54=) |
+| **De sentido erróneo (*missense*)** | Sustitución que cambia el aminoácido | **Un aminoácido distinto**; efecto variable (de nulo a grave) | *HBB* p.Glu6Val (hemoglobina S, [capítulo 7](#77-rflp-y-diagnóstico-de-la-hemoglobina-s-diap-1823)); *HERC1* p.Gly4520Glu ([capítulo 1](#18-aplicaciones-en-la-clínica-diap-4959)) |
+| **Sin sentido (*nonsense*)** | Sustitución que **crea un codón de parada** | Proteína **truncada**; casi siempre el ARNm se degrada antes (NMD) | *HERC1* p.Trp875Ter; TAT → TAG (P33) |
+| **Pérdida de la parada (*stop-loss*)** | El codón de parada pasa a codificar un aminoácido | Proteína **más larga** | — |
+| **Cambio del marco de lectura (*frameshift*)** | **Inserción o deleción no múltiplo de 3** en la región codificante | Desde ese punto, **secuencia aberrante** de aminoácidos y **codón de parada prematuro corriente abajo** | ***BRCA2* c.5946delT** (P3) |
+| **Indel en marco (*in-frame*)** | Inserción o deleción **múltiplo de 3** | Se gana o se pierde uno o varios aminoácidos; el resto queda intacto | *CFTR* F508del (c.1521_1523delCTT): pierde una fenilalanina ([capítulo 1](#17-bases-de-datos-en-ciencias-biomédicas-diap-3148)) |
+| **De *splicing*** | Cambio en las secuencias que definen los exones (sección 8.6) | Salto de exón, retención de intrón o uso de un sitio críptico; a menudo cambia el marco | *HBB* IVS-I-110 G>A (β-talasemia) |
+
+#### Caso del parcial: *BRCA2* c.5946delT (P3)
+
+- **c.5946delT**: en la secuencia **codificante** (c.), en la posición 5.946, se **deleciona** (del) una **T**.
+- Una deleción de **1 nt** (no múltiplo de 3) **corre el marco de lectura**: todos los codones siguientes se leen desfasados. Se forma una secuencia aberrante y, como 3 de los 64 codones son de parada, pronto aparece uno: en esta variante, **22 codones después** (p.Ser1982Argfs\*22).
+- 📌 **Respuesta P3: B**. No es la pérdida de un solo aminoácido (eso sería un indel en marco de 3 nt), no es silenciosa y no tiene que ver con duplicar exones.
+- ➕ **Es la misma variante fundadora asquenazí "6174delT"** del [capítulo 5](#577--ejemplo-real-brca1-y-brca2-falla-de-la-recombinación-homóloga-diap-38), escrita en la nomenclatura antigua (BIC, que contaba desde otro punto). Las dos notaciones nombran la misma deleción.
+
+#### ¿Por qué una proteína truncada suele equivaler a un alelo nulo?
+
+➕ Si el codón de parada prematuro queda a más de ~50–55 nt antes de la última unión exón-exón, la célula **degrada el ARNm** por el mecanismo de **degradación mediada por mutaciones sin sentido (NMD)**. Casi no se produce proteína truncada: el efecto es **pérdida de función** (haploinsuficiencia en heterocigosis). Por eso las variantes *nonsense* y *frameshift* de *BRCA1/2* son patogénicas.
+
+#### Cómo leer la nomenclatura HGVS
+
+| Prefijo o símbolo | Significado | Ejemplo |
+|---|---|---|
+| **c.** | Posición en la secuencia **codificante** (ADNc; el 1 es la A del ATG) | c.5946delT |
+| **g.** / **p.** | Posición **genómica** / en la **proteína** | p.Glu6Val |
+| **>** | Sustitución | c.2625G>A |
+| **del**, **dup**, **ins** | Deleción, duplicación, inserción | c.1521_1523delCTT |
+| **fs** | Cambio del marco de lectura (*frameshift*) | p.Ser1982Argfs\*22 |
+| **Ter** o **\*** | Codón de parada | p.Trp875Ter |
+| **=** | Sin cambio de aminoácido (sinónima) | p.(Leu54=) |
+| **c.N+n** / **c.N−n** | Posición **intrónica**, *n* bases después del final de un exón o antes de su inicio | c.2991+1655A>G |
+
+---
+
+### 8.6 Variantes fuera de los exones
+
+🎯 P1 y P5.
+
+#### La anatomía del *splicing*
+
+```
+   exón       intrón                                          exón
+ ──────AG│GU─────────────── A ────── (pirimidinas)n ── AG│G──────
+          ↑ sitio donador   ↑ punto de ramificación      ↑ sitio aceptor
+          (+1, +2 = GT)                                   (−2, −1 = AG)
+```
+
+- 📌 **Regla GT-AG**: casi todos los intrones empiezan con **GT** (en el ARN, GU) y terminan con **AG**. Esas dos posiciones a cada lado son los **sitios canónicos** (±1 y ±2).
+- Un cambio en un sitio canónico **suele abolir el *splicing*** (salto de exón o retención del intrón). Las guías ACMG/AMP los tratan como variantes **nulas**, igual que las *nonsense* o las *frameshift* (criterio PVS1).
+- Alrededor del **10 %** de las variantes patogénicas conocidas alteran el *splicing*.
+- 📌 **Respuesta P1: C**.
+
+#### Variantes no codificantes que causan enfermedad
+
+| Dónde | Ejemplo | Mecanismo |
+|---|---|---|
+| **Promotor** | *HBB* −28 A>G, en la caja TATA (β-talasemia) | Menos transcripción |
+| **5′-UTR** | *FMR1*: expansión de **CGG** (> 200 repeticiones) → **síndrome de X frágil** | La expansión se **metila** y silencia el gen |
+| **Intrón (sitio críptico)** | *HBB* IVS-I-110 G>A (β-talasemia) | Crea un sitio aceptor nuevo dentro del intrón |
+| **Intrón profundo** | *CEP290* c.2991+1655A>G (amaurosis congénita de Leber tipo 10) | Crea un exón críptico con un codón de parada |
+| **Intrón (expansión)** | *FXN*: expansión de **GAA** en el intrón 1 → **ataxia de Friedreich** | La expansión forma heterocromatina y reduce la transcripción |
+| **3′-UTR** | *DMPK*: expansión de **CTG** → **distrofia miotónica tipo 1** | El ARN con la expansión es tóxico: secuestra proteínas de *splicing* (MBNL1) |
+| ***Enhancer* lejano** | **ZRS** de *SHH* (a ~1 Mb) → polidactilia preaxial; *enhancers* de *DLX5/DLX6* → mano-pie hendida (capítulo 2) | Cambia **dónde y cuándo** se expresa el gen |
+| **Variantes comunes de riesgo** | ~88 % de los SNP asociados a rasgos y enfermedades en estudios GWAS están en intrones o entre genes | Casi todas modifican la regulación de la expresión |
+
+📌 **Respuesta P5: A**: las variantes fuera de los exones **sí** se asocian a enfermedad humana.
+
+⚠️ Trampas de la P5:
+- "Las variantes intrónicas **siempre** conducen a pérdida de función": falso. La inmensa mayoría de las variantes intrónicas son **benignas**; solo algunas alteran el *splicing* o la regulación.
+- "Son menos frecuentes que las exónicas y por eso no se estudian": falso. El 98–99 % del genoma no es codificante, así que **la mayoría de las variantes de una persona están fuera de los exones**, y la secuenciación del genoma completo las estudia.
+- "Conducen a cambios sinónimos": falso. "Sinónima" se refiere a un codón, es decir, a una variante **dentro** de un exón codificante.
+
+🩺 **Consecuencia práctica**: el exoma solo lee el ~1–2 % codificante ([capítulo 1](#18-aplicaciones-en-la-clínica-diap-4959)), así que no ve las variantes de intrón profundo ni las regulatorias. Si el exoma es negativo y la sospecha sigue, se pide un **genoma completo** o un **estudio de ARN**. Las expansiones de repeticiones (*FMR1*, *FXN*, *DMPK*) necesitan pruebas específicas (PCR de repeticiones, Southern blot).
+
+---
+
+### 8.7 Frecuencia, origen y efecto de las variantes
+
+🎯 P1 y P35.
+
+#### Los números del genoma humano
+
+| Dato | Valor |
+|---|---|
+| Tamaño del genoma (haploide) | ~3.100 millones de pares de bases |
+| **Genes codificantes de proteínas** | **~19.000–20.000** (GENCODE/Ensembl). 🎯 **Respuesta P35: ~20.000** |
+| Exoma | ~1–2 % del genoma |
+| Sitios en que una persona difiere del genoma de referencia | **~4–5 millones** (Proyecto 1000 Genomas, 2015) |
+| Variantes de pérdida de función por persona | ~100, con ~20 genes inactivados en ambas copias, sin enfermedad aparente (MacArthur, 2012) |
+| Variantes *de novo* por persona | **~60–70** |
+
+📌 **La gran mayoría de las variantes son neutras (benignas)**: cada persona tiene millones de diferencias con la referencia y está sana. Por eso, en el exoma, filtrar por frecuencia descarta casi todo ([capítulo 1](#18-aplicaciones-en-la-clínica-diap-4959)).
+
+#### Frecuencia: ¿cuándo una variante es "común"?
+
+| Término | Frecuencia del alelo en la población |
+|---|---|
+| **Polimorfismo** (variante común) | **≥ 1 %** (muchos estudios usan ≥ 5 % para "común") |
+| **Variante rara** | **< 1 %** |
+| Criterio ACMG/AMP de benignidad independiente (BA1) | **> 5 %** en bases poblacionales como gnomAD |
+
+⚠️ **P1, opción B**: el umbral **no** es 50 %. Una variante presente en el 50 % de la población sería, con más razón, frecuente, pero la definición usa 1 %.
+
+#### Origen: heredadas, *de novo*, germinales y somáticas
+
+- **Germinal**: está en el óvulo o el espermatozoide y, por tanto, en todas las células del hijo. Se transmite.
+- **Somática**: aparece después de la fecundación en un linaje celular. No se transmite (salvo que afecte a la línea germinal). Es la base del cáncer esporádico ([capítulo 6](#67-mutaciones-driver-y-passenger-diap-13)).
+- ***De novo***: presente en el hijo y **ausente en los dos padres**. La mayoría nace en la **línea germinal paterna**, antes de la fecundación: ~80 % son de origen paterno, y el número aumenta ~2 por cada año de edad del padre, porque las espermatogonias se dividen toda la vida (Kong, 2012). Una minoría ocurre después de la fecundación y produce **mosaicismo**.
+- ⚠️ **P1, opción A**: las semanas 4–8 son el **periodo embrionario** de la organogénesis, el de mayor sensibilidad a los **teratógenos** ([capítulo 2](#29-principios-de-dismorfología-diap-3950)). No es el momento en que se originan la mayoría de las variantes *de novo*.
+
+#### Efecto: la clasificación clínica (ACMG/AMP, 2015)
+
+**Patogénica** · **probablemente patogénica** · **de significado incierto (VUS)** · **probablemente benigna** · **benigna**. Las clasificaciones se comparten en **ClinVar** (NCBI).
+
+⚠️ **P1, opción D**: "la mayoría de las variantes del genoma son deletéreas" es falso; es justo al revés.
+
+---
+
+### 8.8 Herencia: penetrancia y expresividad
+
+🎯 P2 y P30.
+
+#### Patrones de herencia mendeliana
+
+| Patrón | Pistas en el árbol | Riesgo para la descendencia | Ejemplos de la guía |
+|---|---|---|---|
+| **Autosómico dominante (AD)** | Varias generaciones afectadas (vertical); hombres y mujeres por igual; transmisión de padre a hijo varón | **50 %** si un progenitor es heterocigoto | Acondroplasia, Marfan, Holt-Oram, *BRCA1/2*, Lynch, Li-Fraumeni |
+| **Autosómico recesivo (AR)** | Hermanos afectados con padres sanos (horizontal); consanguinidad | **25 %** si los dos padres son portadores | **La mayoría de los EIM** (PKU, galactosemia, MPS I), fibrosis quística, xeroderma pigmentoso, anemia falciforme |
+| **Recesivo ligado al X** | Sobre todo varones; no hay transmisión de padre a hijo varón; las madres portadoras transmiten | Hijo varón de portadora: 50 % | Hunter (MPS II), déficit de G6PD, Duchenne |
+| **Mitocondrial** | Solo la **madre** transmite; afecta a ambos sexos; heteroplasmia | Variable | MELAS, neuropatía óptica de Leber |
+| **Ligado al Y** | Solo de padre a hijo varón | 100 % de los hijos varones | Muy raro; deleciones *AZF* (infertilidad masculina, transmisibles con reproducción asistida) |
+
+#### Penetrancia y expresividad
+
+| Concepto | Definición | Ejemplo |
+|---|---|---|
+| **Penetrancia completa** | **Todos** los portadores del genotipo expresan el fenotipo | Acondroplasia; Huntington con ≥ 40 repeticiones CAG |
+| **Penetrancia incompleta** | **Solo una parte** de los portadores lo expresa | ***BRCA1/2***: riesgo de cáncer de mama de ~70 % a los 80 años, no 100 %; retinoblastoma hereditario (~90 %) |
+| **Penetrancia dependiente de la edad** | La probabilidad de expresar el fenotipo aumenta con la edad | Huntington, *BRCA1/2*, Lynch |
+| **Expresividad variable** | Entre los que **sí** lo expresan, cambia la **gravedad** o los rasgos | Neurofibromatosis 1, Marfan, Waardenburg |
+
+🧠 **Penetrancia** = ¿**se expresa** o no? (todo o nada, en porcentaje de portadores). **Expresividad** = ¿**cuánto** se expresa?
+
+#### Cáncer de mama y ovario hereditario (P2)
+
+📌 **Respuesta P2: B, autosómico dominante con penetrancia incompleta.**
+
+- **Dominante** porque basta heredar **un** alelo mutado para tener la predisposición (50 % de riesgo para cada hijo o hija). A nivel celular el defecto es recesivo: el tumor aparece cuando una célula pierde el segundo alelo ([dos golpes, capítulo 5](#51-prerrequisitos-lo-mínimo-que-necesitas-saber)).
+- **Penetrancia incompleta** porque no todas las portadoras desarrollan cáncer: el segundo golpe es un evento aleatorio, y el riesgo depende de **factores modificadores**: el gen (*BRCA1* da más riesgo de ovario que *BRCA2*), el **sexo** (los varones portadores tienen mucho menos riesgo de mama), la **edad**, los factores **reproductivos y hormonales**, las **variantes de riesgo poligénico** y la historia familiar. Cifras en el [capítulo 5](#577--ejemplo-real-brca1-y-brca2-falla-de-la-recombinación-homóloga-diap-38).
+
+#### ¿Por qué la mayoría de los EIM son autosómicos recesivos? (P30)
+
+📌 **Respuesta P30: D, autosómico recesivo.**
+
+- Casi todos los EIM se deben a **enzimas**. Un heterocigoto conserva ~50 % de la actividad, y para la mayoría de las enzimas eso **basta**: hay reserva funcional. La enfermedad aparece cuando las **dos** copias fallan.
+- Excepciones: algunos son **ligados al X** (Hunter, déficit de ornitina transcarbamilasa, Fabry, déficit de G6PD) y unos pocos **dominantes** (porfiria aguda intermitente).
+- Por eso los casos parecen esporádicos y la consanguinidad aumenta el riesgo ([capítulo 4](#44-principios-para-el-diagnóstico-clínico-diap-10)).
+
+---
+
+### 8.9 Cromosomas: morfología y cariotipo
+
+🎯 P22.
+
+#### Clasificación por la posición del centrómero
+
+| Tipo | Centrómero | Brazos | Cromosomas humanos |
+|---|---|---|---|
+| **Metacéntrico** | En el **centro** | p ≈ q | 1, 3, 16, 19, 20 |
+| **Submetacéntrico** | Desplazado del centro | p claramente menor que q | 2, 4–12, 17, 18, X |
+| **Acrocéntrico** | **Cerca de un extremo** | **p muy pequeño, a menudo con satélites** | **13, 14, 15, 21, 22** (y el Y, sin satélites) |
+| **Telocéntrico** | **En el extremo** | **Sin brazo p** | **No existe en el humano** (sí en el ratón) |
+
+📌 **Respuesta P22: C.** Las opciones "centrómero en el extremo" y "sin brazo corto" describen al **telocéntrico**.
+
+- Los **satélites** son pequeñas masas de cromatina unidas al brazo corto por un **tallo**. El tallo es la **región organizadora del nucléolo (NOR)**: ahí están los genes repetidos del **ARNr** (sección 8.3).
+- ➕ Grupos del cariotipo (Denver): A (1–3), B (4–5), C (6–12 y X), D (13–15, acrocéntricos grandes), E (16–18), F (19–20), G (21–22 y Y, acrocéntricos pequeños).
+
+🩺 **Translocación robertsoniana**: fusión de los brazos largos de **dos acrocéntricos** con pérdida de los brazos cortos (que no hacen falta, porque los genes del ARNr están repetidos en otros acrocéntricos). Las translocaciones robertsonianas explican ~4 % de los síndromes de Down; la más frecuente es la t(14;21). Si un progenitor la porta de forma balanceada, el riesgo de recurrencia es mucho mayor que en la trisomía libre.
+
+#### Cómo leer una banda
+
+**22q11.2** = cromosoma **22**, brazo largo (**q**; el corto es **p**, de *petit*), región **1**, banda **1**, subbanda **2**. Es la región del síndrome de deleción 22q11.2 ([capítulo 2](#28-otras-familias-génicas-diap-3637)), demasiado pequeña (~3 Mb) para el cariotipo convencional (~5–10 Mb); se ve con FISH o microarreglo ([capítulo 7](#713-fish-diap-38)).
+
+---
+
+### ✅ Verificación de datos (capítulo 8)
+
+Este capítulo no tiene diapositivas que corregir. Estas son las fuentes de sus datos:
+
+| Dato | Fuente |
+|---|---|
+| Fragmentos de Okazaki de ~100–200 nt (eucariotas) y ~1.000–2.000 nt (bacterias); cebadores de ~10 nt | Alberts, *Molecular Biology of the Cell*, 7.ª ed., cap. 5 |
+| ARNr ~80 %, ARNt ~15 %, ARNm ~3–5 % del ARN total | Alberts, cap. 6; Lodish, *Molecular Cell Biology*, 9.ª ed. |
+| ~19.000–20.000 genes codificantes | GENCODE/Ensembl (ver capítulo 1) |
+| ~4–5 millones de sitios variantes por genoma | 1000 Genomes Project Consortium, *Nature* 2015 |
+| ~100 variantes de pérdida de función por persona | MacArthur et al., *Science* 2012 |
+| ~60–70 variantes *de novo*; ~80 % paternas; +2 por año de edad paterna | Kong et al., *Nature* 2012 |
+| Polimorfismo ≥ 1 %; criterio BA1 > 5 %; cinco categorías de clasificación | Thompson & Thompson, 8.ª ed.; Richards et al., *Genet Med* 2015 |
+| 88 % de los SNP de GWAS en intrones o regiones intergénicas | Hindorff et al., *PNAS* 2009 |
+| *BRCA2* c.5946delT = 6174delT (p.Ser1982fs), fundadora asquenazí | ClinVar (NM_000059.4:c.5946del); [Sci Rep 2020](https://www.nature.com/articles/s41598-020-63466-x) |
+| Deleción 22q11.2: ~1 en 4.000 nacidos vivos, ~3 Mb, 30–40 genes; *TBX1* es el principal contribuyente | [MedlinePlus Genetics, *TBX1*](https://medlineplus.gov/genetics/gene/tbx1/); [Lindsay, Lancet 2003](https://pubmed.ncbi.nlm.nih.gov/14585638) |
+
+---
+
+### Autoevaluación (capítulo 8)
+
+<details><summary>1. ¿Por qué la hebra retrasada se sintetiza en fragmentos? ¿Qué afirmación sobre la polimerasa es verdadera pero no explica los fragmentos?</summary>
+
+Porque la polimerasa solo sintetiza 5′→3′, las hebras son antiparalelas y la horquilla avanza en un solo sentido. La actividad correctora 3′→5′ existe, pero no tiene que ver con los fragmentos de Okazaki.
+</details>
+
+<details><summary>2. Un enhancer está a 500 kb de su gen. ¿Es un elemento cis o trans?</summary>
+
+Cis: es una secuencia de ADN de la misma molécula. La distancia no importa; los factores trans son las proteínas o ARN que se unen a él.
+</details>
+
+<details><summary>3. ¿Qué ARN es el más abundante de la célula y por qué?</summary>
+
+El ARNr (~80 %): hay millones de ribosomas, cada uno con cuatro ARNr, y sus genes están repetidos cientos de veces en los brazos cortos de los acrocéntricos.
+</details>
+
+<details><summary>4. ¿Qué característica tiene el ARNm procariota que no tiene el eucariota típico?</summary>
+
+Es policistrónico: un mismo ARNm codifica varias proteínas (operón).
+</details>
+
+<details><summary>5. Traduce 5′-AUG UUU GGC UGA-3′.</summary>
+
+Met-Phe-Gly. UGA es de parada y no añade aminoácido.
+</details>
+
+<details><summary>6. En la hebra codificante, CAG (Gln) cambia a TAG. ¿Qué tipo de variante es?</summary>
+
+Sin sentido (nonsense): crea un codón de parada (UAG).
+</details>
+
+<details><summary>7. ¿Por qué una deleción de 1 nt suele ser más grave que una de 3 nt?</summary>
+
+La de 1 nt cambia el marco de lectura: altera todos los aminoácidos siguientes y crea un codón de parada prematuro (y, a menudo, NMD). La de 3 nt quita un solo aminoácido y conserva el marco.
+</details>
+
+<details><summary>8. Menciona tres enfermedades causadas por variantes fuera de los exones.</summary>
+
+Síndrome de X frágil (CGG en la 5′-UTR de FMR1), ataxia de Friedreich (GAA en el intrón 1 de FXN), distrofia miotónica 1 (CTG en la 3′-UTR de DMPK). También: β-talasemia por IVS-I-110 o por variantes del promotor de HBB, y polidactilia preaxial por la ZRS de SHH.
+</details>
+
+<details><summary>9. Diferencia entre penetrancia incompleta y expresividad variable.</summary>
+
+Penetrancia incompleta: algunos portadores no expresan el fenotipo en absoluto (BRCA1/2). Expresividad variable: todos lo expresan, pero con distinta gravedad (NF1).
+</details>
+
+<details><summary>10. ¿Por qué la mayoría de los EIM son autosómicos recesivos?</summary>
+
+Porque se deben a enzimas, y el ~50 % de actividad de un heterocigoto suele bastar. Solo hay enfermedad cuando fallan las dos copias.
+</details>
+
+<details><summary>11. ¿Qué cromosomas humanos son acrocéntricos y qué llevan en sus satélites?</summary>
+
+13, 14, 15, 21 y 22. Sus tallos son regiones organizadoras del nucléolo, con los genes repetidos del ARNr.
+</details>
+
+<details><summary>12. ¿Una variante presente en el 2 % de la población es un polimorfismo?</summary>
+
+Sí: el umbral es una frecuencia alélica ≥ 1 %.
+</details>
+
+---
+
+### Glosario (capítulo 8)
+
+| Término | Definición |
+|---|---|
+| **Acrocéntrico** | Cromosoma con el centrómero cerca de un extremo y un brazo corto muy pequeño, a menudo con satélites |
+| **Cis / trans** | Cis: secuencia de ADN en la misma molécula que el gen. Trans: molécula difusible que actúa sobre él |
+| **Codón** | Triplete de nucleótidos del ARNm que especifica un aminoácido o la parada |
+| ***De novo*** | Variante presente en el hijo y ausente en ambos padres |
+| ***Enhancer* (potenciador)** | Elemento cis que aumenta la transcripción de un gen, a cualquier distancia y en cualquier orientación |
+| **Expresividad variable** | Distinta gravedad del fenotipo entre portadores que lo expresan |
+| **Fragmento de Okazaki** | Segmento corto de ADN de la hebra retrasada, con su propio cebador de ARN |
+| ***Frameshift*** | Cambio del marco de lectura por un indel no múltiplo de 3 |
+| ***Missense*** | Variante de sentido erróneo: cambia un aminoácido |
+| **NMD** | Degradación del ARNm con un codón de parada prematuro |
+| ***Nonsense*** | Variante sin sentido: crea un codón de parada |
+| **Penetrancia** | Proporción de portadores de un genotipo que expresa el fenotipo |
+| **Policistrónico** | ARNm que codifica varias proteínas (típico de procariotas) |
+| **Polimorfismo** | Variante con frecuencia alélica ≥ 1 % |
+| **Sinónima** | Variante que no cambia el aminoácido |
+| **Sitio canónico de *splicing*** | Las dos bases GT al inicio y AG al final de un intrón |
+
+---
+
+### Referencias (capítulo 8)
+
+- Alberts B, et al. *Molecular Biology of the Cell.* 7.ª ed. W. W. Norton; 2022. Caps. 5–7.
+- Nussbaum RL, McInnes RR, Willard HF. *Thompson & Thompson. Genética en medicina.* 8.ª ed. Elsevier; 2016.
+- 1000 Genomes Project Consortium. A global reference for human genetic variation. *Nature.* 2015;526:68-74.
+- MacArthur DG, et al. A systematic survey of loss-of-function variants in human protein-coding genes. *Science.* 2012;335:823-828.
+- Kong A, et al. Rate of de novo mutations and the importance of father's age to disease risk. *Nature.* 2012;488:471-475.
+- Richards S, et al. Standards and guidelines for the interpretation of sequence variants (ACMG/AMP). *Genet Med.* 2015;17:405-424.
+- Hindorff LA, et al. Potential etiologic and functional implications of genome-wide association loci for human diseases and traits. *PNAS.* 2009;106:9362-9367.
+- den Dunnen JT, et al. HGVS recommendations for the description of sequence variants: 2016 update. *Hum Mutat.* 2016;37:564-569.
+
+[↑ Volver al índice general](#índice-general)
+
+---
+
 ## Anexo A. Conexiones entre clases
 
 | Concepto | Dónde aparece | La conexión |
@@ -6180,6 +6842,13 @@ Usadas en la verificación y las ampliaciones:
 | **FISH, PCR y NGS** | [Técnicas (7.13, 7.15, 7.16)](#713-fish-diap-38); cáncer (6.4, 6.23); bioinformática (1.8) | HER2 y BCR-ABL se detectan por FISH; las mutaciones driver, por PCR o NGS; el exoma es NGS |
 | **Inserción viral** | Cáncer (6.4); [técnicas (7.17)](#717-aplicaciones-clínicas-terapia-génica-y-ogm-diap-4648) | El mismo mecanismo que activa oncogenes causó leucemia en un ensayo de terapia génica (2003) |
 | **Hemoglobina S** | Técnicas (7.7) | Ejemplo clásico de RFLP (MstII) y hoy de terapia génica con CRISPR |
+| **ARNr y cromosomas acrocéntricos** | [Bases moleculares (8.3, 8.9)](#83-los-arn-de-la-célula) | Los genes del ARN más abundante de la célula (~80 %) están repetidos en los satélites del 13, 14, 15, 21 y 22 |
+| **Fragmentos de Okazaki** | [Bases moleculares (8.1)](#81-replicación-del-adn); reparación (5.6) | El MMR usa las mellas entre fragmentos para reconocer la hebra nueva |
+| **TFIIH y CDK7** | Bases moleculares (8.2); ciclo celular (3.8); reparación (5.5) | El mismo complejo inicia la transcripción, abre el ADN en la NER y activa a las CDK |
+| **Cambio del marco de lectura** | [Bases moleculares (8.5)](#85-variantes-según-su-efecto-en-la-proteína); reparación (5.6, 5.7.7, 5.10.1) | *BRCA2* c.5946delT (= 6174delT), los indels de *TGFBR2* y *BAX* en tumores MSI y las mutaciones de reversión que dan resistencia a PARP |
+| **Penetrancia incompleta** | [Bases moleculares (8.8)](#88-herencia-penetrancia-y-expresividad); reparación (5.7.7); cáncer (6.26) | La predisposición dominante necesita un segundo golpe somático, que puede no ocurrir |
+| **Deleción 22q11.2 y *TBX1*** | [Desarrollo (2.8)](#28-otras-familias-génicas-diap-3637); técnicas (7.13); bases moleculares (8.9) | Un factor de transcripción haploinsuficiente; la deleción se ve con FISH o microarreglo, no con cariotipo |
+| **Exoma y variantes no codificantes** | Bioinformática (1.8); [bases moleculares (8.6)](#86-variantes-fuera-de-los-exones) | El exoma no ve intrones profundos ni regiones reguladoras |
 
 ---
 
@@ -6198,12 +6867,13 @@ Usadas en la verificación y las ampliaciones:
 | Aniridia | *PAX6* | AD (haploinsuficiencia) | PAX | 2 |
 | Waardenburg tipos 1 y 3 | *PAX3* | AD | PAX | 2 |
 | Holt-Oram | *TBX5* | AD | T-box | 2 |
+| Síndrome de deleción 22q11.2 (DiGeorge) | Deleción 22q11.2 (*TBX1*) | AD (~90 % *de novo*) | Factor de transcripción T-box (haploinsuficiencia) | 2, 8 |
 | Síndrome de Down | Trisomía 21 | Cromosómica (casi siempre esporádica) | — | 2 |
 | Síndrome de Marfan | *FBN1* | AD | Fibrilina | 2 |
 | Retinoblastoma | *RB1* | AD (predisposición; dos golpes) | Freno del punto R | 3, 6 |
 | Li-Fraumeni | *TP53* | AD (predisposición) | Guardián del genoma | 3, 6 |
 | Ataxia-telangiectasia | *ATM* | AR | Señal de daño del ADN | 3, 5, 6 |
-| Cáncer de mama y ovario hereditario | *BRCA1*, *BRCA2* | AD (predisposición) | Recombinación homóloga | 3, 5, 6 |
+| Cáncer de mama y ovario hereditario | *BRCA1*, *BRCA2* (p. ej., c.5946delT) | AD (predisposición, penetrancia incompleta) | Recombinación homóloga | 3, 5, 6, 8 |
 | Aneuploidía en mosaico variegado | *BUB1B* | AR | Punto de control del huso | 3 |
 | Alcaptonuria | *HGD* | AR | Degradación de tirosina | 4 |
 | Fenilcetonuria | *PAH* | AR | Fenilalanina hidroxilasa | 4 |
@@ -6227,6 +6897,11 @@ Usadas en la verificación y las ampliaciones:
 | Linfoma de Burkitt | *IGH*-*MYC*, t(8;14) | Somática | Captura de *enhancer* | 6 |
 | Leucemia promielocítica aguda | *PML-RARA*, t(15;17) | Somática | Diferenciación bloqueada | 6 |
 | Anemia falciforme | *HBB* (Glu6Val) | AR | Polimerización de la HbS | 7 |
+| β-talasemia | *HBB* (promotor, IVS-I-110 y otras) | AR | Menos cadenas β de globina | 8 |
+| Síndrome de X frágil | *FMR1* (CGG en la 5′-UTR) | Ligada al X | Expansión metilada que silencia el gen | 8 |
+| Ataxia de Friedreich | *FXN* (GAA en el intrón 1) | AR | Expansión intrónica que reduce la transcripción | 8 |
+| Distrofia miotónica tipo 1 | *DMPK* (CTG en la 3′-UTR) | AD | ARN tóxico que secuestra MBNL1 | 8 |
+| Amaurosis congénita de Leber 10 | *CEP290* (c.2991+1655A>G) | AR | Exón críptico por una variante intrónica profunda | 8 |
 
 El capítulo 5 tiene además su propia [tabla rápida de enfermedades de la reparación del ADN](#5105--tabla-rápida-de-enfermedades-para-diagnóstico-diferencial) (xeroderma pigmentoso, Cockayne, Fanconi, SCID por Artemis y otras).
 
@@ -6292,16 +6967,17 @@ Errores o datos desactualizados de las diapositivas. El detalle y las fuentes es
 
 ## Anexo D. Cómo estudiar con el mazo de Anki
 
-- **Un solo archivo**: [`Genetica_Biologia_Molecular.apkg`](Genetica_Biologia_Molecular.apkg). Crea el mazo *Genética y Biología Molecular (UNAL 2026)* con un submazo por capítulo (01 a 07). Instrucciones de importación en el [README](README.md).
-- **Tipos de tarjeta**:
-  - Capítulos 1–4, 6 y 7: **Basic**. Pregunta en el anverso; respuesta corta en negrita y, debajo, una línea gris con la explicación y la diapositiva.
-  - Capítulo 5 (reparación del ADN): conserva sus tres tipos propios, **cloze**, **pregunta-respuesta** y **caso clínico**, repartidos en 11 subdecks. Detalle en la [sección 5.16](#516-plan-de-estudio-y-cómo-usar-el-mazo-de-anki).
+- **Un solo archivo**: [`Genetica_Biologia_Molecular.apkg`](Genetica_Biologia_Molecular.apkg). Crea el mazo *Genética y Biología Molecular (UNAL 2026)* con un submazo por capítulo (01 a 08). Instrucciones de importación en el [README](README.md).
+- **Tipo de tarjeta**: todas son **Basic** (tipo de nota *Genética Básico*): pregunta en el anverso; respuesta corta en negrita y, debajo, una línea gris con la explicación y la fuente.
+  - El capítulo 5 (reparación del ADN) pasó a Basic en noviembre de 2026: sus antiguos *cloze* son ahora tarjetas de completar con un hueco **[…]**, y una línea pequeña arriba indica el tema. Detalle en la [sección 5.16](#516-plan-de-estudio-y-cómo-usar-el-mazo-de-anki).
+  - El capítulo 8 no viene de diapositivas: cubre los temas sin clase que evaluó el parcial final I-2026. Por eso sus tarjetas citan la sección de la guía y la pregunta del parcial, y no llevan la etiqueta `ampliacion`.
 - **Etiquetas útiles** para filtrar (Explorar → buscar `tag:nombre`):
+  - `parcial`: las 106 tarjetas de los temas que evaluó el parcial final I-2026 (repásalas antes del examen, junto con el [Anexo F](#anexo-f-parcial-final-i-2026-resuelto)).
   - `verificado`: tarjetas que corrigen o actualizan la diapositiva (repásalas antes del examen).
-  - `ampliacion`: contenido que no está en las diapositivas. Si solo quieres lo de la clase, suspéndelas con `tag:ampliacion` (en el capítulo 5, `tag:ReparacionADN::fuente::ampliacion`).
-  - `caso`, `clinica`, `numeros`, `lista`, `trampa`, `historia`.
-  - Por capítulo: `bioinformatica`, `desarrollo`, `ciclo_celular`, `eim`, `reparacion`, `cancer`, `tecnicas`; subtemas como `pku`, `mps`, `p53`, `sac`, `hallmarks`, `colombia`, `pcr`, `fish`, `hbs`; y las etiquetas jerárquicas `ReparacionADN::…` del capítulo 5.
-- **Ajustes recomendados** (*Opciones del mazo*): FSRS con retención deseada de 0,90; **20–30 tarjetas nuevas al día** (con 1.047 tarjetas, el mazo completo entra en unas 6 semanas); orden de nuevas por **mazo**, para respetar el orden de la guía; **enterrar tarjetas hermanas**, para no ver juntos los huecos de un mismo cloze. Si tienes examen pronto, empieza por el submazo de la clase que viene.
+  - `ampliacion`: contenido que no está en las diapositivas. Si solo quieres lo de la clase, suspéndelas con `tag:ampliacion`.
+  - `caso`, `clinica`, `numeros`, `lista`, `trampa`, `historia`, `alto_rendimiento` (capítulo 5).
+  - Por capítulo: `bioinformatica`, `desarrollo`, `ciclo_celular`, `eim`, `reparacion`, `cancer`, `tecnicas`, `bases_moleculares`; subtemas como `pku`, `mps`, `p53`, `sac`, `hallmarks`, `colombia`, `pcr`, `fish`, `hbs`, `ber`, `ner`, `mmr`, `dsb`, `replicacion`, `codigo`, `variantes`, `herencia`, `cromosomas`.
+- **Ajustes recomendados** (*Opciones del mazo*): FSRS con retención deseada de 0,90; **20–30 tarjetas nuevas al día** (con 1.156 tarjetas, el mazo completo entra en unas 6–7 semanas); orden de nuevas por **mazo**, para respetar el orden de la guía. Si tienes examen pronto, empieza por el submazo de la clase que viene o por `tag:parcial`.
 - Lee primero el capítulo y después haz sus tarjetas: el orden de las tarjetas sigue el de la guía.
 
 ---
@@ -6314,3 +6990,349 @@ Cuando lleguen nuevas diapositivas:
 2. Se crea `anki/cards_NN_tema.txt` y se añade su submazo en `anki/build_deck.py`.
 3. Se actualizan el índice general, los anexos y el README.
 4. Las tarjetas existentes conservan su id: al reimportar el `.apkg`, Anki agrega las nuevas y actualiza las editadas **sin perder tu progreso**.
+5. Si llegan las diapositivas de los temas del capítulo 8 (replicación, transcripción, variantes, cromosomas), se integran en ese capítulo. Si llegan otros parciales, se resuelven en un anexo como el F y se etiquetan sus temas en el mazo.
+
+---
+
+## Anexo F. Parcial final I-2026 resuelto
+
+> Parcial final de Genética de un semestre anterior (Medicina UNAL, I-2026): 32 preguntas de selección múltiple con única respuesta, 4 de completar (P33–P36) y una abierta sobre tamizaje neonatal (P37–P40). Sirve para ver **qué se pregunta y cómo**. No se conoce la clave oficial: las respuestas de abajo son **propuestas**, basadas en las diapositivas y en textos de referencia, con su justificación y la sección donde se estudia cada tema. La única pregunta con una ambigüedad real (P11) está señalada.
+
+**Cómo usarlo**: responde primero sin mirar; después abre cada respuesta. En el mazo de Anki, `tag:parcial` reúne las tarjetas de los temas que evaluó este parcial.
+
+### Clave rápida
+
+| P | Resp. | Tema | Dónde estudiarlo |
+|---|---|---|---|
+| 1 | C | Variantes: *splicing*, frecuencia, origen *de novo* | [8.6](#86-variantes-fuera-de-los-exones), [8.7](#87-frecuencia-origen-y-efecto-de-las-variantes) |
+| 2 | B | *BRCA1/2*: AD con penetrancia incompleta | [8.8](#88-herencia-penetrancia-y-expresividad) |
+| 3 | B | *BRCA2* c.5946delT: cambio del marco de lectura | [8.5](#85-variantes-según-su-efecto-en-la-proteína) |
+| 4 | A | Inhibidores de PARP: letalidad sintética | [5.10.1](#5101--letalidad-sintética-inhibidores-de-parp-y-tumores-brca-diap-44) |
+| 5 | A | Variantes fuera de los exones | [8.6](#86-variantes-fuera-de-los-exones) |
+| 6 | D | Algoritmo | [1.4](#14-lenguajes-de-programación-y-algoritmos-diap-1317) |
+| 7 | B | GenBank, base primaria | [1.7](#17-bases-de-datos-en-ciencias-biomédicas-diap-3148) |
+| 8 | C | OMIM | [1.7](#17-bases-de-datos-en-ciencias-biomédicas-diap-3148) |
+| 9 | C | *Ultrabithorax*, gen Hox | [2.6](#26-genes-homeobox-hox-diap-2832) |
+| 10 | D | Borrado epigenético: más potencialidad, menos diferenciación | [2.2](#22-fertilización-epigenética-y-gastrulación-diap-711) |
+| 11 | D (⚠️) | Principios de las familias de genes del desarrollo | [2.3](#23-principios-de-las-familias-de-genes-del-desarrollo-diap-1218), [2.6](#26-genes-homeobox-hox-diap-2832) |
+| 12 | A | *TBX1* en la deleción 22q11.2 | [2.8](#28-otras-familias-génicas-diap-3637) |
+| 13 | D | Etapas de la PCR (busca la incorrecta) | [7.15](#715-pcr-diap-4144) |
+| 14 | b | Illumina: terminadores reversibles | [7.16](#716-secuenciación-de-sanger-a-ngs-diap-45) |
+| 15 | C | ARNr ~80 % del ARN total | [8.3](#83-los-arn-de-la-célula) |
+| 16 | B | Replicación: fragmentos de Okazaki | [8.1](#81-replicación-del-adn) |
+| 17 | B | Regulación de la transcripción | [8.2](#82-transcripción-y-su-regulación) |
+| 18 | B | Vector con promotor CMV = vector de expresión | [7.8](#78-clonación-tipos-y-vectores-diap-2426) |
+| 19 | D | Vectores de expresión en células de mamífero | [7.8](#78-clonación-tipos-y-vectores-diap-2426) |
+| 20 | c | ARNm procariota policistrónico | [8.3](#83-los-arn-de-la-célula) |
+| 21 | D | Causa de los fragmentos de Okazaki (busca la incorrecta) | [8.1](#81-replicación-del-adn) |
+| 22 | C | Cromosomas acrocéntricos | [8.9](#89-cromosomas-morfología-y-cariotipo) |
+| 23 | C | Sin p53, el ciclo sigue con ADN dañado | [3.13](#313-respuesta-al-daño-del-adn-y-p53-diap-4345) |
+| 24 | C | Fase G2 | [3.5](#35-fase-g2-diap-17) |
+| 25 | B | Sin Rb, entrada descontrolada en S | [3.11](#311-mitógenos-y-punto-de-restricción-diap-3839) |
+| 26 | C | Punto de control M: unión al huso | [3.14](#314-punto-de-control-del-huso-sac-diap-46) |
+| 27 | B | Neuronas en G0: diferenciación terminal | [3.3](#33-fase-g1-y-el-estado-g0-diap-1114) |
+| 28 | C | CDK activadas por ciclinas | [3.8](#38-el-motor-cdk-y-ciclinas-diap-2226) |
+| 29 | C | p53: arresto para reparar o apoptosis | [3.13](#313-respuesta-al-daño-del-adn-y-p53-diap-4345) |
+| 30 | D | EIM: autosómicos recesivos | [8.8](#88-herencia-penetrancia-y-expresividad), [4.4](#44-principios-para-el-diagnóstico-clínico-diap-10) |
+| 31 | B | Bloqueo enzimático: sustrato ↑, producto ↓ | [4.6](#46-grupo-1-metabolismo-intermediario-tipo-intoxicación-diap-1518) |
+| 32 | C | Diagnóstico temprano de los EIM | [4.2](#42-definiciones-y-generalidades-diap-57) |
+| 33 | *Sin sentido (nonsense)* | Código genético | [8.4](#84-código-genético-y-traducción) |
+| 34 | *Met-Ala-Phe-Asp* | Traducción | [8.4](#84-código-genético-y-traducción) |
+| 35 | *~20.000* | Genes codificantes | [8.7](#87-frecuencia-origen-y-efecto-de-las-variantes) |
+| 36 | *Asociación* | Dismorfología | [2.9](#29-principios-de-dismorfología-diap-3950) |
+| 37–40 | *Ver abajo* | Tamizaje neonatal en Colombia | [4.3](#43-epidemiología-y-tamizaje-neonatal-en-colombia-diap-89) |
+
+### Variación genética y cáncer hereditario (P1–P5)
+
+**P1.** Sobre las variantes genéticas: A) la mayoría de las *de novo* ocurre en las semanas 4–8 del embarazo · B) son frecuentes cuando están en más del 50 % de la población · C) las variantes en sitios canónicos de *splicing* pueden causar enfermedad · D) la gran mayoría de las variantes del genoma son deletéreas.
+
+<details><summary>Respuesta P1</summary>
+
+**C.** Los sitios canónicos (GT al inicio y AG al final del intrón) son casi invariables; cambiarlos suele abolir el *splicing* y produce un alelo nulo.
+- A: la mayoría de las *de novo* nace en la **línea germinal paterna**, antes de la fecundación. Las semanas 4–8 son el periodo de mayor sensibilidad a teratógenos.
+- B: el umbral de "variante frecuente" (polimorfismo) es **≥ 1 %**.
+- D: es al revés; casi todas son **benignas**.
+</details>
+
+**P2.** El cáncer de mama y ovario hereditario por *BRCA1/BRCA2* es: A) AD con penetrancia completa · B) AD con penetrancia incompleta · C) AR con penetrancia completa · D) AR con penetrancia incompleta.
+
+<details><summary>Respuesta P2</summary>
+
+**B.** Basta un alelo mutado heredado (dominante), pero no todas las portadoras desarrollan cáncer: ~70 % de riesgo de mama a los 80 años, no 100 % (penetrancia incompleta). Modifican el riesgo el gen, el sexo, la edad, los factores hormonales y reproductivos y las variantes de riesgo poligénico.
+</details>
+
+**P3.** Un carcinoma ovárico tiene la variante germinal *BRCA2* **c.5946delT** (deleción de una timina en la secuencia codificante). Su consecuencia sobre la traducción es: A) pérdida de un solo aminoácido · B) cambio del marco de lectura con secuencia aberrante y codón de parada prematuro corriente abajo · C) mutación silenciosa · D) duplicación en tándem de exones por *splicing* alternativo.
+
+<details><summary>Respuesta P3</summary>
+
+**B.** Una deleción de 1 nt no es múltiplo de 3: corre el marco y pronto aparece un codón de parada (p.Ser1982Argfs\*22). Perder un solo aminoácido exigiría una deleción de 3 nt. ➕ Es la variante fundadora asquenazí 6174delT del capítulo 5, en nomenclatura moderna.
+</details>
+
+**P4.** ¿Por qué los inhibidores de PARP destruyen selectivamente las células tumorales con *BRCA1/2* deletéreo? A) Letalidad sintética por bloqueo simultáneo de la reparación de roturas de cadena sencilla y de doble cadena · B) activación de NHEJ exclusiva del tumor · C) transición G1→S sin puntos de control · D) inhibición del MMR.
+
+<details><summary>Respuesta P4</summary>
+
+**A.** El fármaco bloquea (y atrapa) a PARP, que repara las SSB; al replicar, esas SSB se vuelven DSB, y el tumor sin BRCA no puede repararlas por recombinación homóloga. Las células sanas de la portadora conservan un alelo de BRCA y reparan.
+⚠️ Matiz: el fármaco solo bloquea la reparación de SSB; el defecto de la reparación de DSB lo pone el tumor. Por eso la combinación es letal solo en el tumor.
+</details>
+
+**P5.** Sobre las variantes fuera de las regiones exónicas: A) se han asociado a enfermedades humanas · B) las intrónicas siempre causan pérdida de función · C) son menos frecuentes que las exónicas y no se estudian · D) producen cambios sinónimos.
+
+<details><summary>Respuesta P5</summary>
+
+**A.** Ejemplos: X frágil (5′-UTR de *FMR1*), ataxia de Friedreich (intrón 1 de *FXN*), distrofia miotónica 1 (3′-UTR de *DMPK*), β-talasemia (promotor e intrones de *HBB*). B usa "siempre" (casi todas las intrónicas son benignas); C es falso porque el 98–99 % del genoma es no codificante; D es falso porque "sinónima" se refiere a un codón, dentro de un exón.
+</details>
+
+### Bioinformática (P6–P8)
+
+**P6.** En programación, un algoritmo es: A) un lenguaje de alto nivel exclusivo de la bioinformática · B) reglas gramaticales que separan el lenguaje natural del de programación · C) un sistema operativo para supercomputadores · D) una serie de pasos específicos y precisos para resolver un problema.
+
+<details><summary>Respuesta P6</summary>
+
+**D.** Es la definición de la clase. El **lenguaje de programación** es el conjunto de reglas con que se comunica ese algoritmo a la máquina.
+</details>
+
+**P7.** Un investigador deposita sus secuencias en GenBank; el repositorio no las revisa y permite variación en la anotación. GenBank es una base: A) secundaria, por ser de dominio público · B) primaria: el investigador tiene control editorial, no hay vocabulario controlado y puede haber redundancia · C) secundaria, curada por expertos con vocabulario controlado · D) primaria, curada por un comité científico.
+
+<details><summary>Respuesta P7</summary>
+
+**B.** Las tres características de una base primaria están en el enunciado. A falla porque el acceso público no define el tipo; C describe una secundaria (OMIM, RefSeq, UniProtKB/Swiss-Prot); D mezcla "primaria" con curaduría, que es propia de las secundarias.
+</details>
+
+**P8.** Una de las bases de datos más grandes sobre enfermedades de herencia mendeliana es: A) dbSNP · B) Ensembl · C) OMIM · D) MeSH.
+
+<details><summary>Respuesta P8</summary>
+
+**C. OMIM** (*Online Mendelian Inheritance in Man*, de Victor McKusick). dbSNP guarda variantes cortas (identificadores rs); Ensembl es un navegador de genomas; MeSH es el vocabulario controlado de PubMed.
+</details>
+
+### Genética del desarrollo y dismorfología (P9–P12, P36)
+
+**P9.** Mutaciones en *Ubx* (*Ultrabithorax*) de *Drosophila* producen alas en un segmento torácico donde no deberían estar. Por la pérdida de identidad del segmento, *Ubx* es un gen: A) materno · B) *gap* · C) Hox · D) de polaridad segmentaria.
+
+<details><summary>Respuesta P9</summary>
+
+**C. Hox (homeótico).** Los Hox dan **identidad** a cada segmento; su mutación produce una **transformación homeótica** (el tercer segmento torácico se convierte en el segundo y la mosca tiene cuatro alas). Los maternos establecen los ejes; los *gap* hacen que falten grupos de segmentos contiguos; los de polaridad segmentaria definen la parte anterior y posterior de cada segmento.
+</details>
+
+**P10.** El borrado de información epigenética durante la embriogénesis: A) disminuye la potencialidad y la diferenciación · B) disminuye la potencialidad y aumenta la diferenciación · C) aumenta la potencialidad y la diferenciación · D) aumenta la potencialidad y reduce la diferenciación.
+
+<details><summary>Respuesta P10</summary>
+
+**D.** Borrar las marcas devuelve a las células a un estado **más primitivo**: más potencialidad (cigoto totipotente, epiblasto pluripotente, células germinales primordiales) y menos diferenciación. La diferenciación posterior consiste en **escribir** marcas que restringen el destino. Es lo mismo que logran los factores de Yamanaka al reprogramar.
+</details>
+
+**P11.** Sobre las familias de genes del desarrollo: A) involucran procesos de regulación simples y a menudo no relacionados · B) tienen un número reducido de miembros encargados de un gran número de procesos · C) son muy variables entre especies, lo que explica la diversidad · D) los organismos son poco resilientes a sus mutaciones, que causan letalidad temprana.
+
+<details><summary>Respuesta P11 (⚠️ la más discutible)</summary>
+
+**D, siguiendo las diapositivas.** La clase dice que las mutaciones en genes del desarrollo como los HOX "conducen a menudo a letalidad fetal" (Diap. 30). Cada opción falsa contradice otra idea de la clase:
+- A: el desarrollo es una serie **compleja y altamente coordinada** de pasos, controlada por redes regulatorias (Diap. 16).
+- B: la clase dice que hay un **gran número** de familias de genes del desarrollo (Diap. 12).
+- C: las vías están **conservadas** en la evolución (los Hox de la mosca y del humano son homólogos); por eso sirven los organismos modelo.
+- ⚠️ Matiz: la **redundancia** entre genes parálogos amortigua muchas mutaciones, y los síndromes HOX humanos conocidos son compatibles con la vida. Además, las vías del desarrollo se **reutilizan** en muchos procesos (pleiotropía), lo que podría hacer pensar en B. Si el profesor publica la clave, confírmala.
+</details>
+
+**P12.** En el síndrome de DiGeorge (deleción 22q11.2), *TBX1* es el principal contribuyente al fenotipo porque: A) es un factor de transcripción y regula múltiples genes · B) es el único gen del desarrollo cardiaco · C) codifica una proteína estructural del corazón · D) la herencia es recesiva ligada al X.
+
+<details><summary>Respuesta P12</summary>
+
+**A.** *TBX1* es un factor de transcripción T-box que controla genes del aparato faríngeo; con una sola copia (haploinsuficiencia), fallan los derivados de los arcos y bolsas faríngeas: tracto de salida del corazón, timo, paratiroides y paladar. B, C y D son falsas: hay muchos genes cardiacos, no es estructural y la deleción es autosómica (dominante, casi siempre *de novo*).
+</details>
+
+**P36.** Un grupo de malformaciones que ocurren juntas con más frecuencia de lo esperado, sin un patrón etiológico unificado o conocido, es una: **asociación**.
+
+<details><summary>Respuesta P36</summary>
+
+**Asociación** (ejemplo: VACTERL). No es una secuencia (cascada desde una anomalía primaria, como Pierre Robin) ni un síndrome (patrón reconocible con causa conocida, como el Down).
+</details>
+
+### Técnicas de biología molecular (P13, P14, P18, P19)
+
+**P13.** Ciclo de PCR: etapa 1 a 94 °C (30 s), etapa 2 a 62 °C (10 s) y etapa 3 a 74 °C (1 min). ¿Cuál afirmación es **incorrecta**? A) En la etapa 1 el calor separa las hebras · B) en la etapa 2 los cebadores se unen por complementariedad · C) la etapa 3 se alarga si el fragmento es más largo · D) la temperatura de la etapa 2 debe ser siempre mayor que la de la etapa 3.
+
+<details><summary>Respuesta P13</summary>
+
+**D** (es la incorrecta). El alineamiento (etapa 2) siempre va **por debajo** de la extensión (etapa 3, temperatura óptima de la Taq, ~72 °C). La especificidad depende de que el alineamiento esté cerca de la Tm de los cebadores, no de que supere a la extensión. C es correcta: la Taq copia ~1 kb por minuto.
+</details>
+
+**P14.** El principio de la secuenciación masiva de Illumina: a) detecta protones liberados en la polimerización · b) usa terminadores reversibles que incorporan un solo nucleótido por ciclo · c) no requiere amplificación previa · d) secuencia una única molécula sin amplificación en puente.
+
+<details><summary>Respuesta P14</summary>
+
+**b.** Illumina amplifica cada fragmento en un *cluster* (amplificación en puente) y lo secuencia por síntesis con **nucleótidos terminadores reversibles** marcados con fluorescencia: entra una base por ciclo, se toma una imagen, se retira el bloqueo y se repite. a) es Ion Torrent; c) y d) describen PacBio y Oxford Nanopore (molécula única).
+</details>
+
+**P18.** Un plásmido tiene origen de replicación, **promotor CMV**, sitio múltiple de clonación (BamHI, XbaI, SalI, HindIII), cola de poli(A) y resistencia a ampicilina. Es cierto que: A) es de expresión porque tiene resistencia a ampicilina · B) es de expresión porque tiene el promotor CMV · C) clona fragmentos de hasta 500 kb · D) es un BAC.
+
+<details><summary>Respuesta P18</summary>
+
+**B.** El promotor CMV (con la señal de poli(A)) es lo que permite **expresar** el inserto en células de mamífero. La resistencia a ampicilina solo selecciona las bacterias que tienen el plásmido. Un plásmido acepta insertos de menos de ~15 kb; 500 kb está en el rango de YAC y MAC; el BAC se basa en el plásmido F y lleva resistencia a cloranfenicol. ➕ Si lees la secuencia del sitio de clonación (CGGATCC TCTAGA GTCGAC CTGCAG AAGCTT), también aparece un sitio de PstI (CTGCAG).
+</details>
+
+**P19.** Sobre los vectores de expresión en células de mamífero: A) necesitan un origen de replicación funcional en bacterias y en mamíferos · B) no necesitan marcadores de selección porque siempre se integran · C) aceptan más de 500 kb · D) requieren un promotor fuerte (p. ej., CMV) y una señal de poliadenilación.
+
+<details><summary>Respuesta P19</summary>
+
+**D.** A es falsa: basta el origen **bacteriano**, que sirve para producir el plásmido en *E. coli*; un origen de mamífero (SV40) solo funciona en células especiales (COS, HEK293T). B es falsa: la integración es rara y al azar, y para obtener líneas estables se selecciona con neomicina (G418), puromicina o higromicina. C es falsa: son plásmidos.
+</details>
+
+### Bases moleculares (P15–P17, P20–P22, P33–P35)
+
+**P15.** El ARNr representa del ARN celular total de una célula eucariota: A) 1–5 % · B) ~15 % · C) ~80 % · D) más del 95 %.
+
+<details><summary>Respuesta P15</summary>
+
+**C, ~80 %.** El ~15 % es el ARNt y el 1–5 %, el ARNm.
+</details>
+
+**P16.** Durante la replicación del ADN: A) la cadena líder se sintetiza de forma discontinua · B) la retardada se sintetiza 5′→3′ pero de forma discontinua, en fragmentos de Okazaki · C) la helicasa no consume ATP · D) la primasa sintetiza cebadores de ADN.
+
+<details><summary>Respuesta P16</summary>
+
+**B.** La líder es continua; la helicasa hidroliza ATP; la primasa hace cebadores de **ARN**.
+</details>
+
+**P17.** En la regulación de la transcripción eucariota: A) un *enhancer* es un elemento en *trans* que puede estar lejos del gen · B) las modificaciones de histonas y la metilación del ADN alteran la accesibilidad de la cromatina · C) los miARN son factores de transcripción que se unen a promotores · D) la ARN Pol II inicia sin factores generales.
+
+<details><summary>Respuesta P17</summary>
+
+**B.** El *enhancer* es *cis*; los miARN actúan sobre el ARNm, después de la transcripción; la Pol II necesita TFIID (TBP) y los demás factores generales.
+</details>
+
+**P20.** Propia de los ARNm procariotas y no de los eucariotas típicos: a) caperuza 5′ · b) cola de poli(A) · c) naturaleza policistrónica · d) regiones UTR.
+
+<details><summary>Respuesta P20</summary>
+
+**c.** Un ARNm bacteriano puede codificar varias proteínas (operón). La caperuza y la cola son eucariotas; las UTR existen en ambos.
+</details>
+
+**P21.** Los fragmentos de Okazaki se deben a... ¿cuál afirmación es **incorrecta**? A) La polimerasa solo añade nucleótidos 5′→3′ · B) las hebras son antiparalelas · C) la horquilla avanza en una dirección y la hebra retrasada se sintetiza en la opuesta · D) la ADN polimerasa tiene actividad correctora 3′→5′.
+
+<details><summary>Respuesta P21</summary>
+
+**D.** Es un dato cierto, pero no explica los fragmentos. A, B y C juntas sí los explican.
+</details>
+
+**P22.** Los cromosomas acrocéntricos se caracterizan por: A) centrómero central · B) centrómero en el extremo · C) brazo corto muy pequeño, a menudo con satélites · D) no tener brazo corto.
+
+<details><summary>Respuesta P22</summary>
+
+**C.** Son el 13, 14, 15, 21 y 22. A describe al metacéntrico; B y D, al telocéntrico, que no existe en el humano.
+</details>
+
+**P33.** Según el código genético, la variante **TAT → TAG** es, por su efecto en la proteína, de tipo: **sin sentido (*nonsense*)**.
+
+<details><summary>Respuesta P33</summary>
+
+TAT (UAU en el ARNm) codifica **tirosina**; TAG (UAG) es un **codón de parada**. Un aminoácido se reemplaza por una parada: variante **sin sentido**, que trunca la proteína.
+</details>
+
+**P34.** El ARNm 5′-AUG GCA UUC GAC UAA-3′ produce el péptido: **Met-Ala-Phe-Asp**.
+
+<details><summary>Respuesta P34</summary>
+
+AUG = Met, GCA = Ala, UUC = Phe, GAC = Asp, UAA = parada (no añade aminoácido). En código de una letra: **MAFD**.
+</details>
+
+**P35.** El genoma humano tiene aproximadamente **~20.000** genes codificantes de proteínas.
+
+<details><summary>Respuesta P35</summary>
+
+**~19.000–20.000** (GENCODE/Ensembl). La cifra de 20.000–25.000 de la clase de bioinformática es la estimación de 2004.
+</details>
+
+### Ciclo celular (P23–P29)
+
+**P23.** Una célula sin p53 funcional: A) no sintetiza ADN en S · B) entra para siempre en G0 · C) sigue el ciclo aunque tenga daño en el ADN · D) no forma el huso.
+
+<details><summary>Respuesta P23</summary>
+
+**C.** Sin p53 no se induce p21 (ni el arresto en G1/S) ni la apoptosis: la célula replica y divide un ADN dañado y acumula mutaciones. Por eso *TP53* es el gen más mutado en cáncer.
+</details>
+
+**P24.** Una célula con el ADN completamente duplicado que sigue creciendo y sintetiza proteínas para la mitosis está en: A) G1 · B) S · C) G2 · D) M.
+
+<details><summary>Respuesta P24</summary>
+
+**C. G2.** "ADN ya duplicado" descarta G1 y S; "aún preparándose" descarta M.
+</details>
+
+**P25.** Una mutación que anula la función de Rb produce: A) bloqueo metafase→anafase · B) entrada incontrolada en S · C) incapacidad de sintetizar histonas · D) apoptosis permanente.
+
+<details><summary>Respuesta P25</summary>
+
+**B.** Rb secuestra a E2F; sin Rb, E2F queda libre, transcribe los genes de fase S y la célula pasa el punto de restricción sin depender de los mitógenos.
+</details>
+
+**P26.** El punto de control M (mitótico) evalúa específicamente: A) nutrientes · B) errores de replicación · C) la correcta unión de los cromosomas al huso · D) la duplicación de los centriolos.
+
+<details><summary>Respuesta P26</summary>
+
+**C.** Es el punto de control del huso (SAC): un solo cinetocoro sin unir basta para frenar la anafase. Los nutrientes se evalúan en G1/S y la replicación completa, en G2/M.
+</details>
+
+**P27.** Las neuronas maduras permanecen en G0 porque: A) no tienen ADN funcional · B) son células terminalmente diferenciadas que salieron del ciclo · C) carecen por completo de CDK · D) no sintetizan proteínas.
+
+<details><summary>Respuesta P27</summary>
+
+**B.** G0 no es inactividad: las neuronas transcriben, sintetizan proteínas y conservan CDK (CDK5 tiene funciones neuronales), pero no ciclan.
+</details>
+
+**P28.** Mecanismo de acción de las CDK: A) actividad constante sin regulación · B) las ciclinas son las enzimas que fosforilan · C) las CDK se activan al unirse a ciclinas específicas y regulan las transiciones de fase · D) las ciclinas inhiben a las CDK.
+
+<details><summary>Respuesta P28</summary>
+
+**C.** Las **CDK** son las cinasas (su nivel es constante); las **ciclinas** son las subunidades reguladoras que oscilan y las activan. B y D invierten los papeles.
+</details>
+
+**P29.** La función principal de p53 ante el daño del ADN es: A) estimular la entrada en S · B) sintetizar ADN para reemplazar el dañado · C) detener el ciclo para reparar o inducir apoptosis si el daño es irreparable · D) degradar las ciclinas M.
+
+<details><summary>Respuesta P29</summary>
+
+**C.** p53 es un factor de transcripción: induce p21 (arresto), genes de reparación y PUMA, BAX y NOXA (apoptosis). La degradación de la ciclina B la hace el APC/C.
+</details>
+
+### Errores innatos del metabolismo (P30–P32, P37–P40)
+
+**P30.** La mayoría de los EIM se heredan de forma: A) autosómica dominante · B) mitocondrial · C) ligada al Y · D) autosómica recesiva.
+
+<details><summary>Respuesta P30</summary>
+
+**D.** Son defectos enzimáticos y el ~50 % de actividad del heterocigoto suele bastar. Por eso los casos parecen esporádicos y la consanguinidad aumenta el riesgo.
+</details>
+
+**P31.** Principal consecuencia bioquímica de un defecto enzimático: A) disminución de todas las proteínas · B) acumulación del sustrato y/o deficiencia del producto · C) aceleración de todas las reacciones · D) duplicación de la vía.
+
+<details><summary>Respuesta P31</summary>
+
+**B.** Ejemplo: en la PKU se acumula fenilalanina (sustrato) y falta tirosina (producto); además se activan vías alternas (fenilcetonas).
+</details>
+
+**P32.** El diagnóstico temprano de los EIM es importante porque: A) todos tienen cura · B) la mayoría desaparece en la infancia · C) algunas complicaciones neurológicas y sistémicas pueden prevenirse con tratamiento oportuno · D) no hay pruebas después del periodo neonatal.
+
+<details><summary>Respuesta P32</summary>
+
+**C.** Muchos EIM tratables (sobre todo los de tipo intoxicación) dejan secuelas permanentes si se tratan tarde. A, B y D son generalizaciones falsas.
+</details>
+
+**P37–P40.** Mencione cinco enfermedades del programa de tamizaje neonatal en Colombia (2 puntos) y explique por qué la detección temprana de una de ellas puede modificar el pronóstico (2 puntos).
+
+<details><summary>Respuesta P37–P40 (modelo)</summary>
+
+**Cinco de las siete del tamizaje básico** (Ley 1980 de 2019; obligatorias desde la Resolución 117 de 2026): hipotiroidismo congénito, fenilcetonuria, galactosemia, fibrosis quística, hiperplasia suprarrenal congénita, déficit de biotinidasa y defectos de la hemoglobina (hemoglobinopatías). 🧠 "Tiroides, Fenil, Galacto, Fibro, Supra, Bio, Hemo".
+
+**Ejemplo de justificación (escoge una):**
+- **Hipotiroidismo congénito**: el recién nacido parece sano, pero sin hormona tiroidea el cerebro no se desarrolla bien. Si se inicia **levotiroxina en las primeras dos semanas** de vida, se **previene la discapacidad intelectual** y el retraso del crecimiento.
+- **Fenilcetonuria**: una **dieta restringida en fenilalanina** desde las primeras semanas evita que la fenilalanina se acumule y dañe el cerebro: se previenen la **discapacidad intelectual grave**, las convulsiones y los problemas de conducta.
+
+Una buena respuesta tiene tres partes: (1) la enfermedad tiene una **fase sin síntomas** en que el daño aún no ocurre; (2) existe un **tratamiento eficaz**; (3) aplicarlo **antes** de los síntomas **previene la secuela**. Otras opciones en la [sección 4.3](#43-epidemiología-y-tamizaje-neonatal-en-colombia-diap-89).
+</details>
+
+### Lo que enseña este parcial
+
+- **El peso de cada tema**: ciclo celular, 7 preguntas; bases moleculares (replicación, transcripción, ARN, código, cromosomas), 9; variación genética y cáncer hereditario, 5; técnicas, 4; desarrollo y dismorfología, 5; bioinformática, 3; EIM, 3 más la pregunta abierta de tamizaje (P37–P40).
+- **Qué tipo de pregunta usan**: definiciones de la clase casi textuales (algoritmo, asociación, base primaria); consecuencias de perder un gen (p53, Rb, BRCA); preguntas con "siempre", "nunca" o "exclusivamente", que casi siempre son falsas; y preguntas que piden la afirmación **incorrecta** (P13, P21): léelas dos veces.
+- **Ejercicios que conviene practicar**: traducir un ARNm con la tabla del código, clasificar una variante a partir de un codón o de su nombre HGVS y leer un vector de clonación.
+
+[↑ Volver al índice general](#índice-general)
